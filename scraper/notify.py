@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sends upcoming race notifications via Telegram."""
+"""Sends upcoming TR race notifications via Telegram."""
 
 import json
 import os
@@ -14,9 +14,10 @@ load_dotenv(Path(__file__).parent.parent / ".env")
 
 TOKEN = os.environ.get("TELEGRAM_TOKEN")
 CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID")
+SITE_URL = os.environ.get("SITE_URL", "")
 DATA_FILE = Path(__file__).parent.parent / "data" / "races.json"
-
 DAYS_AHEAD = int(os.environ.get("NOTIFY_DAYS_AHEAD", 7))
+MAX_RACES = 10
 
 
 def load_races() -> list[dict]:
@@ -28,12 +29,12 @@ def load_races() -> list[dict]:
     return data.get("races", [])
 
 
-def upcoming(races: list[dict], days: int) -> list[dict]:
+def upcoming_tr(races: list[dict], days: int) -> list[dict]:
     today = date.today()
     cutoff = today + timedelta(days=days)
     result = []
     for r in races:
-        if not r.get("date"):
+        if not r.get("date") or not r.get("is_turkey"):
             continue
         try:
             race_date = date.fromisoformat(r["date"])
@@ -47,26 +48,42 @@ def upcoming(races: list[dict], days: int) -> list[dict]:
 
 def format_message(races: list[dict], days: int) -> str:
     if not races:
-        return f"Önümüzdeki {days} günde kayda değer bir yarış yok."
+        return f"Önümüzdeki {days} günde Türkiye'de yarış yok."
 
-    lines = [f"🏃 *Önümüzdeki {days} Günün Yarışları*\n"]
-    for r in races:
+    total = len(races)
+    shown = races[:MAX_RACES]
+
+    lines = [f"🏃 *Bu Haftanın Türkiye Yarışları*\n"]
+
+    current_date = None
+    for r in shown:
         try:
             d = date.fromisoformat(r["date"])
             date_fmt = d.strftime("%-d %B")
         except Exception:
             date_fmt = r["date"]
 
-        status = " ⚠️ ERTELENDİ" if r.get("status") == "postponed" else ""
-        distances = ", ".join(r["distances"][:4]) if r.get("distances") else ""
-        dist_str = f" — {distances}" if distances else ""
+        if date_fmt != current_date:
+            if current_date is not None:
+                lines.append("")
+            lines.append(f"📅 *{date_fmt}*")
+            current_date = date_fmt
+
+        status = " ⚠️ _ertelendi_" if r.get("status") == "postponed" else ""
+        distances = " · ".join(r["distances"][:4]) if r.get("distances") else ""
+        dist_str = f"\n🏅 {distances}" if distances else ""
         location = r.get("location", "")
-        loc_str = f" 📍 {location}" if location else ""
+        loc_str = f"\n📍 {location}" if location else ""
         link = r.get("link")
         name = r["name"]
-        name_str = f"[{name}]({link})" if link else name
+        name_str = f"[{name}]({link})" if link else f"*{name}*"
 
-        lines.append(f"*{date_fmt}*{status}\n{name_str}{dist_str}{loc_str}\n")
+        lines.append(f"{name_str}{status}{loc_str}{dist_str}")
+
+    if total > MAX_RACES:
+        extra = total - MAX_RACES
+        site_str = f" → {SITE_URL}" if SITE_URL else ""
+        lines.append(f"\n_+{extra} yarış daha{site_str}_")
 
     return "\n".join(lines)
 
@@ -89,7 +106,7 @@ def send_telegram(text: str):
 
 def main():
     races = load_races()
-    upcoming_races = upcoming(races, DAYS_AHEAD)
+    upcoming_races = upcoming_tr(races, DAYS_AHEAD)
     msg = format_message(upcoming_races, DAYS_AHEAD)
     print(msg)
     send_telegram(msg)
