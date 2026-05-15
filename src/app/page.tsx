@@ -1,4 +1,3 @@
-import { Trophy, RefreshCw } from "lucide-react";
 import RaceList from "@/components/RaceList";
 import ThemeToggle from "@/components/ThemeToggle";
 import type { Race, RacesData, ScheduledRace } from "@/types";
@@ -32,48 +31,31 @@ export default async function HomePage() {
 
   return (
     <main className="min-h-screen bg-white dark:bg-zinc-950 text-zinc-900 dark:text-white">
-      <div className="border-b border-zinc-200 dark:border-zinc-800 bg-gradient-to-b from-zinc-50 to-white dark:from-zinc-900 dark:to-zinc-950">
-        <div className="max-w-6xl mx-auto px-4 py-12 sm:py-16">
-          <div className="flex items-start justify-between">
-            <div className="flex items-center gap-3 mb-4">
-              <div className="p-2 bg-indigo-50 dark:bg-indigo-600/20 rounded-lg border border-indigo-200 dark:border-indigo-500/30">
-                <Trophy size={20} className="text-indigo-600 dark:text-indigo-400" />
-              </div>
-              <span className="text-sm text-indigo-600 dark:text-indigo-400 font-medium">teamrunbo.com verisi</span>
+      {/* Compact sticky header */}
+      <header className="sticky top-0 z-20 h-14 border-b border-zinc-200 dark:border-zinc-800 bg-white/90 dark:bg-zinc-950/90 backdrop-blur-sm">
+        <div className="max-w-6xl mx-auto px-4 h-full flex items-center justify-between gap-4">
+          <div className="flex items-center gap-2.5">
+            <span className="text-xl">🏃</span>
+            <span className="font-bold text-base tracking-tight">Yarış Takvimi</span>
+          </div>
+
+          <div className="flex items-center gap-4">
+            <div className="hidden sm:flex items-center gap-3 text-sm">
+              <span className="flex items-center gap-1.5 text-zinc-500 dark:text-zinc-400">
+                <span className="w-1.5 h-1.5 rounded-full bg-zinc-400 dark:bg-zinc-500 shrink-0" />
+                {upcoming.length} yaklaşan
+              </span>
+              <span className="flex items-center gap-1.5 text-green-600 dark:text-green-400">
+                <span className="w-1.5 h-1.5 rounded-full bg-green-500 shrink-0" />
+                {thisWeekCount} bu hafta
+              </span>
             </div>
             <ThemeToggle />
           </div>
-
-          <h1 className="text-3xl sm:text-4xl font-bold tracking-tight mb-3">Yarış Takvimi</h1>
-          <p className="text-zinc-500 dark:text-zinc-400 text-lg mb-6">
-            Türkiye ve dünya trail, ultra, maraton yarışları
-          </p>
-
-          <div className="flex gap-6">
-            <div>
-              <div className="text-2xl font-bold">{upcoming.length}</div>
-              <div className="text-xs text-zinc-500">Yaklaşan yarış</div>
-            </div>
-            <div>
-              <div className="text-2xl font-bold text-green-600 dark:text-green-400">{thisWeekCount}</div>
-              <div className="text-xs text-zinc-500">Bu hafta</div>
-            </div>
-            <div>
-              <div className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">{races.length}</div>
-              <div className="text-xs text-zinc-500">Toplam</div>
-            </div>
-          </div>
-
-          {updated && (
-            <p className="mt-4 text-xs text-zinc-400 dark:text-zinc-600 flex items-center gap-1">
-              <RefreshCw size={10} />
-              Son güncelleme: {new Date(updated).toLocaleString("tr-TR")}
-            </p>
-          )}
         </div>
-      </div>
+      </header>
 
-      <div className="max-w-6xl mx-auto px-4 py-8">
+      <div className="max-w-6xl mx-auto px-4 py-6">
         {races.length === 0 ? (
           <div className="text-center py-20 text-zinc-500">
             <p className="text-lg mb-2">Veri bulunamadı</p>
@@ -86,6 +68,14 @@ export default async function HomePage() {
           <RaceList races={upcoming} />
         )}
       </div>
+
+      <footer className="border-t border-zinc-100 dark:border-zinc-900 mt-8">
+        <div className="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between text-xs text-zinc-400 dark:text-zinc-600">
+          <span>Veri kaynağı: teamrunbo.com</span>
+          <span>made by hellopettek</span>
+          {updated && <span>Son güncelleme: {new Date(updated).toLocaleString("tr-TR")}</span>}
+        </div>
+      </footer>
     </main>
   );
 }

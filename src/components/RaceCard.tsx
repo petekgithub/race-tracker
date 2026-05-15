@@ -1,6 +1,15 @@
 import { MapPin, Calendar, ExternalLink, Clock } from "lucide-react";
 import type { ScheduledRace } from "@/types";
 
+const TYPE_BADGE: Record<string, { emoji: string; label: string; className: string }> = {
+  trail:        { emoji: "⛰️", label: "Trail",       className: "bg-emerald-50 dark:bg-emerald-950/40 text-emerald-700 dark:text-emerald-400" },
+  road:         { emoji: "🛣️", label: "Yol",         className: "bg-blue-50 dark:bg-blue-950/40 text-blue-700 dark:text-blue-400" },
+  cycling:      { emoji: "🚵", label: "Bisiklet",    className: "bg-orange-50 dark:bg-orange-950/40 text-orange-700 dark:text-orange-400" },
+  swimming:     { emoji: "🏊", label: "Yüzme",       className: "bg-cyan-50 dark:bg-cyan-950/40 text-cyan-700 dark:text-cyan-400" },
+  orienteering: { emoji: "🧭", label: "Oryantiring", className: "bg-purple-50 dark:bg-purple-950/40 text-purple-700 dark:text-purple-400" },
+  skyrace:      { emoji: "🏔️", label: "Skyrace",     className: "bg-slate-50 dark:bg-slate-800/60 text-slate-700 dark:text-slate-300" },
+};
+
 function formatDate(iso: string): string {
   try {
     return new Date(iso + "T00:00:00").toLocaleDateString("tr-TR", {
@@ -27,6 +36,7 @@ export default function RaceCard({ race }: { race: ScheduledRace }) {
   const days = daysUntil(race.date);
   const isPostponed = race.status === "postponed";
   const isSoon = days <= 7;
+  const typeBadge = race.type ? TYPE_BADGE[race.type] : null;
 
   return (
     <div className={`relative rounded-xl border p-5 flex flex-col gap-3 transition-all ${
@@ -36,13 +46,21 @@ export default function RaceCard({ race }: { race: ScheduledRace }) {
         ? "border-green-300/60 dark:border-green-700/60 bg-green-50/30 dark:bg-green-950/20"
         : "border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-900/50 hover:border-zinc-400 dark:hover:border-zinc-600"
     }`}>
-      {isPostponed && (
-        <span className="absolute top-3 right-3 text-xs bg-yellow-100 dark:bg-yellow-900/60 text-yellow-700 dark:text-yellow-300 px-2 py-0.5 rounded-full">
-          Ertelendi
-        </span>
-      )}
-
-      <h3 className="font-semibold text-base leading-snug text-zinc-900 dark:text-white">{race.name}</h3>
+      <div className="flex items-start justify-between gap-2">
+        <h3 className="font-semibold text-base leading-snug text-zinc-900 dark:text-white">{race.name}</h3>
+        <div className="flex items-center gap-1.5 shrink-0">
+          {typeBadge && (
+            <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${typeBadge.className}`}>
+              {typeBadge.emoji} {typeBadge.label}
+            </span>
+          )}
+          {isPostponed && (
+            <span className="text-xs bg-yellow-100 dark:bg-yellow-900/60 text-yellow-700 dark:text-yellow-300 px-2 py-0.5 rounded-full">
+              Ertelendi
+            </span>
+          )}
+        </div>
+      </div>
 
       <div className="flex flex-wrap gap-x-4 gap-y-1.5 text-sm text-zinc-500 dark:text-zinc-400">
         <span className="flex items-center gap-1.5">
@@ -64,7 +82,7 @@ export default function RaceCard({ race }: { race: ScheduledRace }) {
       {race.distances.length > 0 && (
         <div className="flex flex-wrap gap-1.5">
           {race.distances.slice(0, 5).map((d, i) => (
-            <span key={i} className="text-xs bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-300 px-2.5 py-1 rounded-full">
+            <span key={i} className="text-sm font-medium bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-200 px-3 py-1 rounded-full">
               {d}
             </span>
           ))}

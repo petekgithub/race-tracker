@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useRef } from "react";
 import { Search, ChevronLeft, ChevronRight } from "lucide-react";
 import RaceCard from "./RaceCard";
 import type { ScheduledRace } from "@/types";
@@ -47,17 +47,19 @@ export default function RaceList({ races }: { races: ScheduledRace[] }) {
   const [typeFilter, setTypeFilter] = useState<TypeFilter>("Tümü");
   const [region, setRegion] = useState<Region>("all");
   const [page, setPage] = useState(1);
+  const gridRef = useRef<HTMLDivElement>(null);
 
-  const filtered = useMemo(() => {
-    return races
+  const filtered = useMemo(() =>
+    races
       .filter(r => region === "all" || (region === "tr" ? r.is_turkey : !r.is_turkey))
       .filter(r => matchesTypeFilter(r, typeFilter))
       .filter(r => {
         if (!search) return true;
         const q = search.toLowerCase();
         return r.name.toLowerCase().includes(q) || r.location.toLowerCase().includes(q);
-      });
-  }, [races, search, typeFilter, region]);
+      }),
+    [races, search, typeFilter, region]
+  );
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   const currentPage = Math.min(page, totalPages);
@@ -65,52 +67,59 @@ export default function RaceList({ races }: { races: ScheduledRace[] }) {
 
   function resetPage() { setPage(1); }
 
+  function changePage(next: number) {
+    setPage(next);
+    gridRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
   return (
     <div className="flex flex-col gap-4">
-      {/* Region tabs */}
-      <div className="flex gap-1 p-1 bg-zinc-100 dark:bg-zinc-900 rounded-lg w-fit">
-        {REGIONS.map(r => (
-          <button
-            key={r.value}
-            onClick={() => { setRegion(r.value); resetPage(); }}
-            className={`text-xs px-3 py-1.5 rounded-md transition-all cursor-pointer font-medium ${
-              region === r.value
-                ? "bg-white dark:bg-zinc-700 text-zinc-900 dark:text-white shadow-sm"
-                : "text-zinc-500 hover:text-zinc-700 dark:hover:text-zinc-300"
-            }`}
-          >
-            {r.label}
-          </button>
-        ))}
-      </div>
+      {/* Sticky filter bar */}
+      <div className="sticky top-14 z-10 bg-white dark:bg-zinc-950 border-b border-zinc-100 dark:border-zinc-900 -mx-4 px-4 py-4 flex flex-col gap-3">
+        <div className="flex items-center gap-3 flex-wrap">
+          <div className="flex gap-1.5 p-1 bg-zinc-100 dark:bg-zinc-900 rounded-xl">
+            {REGIONS.map(r => (
+              <button
+                key={r.value}
+                onClick={() => { setRegion(r.value); resetPage(); }}
+                className={`text-sm px-4 py-2 rounded-lg transition-all cursor-pointer font-medium ${
+                  region === r.value
+                    ? "bg-white dark:bg-zinc-700 text-zinc-900 dark:text-white shadow-sm"
+                    : "text-zinc-500 hover:text-zinc-700 dark:hover:text-zinc-300"
+                }`}
+              >
+                {r.label}
+              </button>
+            ))}
+          </div>
 
-      {/* Search */}
-      <div className="relative">
-        <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-zinc-400 dark:text-zinc-500" />
-        <input
-          type="text"
-          value={search}
-          onChange={e => { setSearch(e.target.value); resetPage(); }}
-          placeholder="Yarış veya şehir ara..."
-          className="w-full bg-white dark:bg-zinc-900 border border-zinc-300 dark:border-zinc-700 rounded-lg pl-9 pr-4 py-2 text-sm text-zinc-900 dark:text-white placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none focus:border-indigo-500"
-        />
-      </div>
+          <div className="relative flex-1 min-w-48">
+            <Search size={13} className="absolute left-3 top-1/2 -translate-y-1/2 text-zinc-400 dark:text-zinc-500" />
+            <input
+              type="text"
+              value={search}
+              onChange={e => { setSearch(e.target.value); resetPage(); }}
+              placeholder="Yarış veya şehir ara..."
+              className="w-full bg-white dark:bg-zinc-900 border border-zinc-200 dark:border-zinc-700 rounded-lg pl-8 pr-3 py-2 text-sm text-zinc-900 dark:text-white placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none focus:border-indigo-500"
+            />
+          </div>
+        </div>
 
-      {/* Type filters */}
-      <div className="flex gap-2 flex-wrap">
-        {TYPE_FILTERS.map(f => (
-          <button
-            key={f}
-            onClick={() => { setTypeFilter(f); resetPage(); }}
-            className={`text-xs px-3 py-1.5 rounded-full border transition-all cursor-pointer ${
-              typeFilter === f
-                ? "bg-indigo-600 border-indigo-500 text-white"
-                : "bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-700 text-zinc-600 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500"
-            }`}
-          >
-            {f}
-          </button>
-        ))}
+        <div className="flex gap-2 flex-wrap">
+          {TYPE_FILTERS.map(f => (
+            <button
+              key={f}
+              onClick={() => { setTypeFilter(f); resetPage(); }}
+              className={`text-xs px-3 py-1.5 rounded-full border transition-all cursor-pointer ${
+                typeFilter === f
+                  ? "bg-indigo-600 border-indigo-500 text-white"
+                  : "bg-white dark:bg-zinc-900 border-zinc-200 dark:border-zinc-700 text-zinc-600 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500"
+              }`}
+            >
+              {f}
+            </button>
+          ))}
+        </div>
       </div>
 
       <p className="text-xs text-zinc-400 dark:text-zinc-500">{filtered.length} yarış bulundu</p>
@@ -119,7 +128,7 @@ export default function RaceList({ races }: { races: ScheduledRace[] }) {
         <p className="text-sm text-zinc-500 text-center py-12">Kriterlere uyan yarış bulunamadı.</p>
       ) : (
         <>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div ref={gridRef} className="grid grid-cols-1 sm:grid-cols-2 gap-4 scroll-mt-4">
             {visible.map((r, i) => (
               <RaceCard key={i} race={r} />
             ))}
@@ -128,7 +137,7 @@ export default function RaceList({ races }: { races: ScheduledRace[] }) {
           {totalPages > 1 && (
             <div className="flex items-center justify-center gap-2 pt-4">
               <button
-                onClick={() => setPage(p => Math.max(1, p - 1))}
+                onClick={() => changePage(Math.max(1, currentPage - 1))}
                 disabled={currentPage === 1}
                 className="p-2 rounded-lg border border-zinc-200 dark:border-zinc-700 text-zinc-600 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 disabled:opacity-30 disabled:cursor-not-allowed transition-all cursor-pointer"
               >
@@ -140,7 +149,7 @@ export default function RaceList({ races }: { races: ScheduledRace[] }) {
               </span>
 
               <button
-                onClick={() => setPage(p => Math.min(totalPages, p + 1))}
+                onClick={() => changePage(Math.min(totalPages, currentPage + 1))}
                 disabled={currentPage === totalPages}
                 className="p-2 rounded-lg border border-zinc-200 dark:border-zinc-700 text-zinc-600 dark:text-zinc-400 hover:border-zinc-400 dark:hover:border-zinc-500 disabled:opacity-30 disabled:cursor-not-allowed transition-all cursor-pointer"
               >

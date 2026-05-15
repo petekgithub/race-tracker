@@ -6,6 +6,7 @@ export interface Race {
   status: "confirmed" | "postponed" | "cancelled";
   link: string | null;
   is_turkey?: boolean;
+  type?: "trail" | "road" | "cycling" | "swimming" | "orienteering" | "skyrace" | "other";
 }
 
 export type ScheduledRace = Omit<Race, "date"> & { date: string };
