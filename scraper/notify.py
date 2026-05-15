@@ -46,6 +46,9 @@ def upcoming_tr(races: list[dict], days: int) -> list[dict]:
     return result
 
 
+DATE_HEADER = "━━━━━━━━━━━━━━━━━━━━"
+
+
 def format_message(races: list[dict], days: int) -> str:
     if not races:
         return f"Önümüzdeki {days} günde Türkiye'de yarış yok."
@@ -53,7 +56,7 @@ def format_message(races: list[dict], days: int) -> str:
     total = len(races)
     shown = races[:MAX_RACES]
 
-    lines = [f"🏃 *Bu Haftanın Türkiye Yarışları*\n"]
+    lines = ["🏃 *Bu Haftanın Türkiye Yarışları*"]
 
     current_date = None
     for r in shown:
@@ -64,26 +67,30 @@ def format_message(races: list[dict], days: int) -> str:
             date_fmt = r["date"]
 
         if date_fmt != current_date:
-            if current_date is not None:
-                lines.append("")
-            lines.append(f"📅 *{date_fmt}*")
+            lines.append(f"\n📅 *{date_fmt}*")
+            lines.append(DATE_HEADER)
             current_date = date_fmt
 
         status = " ⚠️ _ertelendi_" if r.get("status") == "postponed" else ""
         distances = " · ".join(r["distances"][:4]) if r.get("distances") else ""
-        dist_str = f"\n🏅 {distances}" if distances else ""
         location = r.get("location", "")
-        loc_str = f"\n📍 {location}" if location else ""
         link = r.get("link")
         name = r["name"]
-        name_str = f"[{name}]({link})" if link else f"*{name}*"
 
-        lines.append(f"{name_str}{status}{loc_str}{dist_str}")
+        card = [f"\n*{name}*{status}"]
+        if location:
+            card.append(f"📍 _{location}_")
+        if distances:
+            card.append(f"🏅 {distances}")
+        if link:
+            card.append(f"[Kayıt / Detay →]({link})")
+        lines.append("\n".join(card))
 
     if total > MAX_RACES:
         extra = total - MAX_RACES
-        site_str = f" → {SITE_URL}" if SITE_URL else ""
-        lines.append(f"\n_+{extra} yarış daha{site_str}_")
+        site_str = f"\n[Tümünü gör →]({SITE_URL})" if SITE_URL else ""
+        lines.append(f"\n{DATE_HEADER}")
+        lines.append(f"_+{extra} yarış daha_{site_str}")
 
     return "\n".join(lines)
 
