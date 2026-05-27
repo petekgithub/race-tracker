@@ -1,89 +1,7 @@
 {
-  "updated": "2026-05-23T08:56:26.788637",
+  "updated": "2026-05-27T10:45:57.633597",
   "count": 789,
   "races": [
-    {
-      "date": "2026-05-22",
-      "name": "Ohrid Ultra Trail",
-      "location": "Makedonya",
-      "distances": [
-        "10K",
-        "21K",
-        "42K",
-        "65K",
-        "105K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://ohridultratrail.com/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-05-23",
-      "name": "Run Caretta Run",
-      "location": "Muğla",
-      "distances": [
-        "5K",
-        "10K",
-        "21K",
-        "30K",
-        "50K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://runcarettarun.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) ITRA"
-    },
-    {
-      "date": "2026-05-23",
-      "name": "Mozart 100 by UTMB",
-      "location": "Avusturya, Salzburg",
-      "distances": [
-        "12K",
-        "28K",
-        "39K",
-        "72K",
-        "119K",
-        "Relay"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://mozart.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-05-23",
-      "name": "Transylvania 100",
-      "location": "Romanya",
-      "distances": [
-        "20K",
-        "30K",
-        "50K",
-        "80K",
-        "100K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.transylvania100k.com/",
-      "is_turkey": false,
-      "notes": "♥"
-    },
-    {
-      "date": "2026-05-23",
-      "name": "SkyRace Gorges du Tarn",
-      "location": "Fransa",
-      "distances": [
-        "25K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://www.lozeretrail.com/en-english/skyrace-gorges-du-tarn-en/",
-      "is_turkey": false,
-      "notes": "SKYRACE WS ⚪"
-    },
     {
       "date": "2026-05-23",
       "name": "Heliz Kaş Aquathlon",
@@ -11386,6 +11304,88 @@
       "link": "https://www.instagram.com/p/DX9TO7-jDHD/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-05-22",
+      "name": "Ohrid Ultra Trail",
+      "location": "Makedonya",
+      "distances": [
+        "10K",
+        "21K",
+        "42K",
+        "65K",
+        "105K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://ohridultratrail.com/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "name": "Run Caretta Run",
+      "location": "Muğla",
+      "distances": [
+        "5K",
+        "10K",
+        "21K",
+        "30K",
+        "50K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://runcarettarun.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) ITRA"
+    },
+    {
+      "date": "2026-05-23",
+      "name": "Mozart 100 by UTMB",
+      "location": "Avusturya, Salzburg",
+      "distances": [
+        "12K",
+        "28K",
+        "39K",
+        "72K",
+        "119K",
+        "Relay"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://mozart.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-05-23",
+      "name": "Transylvania 100",
+      "location": "Romanya",
+      "distances": [
+        "20K",
+        "30K",
+        "50K",
+        "80K",
+        "100K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.transylvania100k.com/",
+      "is_turkey": false,
+      "notes": "♥"
+    },
+    {
+      "date": "2026-05-23",
+      "name": "SkyRace Gorges du Tarn",
+      "location": "Fransa",
+      "distances": [
+        "25K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://www.lozeretrail.com/en-english/skyrace-gorges-du-tarn-en/",
+      "is_turkey": false,
+      "notes": "SKYRACE WS ⚪"
     }
   ]
 }
