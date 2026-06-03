@@ -1,81 +1,7 @@
 {
-  "updated": "2026-05-30T09:07:27.779145",
-  "count": 796,
+  "updated": "2026-06-03T11:50:06.259229",
+  "count": 804,
   "races": [
-    {
-      "date": "2026-05-29",
-      "name": "Mountain Ultra – Trail by UTMB",
-      "location": "Güney Afrika",
-      "distances": [
-        "25K",
-        "44K",
-        "58K",
-        "98K",
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://mut.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-05-29",
-      "name": "Swiss Canyon Trail",
-      "location": "İsviçre",
-      "distances": [
-        "16K",
-        "31K",
-        "51K",
-        "81K",
-        "111K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://swisscanyontrail.com/en/",
-      "is_turkey": false,
-      "notes": "*WTM*"
-    },
-    {
-      "date": "2026-05-30",
-      "name": "Magic Cappadocia Trail",
-      "location": "Nevşehir, Göreme",
-      "distances": [
-        "5 etaplı",
-        "100K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.trailtobealive.fr/course-a-pied-ou-rando-cappadoce/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) ITRA UTMB INDEX"
-    },
-    {
-      "date": "2026-05-30",
-      "name": "Stockholm Marathon",
-      "location": "İsveç",
-      "distances": [
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.stockholmmarathon.se/eng/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-05-30",
-      "name": "Dead Cow Gully (Backyard Ultra)",
-      "location": "Avustralya",
-      "distances": [
-        "6.7K ve katları"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "http://www.deadcowgully.com.au/",
-      "is_turkey": false,
-      "notes": "♥"
-    },
     {
       "date": "2026-06-01",
       "name": "ITRA Women’s Trail Week",
@@ -107,6 +33,17 @@
       "link": "https://tihiorace.gr/",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2026-06-03",
+      "name": "4. Kademe İl Yarışı ve Aile Oryantiring Yarışması",
+      "location": "İstanbul, Beylikdüzü",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.istanbuloryantiring.com.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-06-05",
@@ -215,7 +152,7 @@
       "type": "trail",
       "link": "https://www.traildugypaete.com/",
       "is_turkey": false,
-      "notes": "√"
+      "notes": ""
     },
     {
       "date": "2026-06-06",
@@ -345,6 +282,19 @@
       "notes": ""
     },
     {
+      "date": "2026-06-09",
+      "name": "ATATÜRK VE İSTİKLAL YOLU Yürüyüşü",
+      "location": "Kastamonu",
+      "distances": [
+        "95K (4 gün etaplı yürüyüş)"
+      ],
+      "status": "confirmed",
+      "type": "other",
+      "link": "https://kastamonu.gsb.gov.tr/HaberDetaylari/49/1/299944/ataturk-ve-istiklal-yolu-yuruyusu-basvurulari-basladi.aspx",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
       "date": "2026-06-11",
       "name": "Trail 100 Andorra by UTMB",
       "location": "İspanya",
@@ -377,6 +327,19 @@
       "link": "https://saint-jacques.utmb.world/",
       "is_turkey": false,
       "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-06-13",
+      "name": "Canicross Türkiye Bootcamp",
+      "location": "İstanbul, Kilyos",
+      "distances": [
+        "Köpekli koşu kampı"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.instagram.com/p/DZAqpRnI4qK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-06-13",
@@ -493,6 +456,17 @@
       "link": "https://www.edremityarimaratonu.com/tr",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-14",
+      "name": "5. Kademe İl Yarışı ve Aile Oryantiring Yarışması",
+      "location": "İstanbul, Avcılar",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.istanbuloryantiring.com.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-06-14",
@@ -673,6 +647,17 @@
       "link": "https://www.yesilaygeceyarimaratonu.com/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-21",
+      "name": "6. Kademe İl Yarışı ve Babalar Günü Oryantiring Yarışması",
+      "location": "İstanbul, Kadıköy Fenerbahçe",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.istanbuloryantiring.com.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-06-21",
@@ -1415,7 +1400,7 @@
       "type": "other",
       "link": "https://hyrox.com/event/hyrox-istanbul/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-08-01",
@@ -1921,6 +1906,17 @@
     },
     {
       "date": "2026-09-05",
+      "name": "HYROX ATHENS",
+      "location": "Yunanistan, Atina",
+      "distances": [],
+      "status": "confirmed",
+      "type": "other",
+      "link": "https://hyrox.com/event/hyrox-athens/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-09-05",
       "name": "Vertical & Trofeo Nasego",
       "location": "İtalya",
       "distances": [
@@ -2194,6 +2190,17 @@
       "link": "https://www.teamkronos.com/ultimate-cunda",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-09-19",
+      "name": "HYROX IZMIR",
+      "location": "İzmir",
+      "distances": [],
+      "status": "confirmed",
+      "type": "other",
+      "link": "https://hyrox.com/event/hyrox-izmir/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2026-09-19",
@@ -3870,6 +3877,22 @@
       "link": "https://kosuturkiye.com/uluslararasi-yalikavak-yari-maratonu/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2027-05-29",
+      "name": "Gebze Ultra Trail",
+      "location": "Kocaeli",
+      "distances": [
+        "8K",
+        "16K",
+        "27K",
+        "51K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.gebzeultratrail.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-06-13",
@@ -10925,7 +10948,8 @@
       "name": "Gebze Ultra Trail",
       "location": "Kocaeli",
       "distances": [
-        "10K",
+        "8K",
+        "16K",
         "27K",
         "51K"
       ],
@@ -11490,6 +11514,80 @@
       "link": "https://www.redbullxalps.com/int-en/",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2026-05-29",
+      "name": "Mountain Ultra – Trail by UTMB",
+      "location": "Güney Afrika",
+      "distances": [
+        "25K",
+        "44K",
+        "58K",
+        "98K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://mut.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-05-29",
+      "name": "Swiss Canyon Trail",
+      "location": "İsviçre",
+      "distances": [
+        "16K",
+        "31K",
+        "51K",
+        "81K",
+        "111K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://swisscanyontrail.com/en/",
+      "is_turkey": false,
+      "notes": "*WTM*"
+    },
+    {
+      "date": "2027-05-30",
+      "name": "Magic Cappadocia Trail",
+      "location": "Nevşehir, Göreme",
+      "distances": [
+        "5 etaplı",
+        "100K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.trailtobealive.fr/course-a-pied-ou-rando-cappadoce/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) ITRA UTMB INDEX"
+    },
+    {
+      "date": "2026-05-30",
+      "name": "Stockholm Marathon",
+      "location": "İsveç",
+      "distances": [
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.stockholmmarathon.se/eng/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-05-30",
+      "name": "Dead Cow Gully (Backyard Ultra)",
+      "location": "Avustralya",
+      "distances": [
+        "6.7K ve katları"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "http://www.deadcowgully.com.au/",
+      "is_turkey": false,
+      "notes": "♥"
     }
   ]
 }
