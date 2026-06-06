@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-03T11:50:06.259229",
-  "count": 804,
+  "updated": "2026-06-06T09:15:23.684843",
+  "count": 805,
   "races": [
     {
       "date": "2026-06-01",
@@ -212,6 +212,21 @@
       "link": "https://apphurra.com/etkinlik/yaren-leylek-kosusu",
       "is_turkey": true,
       "notes": "🇹🇷YENİ TARİH!"
+    },
+    {
+      "date": "2026-06-07",
+      "name": "En Temiz Koşu",
+      "location": "Bursa, İznik",
+      "distances": [
+        "9K",
+        "12K",
+        "Spogomi"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.plustimer.com/tr/yaris/en-temiz-kosu-2026",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Ücretsiz etkinliktir."
     },
     {
       "date": "2026-06-07",
