@@ -1,126 +1,7 @@
 {
-  "updated": "2026-06-10T10:47:53.579042",
-  "count": 809,
+  "updated": "2026-06-17T11:27:05.477877",
+  "count": 814,
   "races": [
-    {
-      "date": "2026-06-11",
-      "name": "Trail 100 Andorra by UTMB",
-      "location": "İspanya",
-      "distances": [
-        "10K",
-        "21K",
-        "50K",
-        "80K",
-        "105K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://andorra.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-06-12",
-      "name": "Trail du Saint – Jacques by UTMB",
-      "location": "Fransa",
-      "distances": [
-        "12K",
-        "28K",
-        "55K",
-        "86K",
-        "139K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://saint-jacques.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-06-13",
-      "name": "Canicross Türkiye Bootcamp",
-      "location": "İstanbul, Kilyos",
-      "distances": [
-        "Köpekli koşu kampı"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.instagram.com/p/DZAqpRnI4qK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-13",
-      "name": "MG Gece Koşusu",
-      "location": "Mersin",
-      "distances": [
-        "6K",
-        "12K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-06-13",
-      "name": "South Downs Way 100",
-      "location": "İngiltere",
-      "distances": [
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.centurionrunning.com/races/south-downs-way-100-2025",
-      "is_turkey": false,
-      "notes": "*WTM*"
-    },
-    {
-      "date": "2026-06-13",
-      "name": "Sapanca Ultra Marathon",
-      "location": "Sakarya",
-      "distances": [
-        "6K",
-        "14K",
-        "22K",
-        "40K",
-        "55K (YENİ PARKUR)"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.sapancaultra.org/",
-      "is_turkey": true,
-      "notes": "🇹🇷 ITRA UTMB INDEXRR"
-    },
-    {
-      "date": "2026-06-13",
-      "name": "Dragon Festivali",
-      "location": "İstanbul, Maltepe",
-      "distances": [],
-      "status": "confirmed",
-      "type": "other",
-      "link": "https://www.instagram.com/dragonfestivali/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-13",
-      "name": "Paros Way Run Swim Aquathlon",
-      "location": "Yunanistan, Paros Adası",
-      "distances": [
-        "5K",
-        "21K Run",
-        "750m",
-        "1500m",
-        "3000m Swim"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://parosway.gr/",
-      "is_turkey": false,
-      "notes": ""
-    },
     {
       "date": "2026-06-13",
       "name": "HMDS Half Marathon des Sables Cappadocia",
@@ -135,97 +16,6 @@
       "link": "https://www.marathondessables.com/mds-cappadocia-turkey",
       "is_turkey": true,
       "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-14",
-      "name": "Oyak 65. Yıl Koşusu",
-      "location": "İstanbul, Dragos Kartal, Suadiye",
-      "distances": [
-        "5K",
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://oyak65yilkosusu.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-06-14",
-      "name": "Edremit Yarı Maratonu",
-      "location": "Balıkesir, Edremit",
-      "distances": [
-        "5K",
-        "10K",
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.edremityarimaratonu.com/tr",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-06-14",
-      "name": "5. Kademe İl Yarışı ve Aile Oryantiring Yarışması",
-      "location": "İstanbul, Avcılar",
-      "distances": [],
-      "status": "confirmed",
-      "type": "orienteering",
-      "link": "https://www.istanbuloryantiring.com.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-14",
-      "name": "Bakırköy Sprint Triatlon",
-      "location": "İstanbul, Yeşilköy",
-      "distances": [
-        "Sprint"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://apphurra.com/etkinlik/bakirkoy-sprint-triatlon",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-06-14",
-      "name": "Konuralp Gazi Oryantiring Yarışması",
-      "location": "Düzce",
-      "distances": [],
-      "status": "confirmed",
-      "type": "orienteering",
-      "link": "https://duzce.bel.tr/13962-1-konuralp-gazi-oryantiring-yarismasi-basliyor",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-14",
-      "name": "Grammos Mountain Run",
-      "location": "Yunanistan, Plikati",
-      "distances": [
-        "10K",
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.grammosrun.gr/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-06-18",
-      "name": "Intersport Başkent Yarı Maratonu",
-      "location": "Ankara",
-      "distances": [
-        "5K. 10K. 21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.intersportbaskentyarimaratonu.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
     },
     {
       "date": "2026-06-18",
@@ -298,9 +88,10 @@
     {
       "date": "2026-06-20",
       "name": "Into the Dark",
-      "location": "İstanbul",
+      "location": "İstanbul, Enka Atletizm Pisti",
       "distances": [
-        "1M"
+        "1M",
+        "Bayrak"
       ],
       "status": "confirmed",
       "type": "road",
@@ -315,7 +106,8 @@
       "distances": [
         "5K",
         "10.5K",
-        "21K"
+        "21K",
+        "Family Color Run"
       ],
       "status": "confirmed",
       "type": "road",
@@ -448,11 +240,11 @@
       "distances": [
         "2 kişilik Etaplı Harita ile Yön Bulma Yarışı"
       ],
-      "status": "confirmed",
+      "status": "postponed",
       "type": "orienteering",
       "link": "https://www.orproevent.com/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) İPTAL olabilir."
+      "notes": "🇹🇷 (YENİ 🎈)ERTELENDİ!"
     },
     {
       "date": "2026-06-26",
@@ -683,19 +475,6 @@
       "link": "https://www.gecemaratonu.com/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-07-04",
-      "name": "Ankara Botanik Backyard Ultra",
-      "location": "Ankara, Botanik Parkı",
-      "distances": [
-        "6.706K X katları"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://kosu.taf.org.tr/index.php#home",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) Yarış henüz Backyard Ultra şemsiye yarış statüsünde değildir."
     },
     {
       "date": "2026-07-04",
@@ -1199,21 +978,6 @@
       "notes": "♥"
     },
     {
-      "date": "2026-08-09",
-      "name": "Eskişehir Yarı Maratonu",
-      "location": "Eskişehir",
-      "distances": [
-        "10K",
-        "21K",
-        "Çocuk Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.eskisehiryarimaratonu.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
       "date": "2026-08-14",
       "name": "Ultra Abant",
       "location": "Bolu, Abant",
@@ -1239,6 +1003,21 @@
       "link": "https://portal.triatlon.org.tr/tr/portal/list/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-16",
+      "name": "Eskişehir Yarı Maratonu",
+      "location": "Eskişehir",
+      "distances": [
+        "10K",
+        "21K",
+        "Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.eskisehiryarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷YENİ TARİH!"
     },
     {
       "date": "2026-08-19",
@@ -1581,10 +1360,10 @@
       "name": "Kızılcahamam Eğrekkaya Ultra Trail",
       "location": "Ankara, Kızılcahamam",
       "distances": [
-        "7K",
-        "13K",
-        "19K",
-        "37K"
+        "6K",
+        "12K",
+        "18K",
+        "36K"
       ],
       "status": "confirmed",
       "type": "trail",
@@ -1769,11 +1548,12 @@
       "name": "Quicksilver Beach Run",
       "location": "İstanbul, Kilyos",
       "distances": [
+        "3K",
         "5K"
       ],
       "status": "confirmed",
       "type": "trail",
-      "link": "https://kosu.taf.org.tr/index.php#home",
+      "link": "https://beachrun.com.tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -1848,8 +1628,7 @@
       "name": "Amasra Çeşmi Cihan Koşusu",
       "location": "Bartın, Amasra",
       "distances": [
-        "5K",
-        "10K"
+        "7K"
       ],
       "status": "confirmed",
       "type": "road",
@@ -2056,6 +1835,20 @@
       "link": "https://www.gokovayarimaratonu.org/",
       "is_turkey": true,
       "notes": "🇹🇷YENİ TARİH!"
+    },
+    {
+      "date": "2026-09-26",
+      "name": "Ankara Botanik Backyard Ultra",
+      "location": "Ankara, Botanik Parkı",
+      "distances": [
+        "6.706K X katları",
+        "Takım"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kosu.taf.org.tr/index.php#home",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Yarış henüz Backyard Ultra şemsiye yarış statüsünde değildir."
     },
     {
       "date": "2026-09-26",
@@ -2630,6 +2423,20 @@
     },
     {
       "date": "2026-10-24",
+      "name": "Istanbul 5 days -Grand Bazaar",
+      "location": "İstanbul, Kapalıçarşı",
+      "distances": [
+        "2 gün 3 etap",
+        "Sprint"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.ist5days.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 √"
+    },
+    {
+      "date": "2026-10-24",
       "name": "Aquachallange Yüzme Şampiyonası",
       "location": "Muğla, Marmaris",
       "distances": [
@@ -2865,6 +2672,20 @@
       "status": "confirmed",
       "type": "cycling",
       "link": "https://www.ahulex.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-29",
+      "name": "Mülkiye Cumhuriyet Koşusu",
+      "location": "Ankara, Ata Çiftliği",
+      "distances": [
+        "5K",
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://merbespor.com/event/mulkiye-cumhuriyet-kosusu-2026/",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -3154,7 +2975,7 @@
       ],
       "status": "confirmed",
       "type": "trail",
-      "link": "https://www.instagram.com/antalyacanyonultra/",
+      "link": "https://www.antalyacanyontrail.com/tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -3473,6 +3294,19 @@
       "notes": ""
     },
     {
+      "date": "2026-12-19",
+      "name": "Dark Run",
+      "location": "İstanbul, Ataköy Atletizm Pisti",
+      "distances": [
+        "TBC"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
       "date": "2026-12-26",
       "name": "Antalya Ultra",
       "location": "Antalya, Konyaaltı",
@@ -3502,6 +3336,24 @@
       "link": "https://kosu.taf.org.tr/index.php#home",
       "is_turkey": true,
       "notes": "🇹🇷 √"
+    },
+    {
+      "date": "2026-12-27",
+      "name": "Osmaniye Yarı Maratonu",
+      "location": "Osmaniye",
+      "distances": [
+        "3K Halk Koşusu",
+        "10K",
+        "21K",
+        "Çocuk",
+        "Özel bireyler Koşusu",
+        "Baby Run"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://taf.org.tr/osmaniye-yari-maratonu-21k-10k-3k-halk-kosusu/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": null,
@@ -3575,6 +3427,19 @@
       "link": "https://alanyaultratrail.com/",
       "is_turkey": true,
       "notes": "🇹🇷 ITRA UTMB INDEX ♥ √RR2022RR2021ENRR2019vlog remake 2019"
+    },
+    {
+      "date": "2027-03-27",
+      "name": "Adana Backyard Ultra",
+      "location": "Adana, Yaşar Kemal Koşu Parkuru",
+      "distances": [
+        "6.706K X katları"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.adanabackyardultra.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-04-17",
@@ -11656,6 +11521,216 @@
       "link": "https://kastamonu.gsb.gov.tr/HaberDetaylari/49/1/299944/ataturk-ve-istiklal-yolu-yuruyusu-basvurulari-basladi.aspx",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-11",
+      "name": "Trail 100 Andorra by UTMB",
+      "location": "İspanya",
+      "distances": [
+        "10K",
+        "21K",
+        "50K",
+        "80K",
+        "105K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://andorra.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-06-12",
+      "name": "Trail du Saint – Jacques by UTMB",
+      "location": "Fransa",
+      "distances": [
+        "12K",
+        "28K",
+        "55K",
+        "86K",
+        "139K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://saint-jacques.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-06-13",
+      "name": "Canicross Türkiye Bootcamp",
+      "location": "İstanbul, Kilyos",
+      "distances": [
+        "Köpekli koşu kampı"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.instagram.com/p/DZAqpRnI4qK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-13",
+      "name": "MG Gece Koşusu",
+      "location": "Mersin",
+      "distances": [
+        "6K",
+        "12K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-13",
+      "name": "South Downs Way 100",
+      "location": "İngiltere",
+      "distances": [
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.centurionrunning.com/races/south-downs-way-100-2025",
+      "is_turkey": false,
+      "notes": "*WTM*"
+    },
+    {
+      "date": "2026-06-13",
+      "name": "Sapanca Ultra Marathon",
+      "location": "Sakarya",
+      "distances": [
+        "6K",
+        "14K",
+        "22K",
+        "40K",
+        "55K (YENİ PARKUR)"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.sapancaultra.org/",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA UTMB INDEXRR"
+    },
+    {
+      "date": "2026-06-13",
+      "name": "Dragon Festivali",
+      "location": "İstanbul, Maltepe",
+      "distances": [],
+      "status": "confirmed",
+      "type": "other",
+      "link": "https://www.instagram.com/dragonfestivali/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-13",
+      "name": "Paros Way Run Swim Aquathlon",
+      "location": "Yunanistan, Paros Adası",
+      "distances": [
+        "5K",
+        "21K Run",
+        "750m",
+        "1500m",
+        "3000m Swim"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://parosway.gr/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-14",
+      "name": "Oyak 65. Yıl Koşusu",
+      "location": "İstanbul, Dragos Kartal, Suadiye",
+      "distances": [
+        "5K",
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://oyak65yilkosusu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-14",
+      "name": "Edremit Yarı Maratonu",
+      "location": "Balıkesir, Edremit",
+      "distances": [
+        "5K",
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.edremityarimaratonu.com/tr",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-14",
+      "name": "5. Kademe İl Yarışı ve Aile Oryantiring Yarışması",
+      "location": "İstanbul, Avcılar",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.istanbuloryantiring.com.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-14",
+      "name": "Bakırköy Sprint Triatlon",
+      "location": "İstanbul, Yeşilköy",
+      "distances": [
+        "Sprint"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://apphurra.com/etkinlik/bakirkoy-sprint-triatlon",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-14",
+      "name": "Konuralp Gazi Oryantiring Yarışması",
+      "location": "Düzce",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://duzce.bel.tr/13962-1-konuralp-gazi-oryantiring-yarismasi-basliyor",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-14",
+      "name": "Grammos Mountain Run",
+      "location": "Yunanistan, Plikati",
+      "distances": [
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.grammosrun.gr/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-18",
+      "name": "Intersport Başkent Yarı Maratonu",
+      "location": "Ankara",
+      "distances": [
+        "5K. 10K. 21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.intersportbaskentyarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
     }
   ]
 }
