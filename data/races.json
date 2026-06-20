@@ -1,54 +1,7 @@
 {
-  "updated": "2026-06-17T11:27:05.477877",
-  "count": 814,
+  "updated": "2026-06-20T09:55:19.012256",
+  "count": 819,
   "races": [
-    {
-      "date": "2026-06-13",
-      "name": "HMDS Half Marathon des Sables Cappadocia",
-      "location": "Nevşehir, Ürgüp",
-      "distances": [
-        "70K",
-        "100K",
-        "120K -3 gün etaplı"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.marathondessables.com/mds-cappadocia-turkey",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-18",
-      "name": "Run & Recharge Camp",
-      "location": "Muğla, Datça",
-      "distances": [
-        "4 gün etaplı koşu kampı",
-        "yoga",
-        "yürüyüş",
-        "yüzme",
-        "seminerler"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.instagram.com/runrechargecamp/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-18",
-      "name": "İstanbul Corporate Games",
-      "location": "İstanbul, İTÜ Ayazağa Kampüsü",
-      "distances": [
-        "100m",
-        "5K",
-        "4×400"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://corporategames.com.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
     {
       "date": "2026-06-18",
       "name": "Zugspitz Ultra Trail by UTMB",
@@ -283,7 +236,8 @@
       "distances": [
         "1K",
         "3.5K",
-        "7K"
+        "7K",
+        "Çocuk"
       ],
       "status": "confirmed",
       "type": "swimming",
@@ -587,7 +541,7 @@
       "name": "Kemaliye Silk Road Ultra Trail Festival",
       "location": "Erzincan, Eğin, Kemaliye",
       "distances": [
-        "3K",
+        "3.5K",
         "10K",
         "21K",
         "17K doğa yürüyüşü"
@@ -792,6 +746,19 @@
     },
     {
       "date": "2026-07-23",
+      "name": "Kackar by UTMB -Run Lİke Her Training Camp 5K Run",
+      "location": "Rize",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/p/DZwejydDah4/?img_index=1",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Kayıt gerekmiyor. Ücretsiz topluluk koşusu etkinliğidir."
+    },
+    {
+      "date": "2026-07-23",
       "name": "Speedgoat by UTMB Mountain Races",
       "location": "ABD",
       "distances": [
@@ -930,6 +897,19 @@
       "link": "https://rockcandyrunning.com/beast/",
       "is_turkey": false,
       "notes": "SKYRACE WS 🔴"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Sprint Triatlon Yarışı Kadıköy",
+      "location": "İstanbul, Caddebostan",
+      "distances": [
+        "Sprint"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/p/DZxNKTss-jn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2026-08-06",
@@ -2068,6 +2048,20 @@
     },
     {
       "date": "2026-10-04",
+      "name": "Çanakkale Gran Fondo",
+      "location": "Çanakkale",
+      "distances": [
+        "77K",
+        "112K"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": null,
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-04",
       "name": "Cardiff Half Marathon",
       "location": "İngiltere, Galler",
       "distances": [
@@ -2093,6 +2087,22 @@
       "link": "https://generali-koeln-marathon.de/en/",
       "is_turkey": false,
       "notes": "√"
+    },
+    {
+      "date": "2026-10-04",
+      "name": "Skopje Marathon",
+      "location": "Makedonya, Üsküp",
+      "distances": [
+        "5K",
+        "21K",
+        "42K",
+        "Relay"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "http://skopskimaraton.com.mk/en/",
+      "is_turkey": false,
+      "notes": ""
     },
     {
       "date": "2026-10-10",
@@ -2255,6 +2265,19 @@
       "status": "confirmed",
       "type": "road",
       "link": "https://marathonmuenchen.org/en/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Tiramisu Run",
+      "location": "İtalya, Treviso",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.endu.net/en/events/tiramisu-run/info",
       "is_turkey": false,
       "notes": ""
     },
@@ -11615,6 +11638,21 @@
     },
     {
       "date": "2026-06-13",
+      "name": "HMDS Half Marathon des Sables Cappadocia",
+      "location": "Nevşehir, Ürgüp",
+      "distances": [
+        "70K",
+        "100K",
+        "120K -3 gün etaplı"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.marathondessables.com/mds-cappadocia-turkey",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-13",
       "name": "Dragon Festivali",
       "location": "İstanbul, Maltepe",
       "distances": [],
@@ -11731,6 +11769,38 @@
       "link": "https://www.intersportbaskentyarimaratonu.com/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
+    },
+    {
+      "date": "2026-06-18",
+      "name": "Run & Recharge Camp",
+      "location": "Muğla, Datça",
+      "distances": [
+        "4 gün etaplı koşu kampı",
+        "yoga",
+        "yürüyüş",
+        "yüzme",
+        "seminerler"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.instagram.com/runrechargecamp/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-18",
+      "name": "İstanbul Corporate Games",
+      "location": "İstanbul, İTÜ Ayazağa Kampüsü",
+      "distances": [
+        "100m",
+        "5K",
+        "4×400"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://corporategames.com.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     }
   ]
 }
