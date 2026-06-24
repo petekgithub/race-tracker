@@ -1,141 +1,7 @@
 {
-  "updated": "2026-06-20T09:55:19.012256",
+  "updated": "2026-06-24T10:13:08.990956",
   "count": 819,
   "races": [
-    {
-      "date": "2026-06-18",
-      "name": "Zugspitz Ultra Trail by UTMB",
-      "location": "Almanya",
-      "distances": [
-        "16K",
-        "28.5K",
-        "44K",
-        "68K",
-        "86K",
-        "106K",
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": null,
-      "is_turkey": false,
-      "notes": "*UTMBWS* ♥"
-    },
-    {
-      "date": "2026-06-19",
-      "name": "Broken Arrow",
-      "location": "ABD",
-      "distances": [
-        "4.8KVK",
-        "11K",
-        "18K",
-        "23K",
-        "46K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.brokenarrowskyrace.com/",
-      "is_turkey": false,
-      "notes": "♥"
-    },
-    {
-      "date": "2026-06-20",
-      "name": "Into the Dark",
-      "location": "İstanbul, Enka Atletizm Pisti",
-      "distances": [
-        "1M",
-        "Bayrak"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://runawayzone.com/tr/etkinlik-detay/67-into-the-dark",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-06-20",
-      "name": "Bozcaada Yarı Maratonu",
-      "location": "Çanakkale",
-      "distances": [
-        "5K",
-        "10.5K",
-        "21K",
-        "Family Color Run"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://hadikaydol.com/event/bozcaada-yari-maratonu",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-20",
-      "name": "Trakya Ultra",
-      "location": "Tekirdağ, Uçmakdere",
-      "distances": [
-        "10K",
-        "18K",
-        "37K",
-        "51K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://runnroll.com.tr/trakyaultra/",
-      "is_turkey": true,
-      "notes": "🇹🇷 ITRA"
-    },
-    {
-      "date": "2026-06-20",
-      "name": "Yading Skyrace",
-      "location": "Çin",
-      "distances": [
-        "VK",
-        "32K",
-        "52K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://www.cnmtntrails.com/yading-skyrun",
-      "is_turkey": false,
-      "notes": "SKYRACE WS 🔴"
-    },
-    {
-      "date": "2026-06-21",
-      "name": "Yeşilay Avrasya Gece Yarı Maratonu",
-      "location": "İstanbul",
-      "distances": [
-        "10K. 21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.yesilaygeceyarimaratonu.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
-    },
-    {
-      "date": "2026-06-21",
-      "name": "6. Kademe İl Yarışı ve Babalar Günü Oryantiring Yarışması",
-      "location": "İstanbul, Kadıköy Fenerbahçe",
-      "distances": [],
-      "status": "confirmed",
-      "type": "orienteering",
-      "link": "https://www.istanbuloryantiring.com.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-21",
-      "name": "European Transplant Games",
-      "location": "Hollanda",
-      "distances": [
-        "Track & Field"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://etg2026.nl/",
-      "is_turkey": false,
-      "notes": ""
-    },
     {
       "date": "2026-06-24",
       "name": "Lavaredo Ultra Trail by UTMB",
@@ -11801,6 +11667,140 @@
       "link": "https://corporategames.com.tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-18",
+      "name": "Zugspitz Ultra Trail by UTMB",
+      "location": "Almanya",
+      "distances": [
+        "16K",
+        "28.5K",
+        "44K",
+        "68K",
+        "86K",
+        "106K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": null,
+      "is_turkey": false,
+      "notes": "*UTMBWS* ♥"
+    },
+    {
+      "date": "2026-06-19",
+      "name": "Broken Arrow",
+      "location": "ABD",
+      "distances": [
+        "4.8KVK",
+        "11K",
+        "18K",
+        "23K",
+        "46K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.brokenarrowskyrace.com/",
+      "is_turkey": false,
+      "notes": "♥"
+    },
+    {
+      "date": "2026-06-20",
+      "name": "Into the Dark",
+      "location": "İstanbul, Enka Atletizm Pisti",
+      "distances": [
+        "1M",
+        "Bayrak"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://runawayzone.com/tr/etkinlik-detay/67-into-the-dark",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-20",
+      "name": "Bozcaada Yarı Maratonu",
+      "location": "Çanakkale",
+      "distances": [
+        "5K",
+        "10.5K",
+        "21K",
+        "Family Color Run"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://hadikaydol.com/event/bozcaada-yari-maratonu",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-20",
+      "name": "Trakya Ultra",
+      "location": "Tekirdağ, Uçmakdere",
+      "distances": [
+        "10K",
+        "18K",
+        "37K",
+        "51K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://runnroll.com.tr/trakyaultra/",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA"
+    },
+    {
+      "date": "2026-06-20",
+      "name": "Yading Skyrace",
+      "location": "Çin",
+      "distances": [
+        "VK",
+        "32K",
+        "52K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://www.cnmtntrails.com/yading-skyrun",
+      "is_turkey": false,
+      "notes": "SKYRACE WS 🔴"
+    },
+    {
+      "date": "2026-06-21",
+      "name": "Yeşilay Avrasya Gece Yarı Maratonu",
+      "location": "İstanbul",
+      "distances": [
+        "10K. 21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.yesilaygeceyarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
+    },
+    {
+      "date": "2026-06-21",
+      "name": "6. Kademe İl Yarışı ve Babalar Günü Oryantiring Yarışması",
+      "location": "İstanbul, Kadıköy Fenerbahçe",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.istanbuloryantiring.com.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-21",
+      "name": "European Transplant Games",
+      "location": "Hollanda",
+      "distances": [
+        "Track & Field"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://etg2026.nl/",
+      "is_turkey": false,
+      "notes": ""
     }
   ]
 }
