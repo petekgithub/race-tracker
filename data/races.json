@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-24T10:13:08.990956",
-  "count": 819,
+  "updated": "2026-06-27T09:19:37.422961",
+  "count": 820,
   "races": [
     {
       "date": "2026-06-24",
@@ -968,6 +968,20 @@
       "link": "https://www.redbull.com/tr-tr/events/red-bull-ucus-gunu-turkiye",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-23",
+      "name": "Yeşilay Yarı Maratonu",
+      "location": "İstanbul, Sepetçiler Kasrı",
+      "distances": [
+        "10K. 21K",
+        "21K Paten"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.yesilaygeceyarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)YENİ TARİH!"
     },
     {
       "date": "2026-08-23",
@@ -11772,11 +11786,11 @@
       "distances": [
         "10K. 21K"
       ],
-      "status": "confirmed",
+      "status": "postponed",
       "type": "road",
       "link": "https://www.yesilaygeceyarimaratonu.com/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
+      "notes": "🇹🇷 (YENİ 🎈)ERTELENDİ!"
     },
     {
       "date": "2026-06-21",
