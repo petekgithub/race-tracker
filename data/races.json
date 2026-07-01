@@ -1,236 +1,7 @@
 {
-  "updated": "2026-06-27T09:19:37.422961",
-  "count": 820,
+  "updated": "2026-07-01T10:36:35.537863",
+  "count": 824,
   "races": [
-    {
-      "date": "2026-06-24",
-      "name": "Lavaredo Ultra Trail by UTMB",
-      "location": "İtalya, Cortina",
-      "distances": [
-        "10K",
-        "20K",
-        "50K",
-        "80K",
-        "120K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://lavaredo.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS* ♥"
-    },
-    {
-      "date": "2026-06-25",
-      "name": "Mont Blanc Maratonu",
-      "location": "Fransa",
-      "distances": [
-        "4K VK",
-        "10K",
-        "23K",
-        "42K",
-        "90K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.marathonmontblanc.fr/",
-      "is_turkey": false,
-      "notes": "♥RR2025"
-    },
-    {
-      "date": "2026-06-26",
-      "name": "Kanyon Ulubey Ultra Trail",
-      "location": "Uşak",
-      "distances": [
-        "10K",
-        "35K",
-        "60K",
-        "100K (YENİ)"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://apphurra.com/etkinlik/kanyon-ulubey-ultra-trail",
-      "is_turkey": true,
-      "notes": "🇹🇷 ITRA"
-    },
-    {
-      "date": "2026-06-26",
-      "name": "Cappadocia Trail Challenge",
-      "location": "Nevşehir, Damsa Barajı",
-      "distances": [
-        "2 kişilik Etaplı Harita ile Yön Bulma Yarışı"
-      ],
-      "status": "postponed",
-      "type": "orienteering",
-      "link": "https://www.orproevent.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)ERTELENDİ!"
-    },
-    {
-      "date": "2026-06-26",
-      "name": "Olympus Marathon",
-      "location": "Yunanistan",
-      "distances": [
-        "4K VK",
-        "5K",
-        "14K",
-        "44K",
-        "71K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.olympus-marathon.com/en",
-      "is_turkey": false,
-      "notes": "♥ √"
-    },
-    {
-      "date": "2026-06-27",
-      "name": "Western States Endurance Run",
-      "location": "ABD",
-      "distances": [
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.wser.org/",
-      "is_turkey": false,
-      "notes": "*UTMBWS* ♥"
-    },
-    {
-      "date": "2026-06-28",
-      "name": "Meis Kaş Swim Race",
-      "location": "Antalya, Kaş",
-      "distances": [
-        "1K",
-        "3.5K",
-        "7K",
-        "Çocuk"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://www.megistikas.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-28",
-      "name": "Bursa Masterler Dostluk Koşusu",
-      "location": "Bursa, Kazancı Köyü",
-      "distances": [
-        "9K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://apphurra.com/etkinlik/20nci-bursa-masterler-dostluk-kosusu",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-28",
-      "name": "Aksu Anamas Yayla Trail",
-      "location": "Isparta",
-      "distances": [
-        "18K",
-        "25K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.ispartaatletizm.org/anamas-trail/",
-      "is_turkey": true,
-      "notes": "🇹🇷İPTAL!"
-    },
-    {
-      "date": "2026-06-28",
-      "name": "Amanos Ultra Trail",
-      "location": "Osmaniye",
-      "distances": [
-        "5K",
-        "16K",
-        "27K",
-        "50K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.amanosultratrail.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-06-28",
-      "name": "Konya Gran Fondo",
-      "location": "Konya",
-      "distances": [],
-      "status": "confirmed",
-      "type": "cycling",
-      "link": "https://hadikaydol.com/event/category/bisiklet",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-06-28",
-      "name": "İstanbul’u Yüzüyorum",
-      "location": "İstanbul, Şaşkınbakkal",
-      "distances": [
-        "1500m",
-        "3000m"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://spor.istanbul/istanbulu-yuzuyorum/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-06-28",
-      "name": "Hamburg Half Marathon",
-      "location": "Almanya",
-      "distances": [
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.hamburg-halbmarathon.com/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-06-28",
-      "name": "Ibarra SkyRace",
-      "location": "Ekvador",
-      "distances": [
-        "VK",
-        "9K",
-        "19K",
-        "22K",
-        "55K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://skyraceibarra.com/",
-      "is_turkey": false,
-      "notes": "SKYRACE WS ⚪"
-    },
-    {
-      "date": "2026-06-28",
-      "name": "IRONMAN FRANKFURT",
-      "location": "Almanya",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.ironman.com/races/im-frankfurt",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-07-01",
-      "name": "Anatolian Warriors",
-      "location": "İstanbul",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.anatolianwarriors.com.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) Ninja Warrior Ödüllü Yarışma"
-    },
     {
       "date": "2026-07-01",
       "name": "Vald’Aran Pyrenees by UTMB",
@@ -490,6 +261,19 @@
       "link": "https://www.dolomythsrun.it/en/home.html",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2026-07-15",
+      "name": "15 Temmuz Demokrasi Koşusu",
+      "location": "Ankara, Keçiören",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2026-07-15",
@@ -1740,20 +1524,6 @@
     },
     {
       "date": "2026-09-27",
-      "name": "Krallar Vadisi Yarı Maratonu",
-      "location": "Amasya",
-      "distances": [
-        "10K",
-        "21K TBC"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": null,
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-09-27",
       "name": "Urla’da BirİZ Sosyal Sorumluluk Koşusu",
       "location": "İzmir, Urla iskelesi",
       "distances": [
@@ -1765,6 +1535,19 @@
       "link": "https://www.urev.org.tr/genel-bilgiler/102",
       "is_turkey": true,
       "notes": "🇹🇷 √"
+    },
+    {
+      "date": "2026-09-27",
+      "name": "Eşitlik (Ekinoks) Koşusu",
+      "location": "Antalya, Konyaaltı",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-09-27",
@@ -1899,16 +1682,16 @@
     },
     {
       "date": "2026-10-04",
-      "name": "Sinop Yarı Maratonu",
+      "name": "Sinop SEV Yarı Maratonu",
       "location": "Sinop",
       "distances": [
         "5K",
         "10K",
-        "21K TBC"
+        "21K"
       ],
       "status": "confirmed",
       "type": "road",
-      "link": "https://www.sinopegitimvakfi.org/",
+      "link": "https://www.sevsinopyarimaratonu.com/kayit-ol/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -2992,6 +2775,19 @@
     },
     {
       "date": "2026-11-22",
+      "name": "KeşifRun Nilüfer",
+      "location": "Bursa, Nilüfer",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": null,
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-11-22",
       "name": "Çenedağ Ultra Trail",
       "location": "İzmit, Derince",
       "distances": [
@@ -3051,6 +2847,19 @@
       "link": "https://www.idaultra.com/tr",
       "is_turkey": true,
       "notes": "🇹🇷 ITRA UTMB INDEXYENİ TARİH!RR2021RR2018VLOG"
+    },
+    {
+      "date": "2026-11-29",
+      "name": "Çankaya Half Marathon",
+      "location": "Ankara",
+      "distances": [
+        "TBC"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2026-11-29",
@@ -3449,6 +3258,20 @@
       "status": "confirmed",
       "type": "trail",
       "link": "https://kosuturkiye.com/sandima-ultra-trail/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2027-12-31",
+      "name": "Krallar Vadisi Yarı Maratonu",
+      "location": "Amasya",
+      "distances": [
+        "10K",
+        "21K TBC"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": null,
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -11815,6 +11638,235 @@
       "link": "https://etg2026.nl/",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2026-06-24",
+      "name": "Lavaredo Ultra Trail by UTMB",
+      "location": "İtalya, Cortina",
+      "distances": [
+        "10K",
+        "20K",
+        "50K",
+        "80K",
+        "120K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://lavaredo.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS* ♥"
+    },
+    {
+      "date": "2026-06-25",
+      "name": "Mont Blanc Maratonu",
+      "location": "Fransa",
+      "distances": [
+        "4K VK",
+        "10K",
+        "23K",
+        "42K",
+        "90K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.marathonmontblanc.fr/",
+      "is_turkey": false,
+      "notes": "♥RR2025"
+    },
+    {
+      "date": "2026-06-26",
+      "name": "Kanyon Ulubey Ultra Trail",
+      "location": "Uşak",
+      "distances": [
+        "10K",
+        "35K",
+        "60K",
+        "100K (YENİ)"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://apphurra.com/etkinlik/kanyon-ulubey-ultra-trail",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA"
+    },
+    {
+      "date": "2026-06-26",
+      "name": "Cappadocia Trail Challenge",
+      "location": "Nevşehir, Damsa Barajı",
+      "distances": [
+        "2 kişilik Etaplı Harita ile Yön Bulma Yarışı"
+      ],
+      "status": "postponed",
+      "type": "orienteering",
+      "link": "https://www.orproevent.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)ERTELENDİ!"
+    },
+    {
+      "date": "2026-06-26",
+      "name": "Olympus Marathon",
+      "location": "Yunanistan",
+      "distances": [
+        "4K VK",
+        "5K",
+        "14K",
+        "44K",
+        "71K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.olympus-marathon.com/en",
+      "is_turkey": false,
+      "notes": "♥ √"
+    },
+    {
+      "date": "2026-06-27",
+      "name": "Western States Endurance Run",
+      "location": "ABD",
+      "distances": [
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.wser.org/",
+      "is_turkey": false,
+      "notes": "*UTMBWS* ♥"
+    },
+    {
+      "date": "2026-06-28",
+      "name": "Meis Kaş Swim Race",
+      "location": "Antalya, Kaş",
+      "distances": [
+        "1K",
+        "3.5K",
+        "7K",
+        "Çocuk"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://www.megistikas.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-28",
+      "name": "Bursa Masterler Dostluk Koşusu",
+      "location": "Bursa, Kazancı Köyü",
+      "distances": [
+        "9K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://apphurra.com/etkinlik/20nci-bursa-masterler-dostluk-kosusu",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-28",
+      "name": "Aksu Anamas Yayla Trail",
+      "location": "Isparta",
+      "distances": [
+        "18K",
+        "25K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.ispartaatletizm.org/anamas-trail/",
+      "is_turkey": true,
+      "notes": "🇹🇷İPTAL!"
+    },
+    {
+      "date": "2026-06-28",
+      "name": "Amanos Ultra Trail",
+      "location": "Osmaniye",
+      "distances": [
+        "5K",
+        "16K",
+        "27K",
+        "50K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.amanosultratrail.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-28",
+      "name": "Konya Gran Fondo",
+      "location": "Konya",
+      "distances": [],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://hadikaydol.com/event/category/bisiklet",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-06-28",
+      "name": "İstanbul’u Yüzüyorum",
+      "location": "İstanbul, Şaşkınbakkal",
+      "distances": [
+        "1500m",
+        "3000m"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://spor.istanbul/istanbulu-yuzuyorum/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-06-28",
+      "name": "Hamburg Half Marathon",
+      "location": "Almanya",
+      "distances": [
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.hamburg-halbmarathon.com/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-06-28",
+      "name": "Ibarra SkyRace",
+      "location": "Ekvador",
+      "distances": [
+        "VK",
+        "9K",
+        "19K",
+        "22K",
+        "55K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://skyraceibarra.com/",
+      "is_turkey": false,
+      "notes": "SKYRACE WS ⚪"
+    },
+    {
+      "date": "2026-06-28",
+      "name": "IRONMAN FRANKFURT",
+      "location": "Almanya",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.ironman.com/races/im-frankfurt",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-07-01",
+      "name": "Anatolian Warriors",
+      "location": "İstanbul",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.anatolianwarriors.com.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Ninja Warrior Ödüllü Yarışma"
     }
   ]
 }
