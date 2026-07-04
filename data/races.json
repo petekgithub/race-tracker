@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T10:36:35.537863",
-  "count": 824,
+  "updated": "2026-07-04T09:11:35.953948",
+  "count": 829,
   "races": [
     {
       "date": "2026-07-01",
@@ -109,6 +109,17 @@
       "link": "https://www.letour.fr/en",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2026-07-05",
+      "name": "Srebrenica Boşnak Soykırımı Anma Koşusu",
+      "location": "İstanbul, Bayrampaşa",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/p/DaPwDAct8GT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-07-05",
@@ -274,6 +285,19 @@
       "link": "https://kosu.taf.org.tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-07-15",
+      "name": "15 Temmuz Demokrasi ve Şehitleri Anma Yürüyüşü",
+      "location": "İstanbul, Zincirlikuyu",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Ücretsiz"
     },
     {
       "date": "2026-07-15",
@@ -717,6 +741,19 @@
     },
     {
       "date": "2026-08-22",
+      "name": "Gömeç Atatürk Yol Koşusu",
+      "location": "Balıkesir, Gömeç",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-08-22",
       "name": "Davraz Sky Run",
       "location": "Isparta",
       "distances": [
@@ -1012,19 +1049,6 @@
       "status": "confirmed",
       "type": "trail",
       "link": "https://kosu.taf.org.tr/index.php#home",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-09-05",
-      "name": "Silivri Ultra Trail",
-      "location": "İstanbul, Silivri Danamandıra Tabiat Parkı",
-      "distances": [
-        "TBC"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.instagram.com/silivriultratrail/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -1524,6 +1548,19 @@
     },
     {
       "date": "2026-09-27",
+      "name": "ASMMMO 10K Yol Koşusu",
+      "location": "Ankara, Doğal Yaşam ve Atatürk Çocukları Parkı",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.asmmmo.org.tr/anasayfa",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-09-27",
       "name": "Urla’da BirİZ Sosyal Sorumluluk Koşusu",
       "location": "İzmir, Urla iskelesi",
       "distances": [
@@ -1614,7 +1651,7 @@
       ],
       "status": "confirmed",
       "type": "road",
-      "link": null,
+      "link": "https://kosu.taf.org.tr/",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -2045,6 +2082,20 @@
       "status": "confirmed",
       "type": "trail",
       "link": "https://gotix.com.tr/#/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-18",
+      "name": "Ordu Yarı Maratonu",
+      "location": "Ordu",
+      "distances": [
+        "5K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/ordu.yarimaratonu/",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -3152,6 +3203,19 @@
       "link": "https://www.adanabackyardultra.com/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-04-04",
+      "name": "Silivri Ultra Trail",
+      "location": "İstanbul, Silivri Danamandıra Tabiat Parkı",
+      "distances": [
+        "TBC"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.instagram.com/silivriultratrail/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2027-04-17",
