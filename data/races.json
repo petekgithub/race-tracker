@@ -1,112 +1,7 @@
 {
-  "updated": "2026-07-11T08:31:14.520837",
+  "updated": "2026-07-15T09:04:01.867543",
   "count": 843,
   "races": [
-    {
-      "date": "2026-07-09",
-      "name": "Restonica Trail by UTMB",
-      "location": "Fransa, Korsika Adası",
-      "distances": [
-        "17K",
-        "33K",
-        "67K",
-        "110K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.restonicatrail.fr/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-07-10",
-      "name": "Kemaliye Silk Road Trail & Running Festival",
-      "location": "Erzincan, Eğin, Kemaliye",
-      "distances": [
-        "3.5K",
-        "10K",
-        "21K",
-        "17K doğa yürüyüşü"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://kemaliyerun.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 √"
-    },
-    {
-      "date": "2026-07-10",
-      "name": "Ultra Trail Verbier St Bernard by UTMB",
-      "location": "İsviçre",
-      "distances": [
-        "28K",
-        "43K",
-        "77K",
-        "140K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://verbier.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-07-11",
-      "name": "Hasandağı Ultra Trail",
-      "location": "Aksaray, Ihlara Vadisi, Hasan Dağı",
-      "distances": [
-        "5K Halk Koşusu",
-        "16K",
-        "27K (YENİ PARKUR)",
-        "45K (YENİ PARKUR)"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.hasandagiultratrail.com/index.php",
-      "is_turkey": true,
-      "notes": "🇹🇷 ITRA"
-    },
-    {
-      "date": "2026-07-11",
-      "name": "Eğirdir Triatlonu Türkiye  Kupası",
-      "location": "Isparta",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-07-12",
-      "name": "Körfez Kiraz Koşusu",
-      "location": "Kocaeli, Hereke Kalesi",
-      "distances": [
-        "10K",
-        "3K",
-        "Çocuk Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": null,
-      "is_turkey": true,
-      "notes": "🇹🇷İPTAL!"
-    },
-    {
-      "date": "2026-07-12",
-      "name": "Dolomyths Run",
-      "location": "İtalya",
-      "distances": [
-        "12K",
-        "22K",
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.dolomythsrun.it/en/home.html",
-      "is_turkey": false,
-      "notes": ""
-    },
     {
       "date": "2026-07-15",
       "name": "15 Temmuz Demokrasi Koşusu",
@@ -1439,7 +1334,7 @@
       ],
       "status": "confirmed",
       "type": "road",
-      "link": "https://www.asmmmo.org.tr/anasayfa",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=183",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -2516,13 +2411,13 @@
       "name": "UCI Gran Fondo Antalya",
       "location": "Antalya",
       "distances": [
-        "22K",
-        "60K",
-        "93K"
+        "20K",
+        "73K",
+        "105K"
       ],
       "status": "confirmed",
       "type": "cycling",
-      "link": "https://www.ucigranfondoantalya.com/tr",
+      "link": "https://ucigfantalya.com/",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -12119,6 +12014,111 @@
       "link": "https://www.instagram.com/araratskyrace?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)2027’ye ERTELENDİ!"
+    },
+    {
+      "date": "2026-07-09",
+      "name": "Restonica Trail by UTMB",
+      "location": "Fransa, Korsika Adası",
+      "distances": [
+        "17K",
+        "33K",
+        "67K",
+        "110K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.restonicatrail.fr/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-07-10",
+      "name": "Kemaliye Silk Road Trail & Running Festival",
+      "location": "Erzincan, Eğin, Kemaliye",
+      "distances": [
+        "3.5K",
+        "10K",
+        "21K",
+        "17K doğa yürüyüşü"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kemaliyerun.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 √"
+    },
+    {
+      "date": "2026-07-10",
+      "name": "Ultra Trail Verbier St Bernard by UTMB",
+      "location": "İsviçre",
+      "distances": [
+        "28K",
+        "43K",
+        "77K",
+        "140K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://verbier.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-07-11",
+      "name": "Hasandağı Ultra Trail",
+      "location": "Aksaray, Ihlara Vadisi, Hasan Dağı",
+      "distances": [
+        "5K Halk Koşusu",
+        "16K",
+        "27K (YENİ PARKUR)",
+        "45K (YENİ PARKUR)"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.hasandagiultratrail.com/index.php",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA"
+    },
+    {
+      "date": "2026-07-11",
+      "name": "Eğirdir Triatlonu Türkiye  Kupası",
+      "location": "Isparta",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-07-12",
+      "name": "Körfez Kiraz Koşusu",
+      "location": "Kocaeli, Hereke Kalesi",
+      "distances": [
+        "10K",
+        "3K",
+        "Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": null,
+      "is_turkey": true,
+      "notes": "🇹🇷İPTAL!"
+    },
+    {
+      "date": "2026-07-12",
+      "name": "Dolomyths Run",
+      "location": "İtalya",
+      "distances": [
+        "12K",
+        "22K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.dolomythsrun.it/en/home.html",
+      "is_turkey": false,
+      "notes": ""
     }
   ]
 }
