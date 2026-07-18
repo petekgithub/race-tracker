@@ -1,47 +1,7 @@
 {
-  "updated": "2026-07-15T09:04:01.867543",
-  "count": 843,
+  "updated": "2026-07-18T08:28:57.081048",
+  "count": 847,
   "races": [
-    {
-      "date": "2026-07-15",
-      "name": "15 Temmuz Demokrasi Koşusu",
-      "location": "Ankara, Keçiören",
-      "distances": [
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-07-15",
-      "name": "15 Temmuz Demokrasi ve Şehitleri Anma Yürüyüşü",
-      "location": "İstanbul, Zincirlikuyu",
-      "distances": [
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) Ücretsiz"
-    },
-    {
-      "date": "2026-07-15",
-      "name": "Yalova Açık Su Yüzme Yarışması",
-      "location": "Yalova",
-      "distances": [
-        "2K",
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://www.sporlayalova.com/etkinlikler",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
     {
       "date": "2026-07-15",
       "name": "Eiger Ultra Trail by UTMB",
@@ -108,7 +68,7 @@
       "type": "trail",
       "link": "https://uludagultra.com/",
       "is_turkey": true,
-      "notes": "🇹🇷 ITRA UTMB INDEX √RR"
+      "notes": "🇹🇷 ITRA UTMB INDEXRR"
     },
     {
       "date": "2026-07-18",
@@ -343,6 +303,7 @@
       "name": "Open Water Turkey",
       "location": "İzmir, Çeşme",
       "distances": [
+        "1000m",
         "4000m"
       ],
       "status": "confirmed",
@@ -520,14 +481,15 @@
     },
     {
       "date": "2026-08-22",
-      "name": "Gömeç Atatürk Yol Koşusu",
+      "name": "Ege’nin İki Yakası Dostluk Koşusu – Gömeç Atatürk Yol Koşusu",
       "location": "Balıkesir, Gömeç",
       "distances": [
+        "3K",
         "10K"
       ],
       "status": "confirmed",
       "type": "road",
-      "link": "https://kosu.taf.org.tr/",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=179",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -1130,6 +1092,17 @@
       "notes": "*WTM*"
     },
     {
+      "date": "2026-09-18",
+      "name": "Mudanya Triatlonu",
+      "location": "Bursa",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
       "date": "2026-09-19",
       "name": "Ultimate Cunda",
       "location": "Balıkesir, Ayvalık",
@@ -1157,17 +1130,6 @@
       "link": "https://hyrox.com/event/hyrox-izmir/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-09-19",
-      "name": "Mudanya Triatlonu",
-      "location": "Bursa",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
     },
     {
       "date": "2026-09-19",
@@ -2119,6 +2081,19 @@
     },
     {
       "date": "2026-10-25",
+      "name": "Hamburg Half Marathon",
+      "location": "Almanya",
+      "distances": [
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.hamburg-halbmarathon.com/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-25",
       "name": "Dublin Marathon",
       "location": "İrlanda",
       "distances": [
@@ -2922,6 +2897,17 @@
       "notes": "🇹🇷"
     },
     {
+      "date": "2026-12-27",
+      "name": "Istanbul Indoor O Cup",
+      "location": "İstanbul",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://oagrup.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
       "date": null,
       "name": "🎄 MUTLU, KOŞU İLE DOPDOLU YILLAAAAR! 🎄",
       "location": "",
@@ -3185,6 +3171,20 @@
       "link": "https://kosuturkiye.com/uluslararasi-yalikavak-yari-maratonu/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2027-04-25",
+      "name": "Hamburg Marathon",
+      "location": "Almanya",
+      "distances": [
+        "42K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://haspa-marathon-hamburg.de/en/",
+      "is_turkey": false,
+      "notes": ""
     },
     {
       "date": "2027-05-29",
@@ -6394,6 +6394,17 @@
       "status": "confirmed",
       "type": "swimming",
       "link": "https://www.aquachallenge.org/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2025-10-25",
+      "name": "Kadıköy Macerası",
+      "location": "İstanbul, Kadıköy",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://oagrup.com/",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -11793,11 +11804,11 @@
       "distances": [
         "21K"
       ],
-      "status": "confirmed",
+      "status": "postponed",
       "type": "road",
       "link": "https://www.hamburg-halbmarathon.com/",
       "is_turkey": false,
-      "notes": ""
+      "notes": "Ekim’e ertelendi."
     },
     {
       "date": "2026-06-28",
@@ -12119,6 +12130,46 @@
       "link": "https://www.dolomythsrun.it/en/home.html",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2026-07-15",
+      "name": "15 Temmuz Demokrasi Koşusu",
+      "location": "Ankara, Keçiören",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-07-15",
+      "name": "15 Temmuz Demokrasi ve Şehitleri Anma Yürüyüşü",
+      "location": "İstanbul, Zincirlikuyu",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Ücretsiz"
+    },
+    {
+      "date": "2026-07-15",
+      "name": "Yalova Açık Su Yüzme Yarışması",
+      "location": "Yalova",
+      "distances": [
+        "2K",
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://www.sporlayalova.com/etkinlikler",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     }
   ]
 }
