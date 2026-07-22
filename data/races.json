@@ -1,112 +1,7 @@
 {
-  "updated": "2026-07-18T08:28:57.081048",
-  "count": 847,
+  "updated": "2026-07-22T09:21:12.375247",
+  "count": 867,
   "races": [
-    {
-      "date": "2026-07-15",
-      "name": "Eiger Ultra Trail by UTMB",
-      "location": "İsviçre",
-      "distances": [
-        "E16",
-        "E35",
-        "E51",
-        "E101",
-        "E250"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://eiger.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-07-17",
-      "name": "Zagori Race",
-      "location": "Yunanistan",
-      "distances": [
-        "5K",
-        "10K",
-        "21K",
-        "33K",
-        "60K",
-        "93K etaplı"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.zagorirace.gr/en/",
-      "is_turkey": false,
-      "notes": "♥"
-    },
-    {
-      "date": "2026-07-17",
-      "name": "Monte Rosa Walserwaeg by UTMB",
-      "location": "İtalya",
-      "distances": [
-        "15K",
-        "43K",
-        "80K",
-        "120K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://mrww.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-07-18",
-      "name": "Uludağ Premium Ultra Trail",
-      "location": "Bursa, Uludağ Kurbağa Kaya Teleferik İstasyonu",
-      "distances": [
-        "6K",
-        "16K",
-        "30K",
-        "42K",
-        "70K (YENİ)"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://uludagultra.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 ITRA UTMB INDEXRR"
-    },
-    {
-      "date": "2026-07-18",
-      "name": "Masterlar TR Şampiyonası",
-      "location": "Eskişehir",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-07-18",
-      "name": "TR Patika Şampiyonası",
-      "location": "Konya",
-      "distances": [],
-      "status": "confirmed",
-      "type": "orienteering",
-      "link": "https://www.oryantiring.org.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-07-18",
-      "name": "Vauban Mountain Trail",
-      "location": "Fransa",
-      "distances": [
-        "VK",
-        "7K",
-        "14K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://trail-serre-chevalier.com/",
-      "is_turkey": false,
-      "notes": ""
-    },
     {
       "date": "2026-07-23",
       "name": "Kackar by UTMB -Run Like Her Training Camp 5K Run",
@@ -297,6 +192,21 @@
       "link": "https://www.instagram.com/p/DZxNKTss-jn/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-08-02",
+      "name": "Körfez Kiraz Koşusu",
+      "location": "Kocaeli, Hereke Kalesi",
+      "distances": [
+        "10K",
+        "3K",
+        "Çocuk Koşusu"
+      ],
+      "status": "postponed",
+      "type": "road",
+      "link": null,
+      "is_turkey": true,
+      "notes": "🇹🇷ERTELENDİ!"
     },
     {
       "date": "2026-08-02",
@@ -761,6 +671,17 @@
       "notes": "RR2018♥√"
     },
     {
+      "date": "2026-09-03",
+      "name": "İzmir Kurtuluş Oryantiring Günleri",
+      "location": "İzmir",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://kurtulusgunleri.izmirosk.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
       "date": "2026-09-05",
       "name": "İstanbul Ultra",
       "location": "İstanbul, Kemerburgaz Kent Ormanı",
@@ -875,6 +796,22 @@
       "notes": "🇹🇷"
     },
     {
+      "date": "2026-09-06",
+      "name": "Swim Run Turkey",
+      "location": "İzmir, Urla",
+      "distances": [
+        "1500m koşu + 500m yüzme",
+        "3000m koşu + 450m yüzme",
+        "2500m koşu +600m yüzme",
+        "3000m koşu + 450m yüzme = 10K koşu + 2K yüzme"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.finishers.com/en/event/swimrun-turkey",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
       "date": "2026-09-10",
       "name": "Pirin Ultra",
       "location": "Bulgaristan, Bansko",
@@ -925,6 +862,7 @@
       "name": "Kaçkar by UTMB",
       "location": "Rize",
       "distances": [
+        "4K (YENİ)",
         "20K",
         "5OK",
         "100K"
@@ -964,7 +902,7 @@
       "type": "trail",
       "link": "https://beachrun.com.tr/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
     },
     {
       "date": "2026-09-12",
@@ -1057,6 +995,23 @@
       "link": "https://www.instagram.com/kosuinfo/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
+    },
+    {
+      "date": "2026-09-17",
+      "name": "Run & Recharge Camp",
+      "location": "Muğla, Datça",
+      "distances": [
+        "Ayhan Esen ile 4 gün etaplı koşu kampı",
+        "yoga",
+        "yürüyüş",
+        "yüzme",
+        "seminerler"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.instagram.com/runrechargecamp/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-09-17",
@@ -1160,14 +1115,15 @@
     },
     {
       "date": "2026-09-20",
-      "name": "Anadolu Sigorta Koşusu",
+      "name": "Anadolu Sigorta Bir Adım Daha Koşusu",
       "location": "İstanbul, Balat İskelesi",
       "distances": [
-        "TBC"
+        "5K",
+        "10K"
       ],
       "status": "confirmed",
       "type": "road",
-      "link": "https://www.instagram.com/sportstouch/",
+      "link": "https://biradimdahaanadolusigorta.com.tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -1255,9 +1211,9 @@
       ],
       "status": "confirmed",
       "type": "trail",
-      "link": "https://kosu.taf.org.tr/index.php#home",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=129",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) Yarış henüz Backyard Ultra şemsiye yarış statüsünde değildir."
+      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2026-09-26",
@@ -1636,19 +1592,6 @@
     },
     {
       "date": "2026-10-11",
-      "name": "Bosphorun Quarter Marathon – Beşiktaş",
-      "location": "İstanbul, Kuruçeşme",
-      "distances": [
-        "10.5K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://bosphorun.istanbul/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-11",
       "name": "Anadolu Yarı Maratonu",
       "location": "İstanbul, Kadıköy – Kartal",
       "distances": [
@@ -1735,6 +1678,23 @@
     },
     {
       "date": "2026-10-15",
+      "name": "Run & Recharge Camp",
+      "location": "Muğla, Datça",
+      "distances": [
+        "Ayhan Esen ile 4 gün etaplı koşu kampı",
+        "yoga",
+        "yürüyüş",
+        "yüzme",
+        "seminerler"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.instagram.com/runrechargecamp/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-15",
       "name": "Festival des Templiers",
       "location": "Fransa",
       "distances": [
@@ -1784,13 +1744,39 @@
     {
       "date": "2026-10-17",
       "name": "Big Dog’s Satellite Championships: Team Turkey",
-      "location": "Manisa (TBC)",
+      "location": "Nevşehir (TBC)",
       "distances": [
         "6.706K X katları"
       ],
       "status": "confirmed",
       "type": "trail",
       "link": "https://mcr-racesetter.com/yarislar/backyard-ultra/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-17",
+      "name": "utax 2026 – ITRA National League European Final",
+      "location": "Portekiz, Castanheira de Pera",
+      "distances": [
+        "56K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://stopandgo.net/events/utax-axtrail2026",
+      "is_turkey": false,
+      "notes": "National League yaş gruplarının ilk 10 kadın-erkek davet edildiği Avrupa finalleri"
+    },
+    {
+      "date": "2026-10-18",
+      "name": "Bosphorun Quarter Marathon – Beşiktaş",
+      "location": "İstanbul, Kuruçeşme",
+      "distances": [
+        "10.5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://bosphorun.istanbul/",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -1811,20 +1797,6 @@
     },
     {
       "date": "2026-10-18",
-      "name": "Fethiye Likya’rı Maratonu",
-      "location": "Muğla, Fethiye",
-      "distances": [
-        "10K",
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://sporfest.com.tr/tum-yarislar/114",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-18",
       "name": "Run Nysa",
       "location": "Aydın, Sultanhisar",
       "distances": [
@@ -1842,12 +1814,12 @@
       "name": "Ordu Yarı Maratonu",
       "location": "Ordu",
       "distances": [
-        "5K",
+        "10K",
         "21K"
       ],
       "status": "confirmed",
       "type": "road",
-      "link": "https://www.instagram.com/ordu.yarimaratonu/",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=184",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -1906,7 +1878,7 @@
       ],
       "status": "confirmed",
       "type": "road",
-      "link": "https://heliz.life/event/Heliz-Kas-Yari-Maratonu-2026",
+      "link": "https://heliz.life/event/heliz-kas-yari-maratonu-2026",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -1992,6 +1964,19 @@
       "link": "https://kosu.taf.org.tr/index.php#home",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Caddebostan Cumhuriyet Koşusu",
+      "location": "İstanbul, Caddebostan",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=186",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2026-10-25",
@@ -2159,6 +2144,21 @@
       "status": "confirmed",
       "type": "swimming",
       "link": "https://www.aquachallenge.org/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-26",
+      "name": "Antalya O-FEST",
+      "location": "Antalya",
+      "distances": [
+        "Sprint",
+        "Classic",
+        "Middle"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.antalyaofest.com/",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -2383,6 +2383,20 @@
     },
     {
       "date": "2026-11-08",
+      "name": "Fethiye Likya’rı Maratonu",
+      "location": "Muğla, Fethiye",
+      "distances": [
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://sporfest.com.tr/tum-yarislar/114",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-11-08",
       "name": "UCI Gran Fondo Antalya",
       "location": "Antalya",
       "distances": [
@@ -2437,6 +2451,22 @@
     },
     {
       "date": "2026-11-13",
+      "name": "Kaş Aquathlon",
+      "location": "Antalya, Kaş",
+      "distances": [
+        "1000m yüzme + 5K koşu",
+        "2500m yüzme + 3.5K koşu",
+        "500m yüzme + 9K koşu",
+        "team"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://heliz.life/event/heliz-kas-aquathlon-2026",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-11-13",
       "name": "Sagalassos Sky Ultra",
       "location": "Isparta, Burdur, Ağlasun",
       "distances": [
@@ -2451,6 +2481,21 @@
       "link": "https://www.sagalassosultra.com/",
       "is_turkey": true,
       "notes": "🇹🇷 ITRA UTMB INDEXYENİ TARİH!"
+    },
+    {
+      "date": "2026-11-14",
+      "name": "TOŞ 1. Kademe Yarışları",
+      "location": "Tokat",
+      "distances": [
+        "Uzun mesafe",
+        "Orta mesafe",
+        "Sürat"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.oryantiring.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 √"
     },
     {
       "date": "2026-11-14",
@@ -2573,6 +2618,23 @@
       "link": "https://catalkayaultra.com/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈) ITRA UTMB INDEX"
+    },
+    {
+      "date": "2026-11-21",
+      "name": "Run & Recharge Camp",
+      "location": "Muğla, Datça",
+      "distances": [
+        "Ayhan Esen ile 4 gün etaplı koşu kampı",
+        "yoga",
+        "yürüyüş",
+        "yüzme",
+        "seminerler"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.instagram.com/runrechargecamp/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-11-22",
@@ -2835,6 +2897,38 @@
       "notes": ""
     },
     {
+      "date": "2026-12-17",
+      "name": "Run & Recharge Camp",
+      "location": "Muğla, Datça",
+      "distances": [
+        "Ayhan Esen ile 4 gün etaplı koşu kampı",
+        "yoga",
+        "yürüyüş",
+        "yüzme",
+        "seminerler"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.instagram.com/runrechargecamp/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-12-18",
+      "name": "TOŞ 2. Kademe Yarışları",
+      "location": "Aydın",
+      "distances": [
+        "Klasik",
+        "Sürat",
+        "Sürat"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.oryantiring.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 √"
+    },
+    {
       "date": "2026-12-19",
       "name": "Dark Run",
       "location": "İstanbul, Ataköy Atletizm Pisti",
@@ -2874,7 +2968,7 @@
       ],
       "status": "confirmed",
       "type": "road",
-      "link": "https://kosu.taf.org.tr/index.php#home",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=104",
       "is_turkey": true,
       "notes": "🇹🇷 √"
     },
@@ -2983,6 +3077,21 @@
       "notes": "*UTMBWS*"
     },
     {
+      "date": "2027-01-25",
+      "name": "Antalya O-MEETING",
+      "location": "Antalya",
+      "distances": [
+        "Sprint",
+        "Classic",
+        "Middle"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://antalyaomeeting.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 WRE (World Ranking Event)"
+    },
+    {
       "date": "2027-01-31",
       "name": "Osaka Half Marathon",
       "location": "Japonya",
@@ -3084,6 +3193,21 @@
       "notes": "🇹🇷 ITRA UTMB INDEX ♥ √RR2022RR2021ENRR2019vlog remake 2019"
     },
     {
+      "date": "2027-03-26",
+      "name": "Türkiye Oryantiring Şampiyonası",
+      "location": "Bursa",
+      "distances": [
+        "Uzun Mesafe",
+        "Orta Mesafe",
+        "Sürat"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.oryantiring.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
       "date": "2027-03-27",
       "name": "Adana Backyard Ultra",
       "location": "Adana, Yaşar Kemal Koşu Parkuru",
@@ -3108,6 +3232,33 @@
       "link": "https://www.instagram.com/silivriultratrail/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2027-04-10",
+      "name": "Masterler Türkiye Oryantiring Şampiyonası",
+      "location": "İstanbul",
+      "distances": [
+        "Orta Mesafe",
+        "Sürat"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.oryantiring.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-04-12",
+      "name": "Bayrak Türkiye Oryantiring Şampiyonası",
+      "location": "İstanbul",
+      "distances": [
+        "Bayrak"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.oryantiring.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-04-17",
@@ -3142,6 +3293,24 @@
       "link": "https://babadagultra.com/",
       "is_turkey": true,
       "notes": "🇹🇷  ITRA √"
+    },
+    {
+      "date": "2027-04-23",
+      "name": "Marmaris Ultra Trail",
+      "location": "Muğla, Marmaris",
+      "distances": [
+        "5K",
+        "16K",
+        "30K",
+        "48K",
+        "70K",
+        "106K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://marmarisultra.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA UTMB INDEX"
     },
     {
       "date": "2027-04-24",
@@ -3187,6 +3356,32 @@
       "notes": ""
     },
     {
+      "date": "2027-05-08",
+      "name": "Tahtalı Run to Sky",
+      "location": "Antalya, Kemer",
+      "distances": [
+        "11K",
+        "27K",
+        "43K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.tahtaliruntosky.com/tr",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA UTMB INDEXRR2021RRENVLOG"
+    },
+    {
+      "date": "2027-05-21",
+      "name": "WMOC Dünya Masterlar Şampiyonası",
+      "location": "Japonya",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://wmoc2027.jp/",
+      "is_turkey": false,
+      "notes": "√"
+    },
+    {
       "date": "2027-05-29",
       "name": "Gebze Ultra Trail",
       "location": "Kocaeli",
@@ -3214,6 +3409,24 @@
       "link": "https://www.tosfed.org.tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2027-07-22",
+      "name": "Gletscher Trail Run",
+      "location": "Avusturya, Gurgl",
+      "distances": [
+        "6",
+        "3K",
+        "14K",
+        "26K",
+        "42K",
+        "62K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.oetztal-trailrunning.at/die-running-events/gletscher-trailrun/",
+      "is_turkey": false,
+      "notes": "♥"
     },
     {
       "date": null,
@@ -10065,7 +10278,7 @@
       ],
       "status": "confirmed",
       "type": "trail",
-      "link": "https://event.tahtaliruntosky.com/",
+      "link": "https://www.tahtaliruntosky.com/tr",
       "is_turkey": true,
       "notes": "🇹🇷 ITRA UTMB INDEXRR2021RRENVLOG"
     },
@@ -12103,21 +12316,6 @@
     },
     {
       "date": "2026-07-12",
-      "name": "Körfez Kiraz Koşusu",
-      "location": "Kocaeli, Hereke Kalesi",
-      "distances": [
-        "10K",
-        "3K",
-        "Çocuk Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": null,
-      "is_turkey": true,
-      "notes": "🇹🇷İPTAL!"
-    },
-    {
-      "date": "2026-07-12",
       "name": "Dolomyths Run",
       "location": "İtalya",
       "distances": [
@@ -12170,6 +12368,111 @@
       "link": "https://www.sporlayalova.com/etkinlikler",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-07-15",
+      "name": "Eiger Ultra Trail by UTMB",
+      "location": "İsviçre",
+      "distances": [
+        "E16",
+        "E35",
+        "E51",
+        "E101",
+        "E250"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://eiger.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-07-17",
+      "name": "Zagori Race",
+      "location": "Yunanistan",
+      "distances": [
+        "5K",
+        "10K",
+        "21K",
+        "33K",
+        "60K",
+        "93K etaplı"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.zagorirace.gr/en/",
+      "is_turkey": false,
+      "notes": "♥"
+    },
+    {
+      "date": "2026-07-17",
+      "name": "Monte Rosa Walserwaeg by UTMB",
+      "location": "İtalya",
+      "distances": [
+        "15K",
+        "43K",
+        "80K",
+        "120K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://mrww.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-07-18",
+      "name": "Uludağ Premium Ultra Trail",
+      "location": "Bursa, Uludağ Kurbağa Kaya Teleferik İstasyonu",
+      "distances": [
+        "6K",
+        "16K",
+        "30K",
+        "42K",
+        "70K (YENİ)"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://uludagultra.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA UTMB INDEX √RR"
+    },
+    {
+      "date": "2026-07-18",
+      "name": "Masterlar TR Şampiyonası",
+      "location": "Eskişehir",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-07-18",
+      "name": "TR Patika Şampiyonası",
+      "location": "Konya",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.oryantiring.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-07-18",
+      "name": "Vauban Mountain Trail",
+      "location": "Fransa",
+      "distances": [
+        "VK",
+        "7K",
+        "14K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://trail-serre-chevalier.com/",
+      "is_turkey": false,
+      "notes": ""
     }
   ]
 }
