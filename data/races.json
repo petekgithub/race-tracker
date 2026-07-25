@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T09:21:12.375247",
-  "count": 867,
+  "updated": "2026-07-25T08:53:12.337742",
+  "count": 869,
   "races": [
     {
       "date": "2026-07-23",
@@ -46,6 +46,19 @@
       "link": "https://www.ultratrail.at/en",
       "is_turkey": false,
       "notes": "RR"
+    },
+    {
+      "date": "2026-07-24",
+      "name": "Fuji Mountain Race",
+      "location": "Japonya",
+      "distances": [
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://runjapan.jp/entry/runtes/smp/competitiondetail.do?raceId=E336848&div=1",
+      "is_turkey": false,
+      "notes": ""
     },
     {
       "date": "2026-07-24",
@@ -1187,8 +1200,8 @@
     },
     {
       "date": "2026-09-26",
-      "name": "Gökova Yarı Maratonu",
-      "location": "Muğla, Akyaka",
+      "name": "Gökova Run Fest",
+      "location": "Muğla, Gökova",
       "distances": [
         "5K",
         "10K",
@@ -1197,7 +1210,7 @@
       ],
       "status": "confirmed",
       "type": "road",
-      "link": "https://www.gokovayarimaratonu.org/",
+      "link": "https://gotix.com.tr/activities/30",
       "is_turkey": true,
       "notes": "🇹🇷YENİ TARİH!"
     },
@@ -1619,6 +1632,23 @@
       "link": "https://tursetsports.com/races/gelibolu",
       "is_turkey": true,
       "notes": "🇹🇷RR2015"
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Girne Yarı Maratonu",
+      "location": "Kıbrıs, Girne",
+      "distances": [
+        "5K",
+        "10K",
+        "21K",
+        "Çocuk Koşusu",
+        "3K Halk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://girnemaratonu.com/",
+      "is_turkey": false,
+      "notes": "Halk ve çocuk koşusu ücretsizdir."
     },
     {
       "date": "2026-10-11",
@@ -2509,7 +2539,7 @@
       ],
       "status": "confirmed",
       "type": "trail",
-      "link": "https://gotix.com.tr/#/activity_detail?activity_id=28",
+      "link": "https://gotix.com.tr/activities/28",
       "is_turkey": true,
       "notes": "🇹🇷 UTMB INDEXRR2019VLOG2019"
     },
@@ -2518,13 +2548,17 @@
       "name": "Antalya Canyon Ultra",
       "location": "Antalya",
       "distances": [
-        "TBC"
+        "7K",
+        "13K",
+        "33K",
+        "45K",
+        "70K"
       ],
       "status": "confirmed",
       "type": "trail",
       "link": "https://www.antalyacanyontrail.com/tr/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷 (YENİ 🎈)  ITRA UTMB INDEX"
     },
     {
       "date": "2026-11-15",
