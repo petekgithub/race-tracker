@@ -1,110 +1,7 @@
 {
-  "updated": "2026-07-25T08:53:12.337742",
-  "count": 869,
+  "updated": "2026-07-29T09:31:43.934397",
+  "count": 873,
   "races": [
-    {
-      "date": "2026-07-23",
-      "name": "Kackar by UTMB -Run Like Her Training Camp 5K Run",
-      "location": "Rize",
-      "distances": [
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.instagram.com/p/DZwejydDah4/?img_index=1",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) Kayıt gerekmiyor. Ücretsiz topluluk koşusu etkinliğidir."
-    },
-    {
-      "date": "2026-07-23",
-      "name": "Speedgoat by UTMB Mountain Races",
-      "location": "ABD",
-      "distances": [
-        "10K",
-        "31K",
-        "50K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://speedgoat.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-07-23",
-      "name": "Grossglockner Ultra Trail",
-      "location": "Almanya",
-      "distances": [
-        "16K",
-        "37K",
-        "57K",
-        "84K",
-        "110K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.ultratrail.at/en",
-      "is_turkey": false,
-      "notes": "RR"
-    },
-    {
-      "date": "2026-07-24",
-      "name": "Fuji Mountain Race",
-      "location": "Japonya",
-      "distances": [
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://runjapan.jp/entry/runtes/smp/competitiondetail.do?raceId=E336848&div=1",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-07-24",
-      "name": "Bucovina Ultra Rocks by UTMB",
-      "location": "Romanya",
-      "distances": [
-        "5K",
-        "15K",
-        "20K",
-        "33K",
-        "48K",
-        "72K",
-        "114K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://bucovina.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-07-25",
-      "name": "Bafra Kapıkaya Dağ Koşusu",
-      "location": "Samsun",
-      "distances": [
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.kapikayafest.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-07-26",
-      "name": "Evden bi Koşu İznik",
-      "location": "İznik",
-      "distances": [
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://merbespor.com/event/evden-bi-kosu-iznik-2026/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
     {
       "date": "2026-07-31",
       "name": "Aladağlar Dağcılık ve Dağ Turizmi Festivali",
@@ -114,7 +11,7 @@
       "type": "trail",
       "link": "https://tdf.tr/aladaglar-dagcilik-ve-dag-turizmi-festivali/",
       "is_turkey": true,
-      "notes": "🇹🇷"
+      "notes": "🇹🇷 √"
     },
     {
       "date": "2026-07-31",
@@ -149,7 +46,7 @@
       "type": "trail",
       "link": "https://www.konyaultratrail.com/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) ITRA"
+      "notes": "🇹🇷 √ (YENİ 🎈) ITRA"
     },
     {
       "date": "2026-08-01",
@@ -640,6 +537,19 @@
       "link": "https://kosu.taf.org.tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-08-30",
+      "name": "ZAFERe Koşanlar",
+      "location": "81 ilde",
+      "distances": [
+        "30.08K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/zaferekosanlar30.08k/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-08-30",
@@ -1799,7 +1709,7 @@
     },
     {
       "date": "2026-10-18",
-      "name": "Bosphorun Quarter Marathon – Beşiktaş",
+      "name": "Bosphorun Quarter Marathon – Bebek",
       "location": "İstanbul, Kuruçeşme",
       "distances": [
         "10.5K"
@@ -3405,6 +3315,22 @@
       "notes": "🇹🇷 ITRA UTMB INDEXRR2021RRENVLOG"
     },
     {
+      "date": "2027-05-08",
+      "name": "Corfu Mountain Trail",
+      "location": "Yunanistan, Korfu Adası",
+      "distances": [
+        "12K",
+        "24K",
+        "44K",
+        "103K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://corfumountaintrail.com/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
       "date": "2027-05-21",
       "name": "WMOC Dünya Masterlar Şampiyonası",
       "location": "Japonya",
@@ -3443,6 +3369,17 @@
       "link": "https://www.tosfed.org.tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2027-07-02",
+      "name": "Tour de FRANCE",
+      "location": "Fransa",
+      "distances": [],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://www.letour.fr/en",
+      "is_turkey": false,
+      "notes": ""
     },
     {
       "date": "2027-07-22",
@@ -4507,7 +4444,7 @@
       "notes": ""
     },
     {
-      "date": "2026-07-26",
+      "date": "2027-07-26",
       "name": "Fjall Maraton",
       "location": "İsveç",
       "distances": [
@@ -12507,6 +12444,127 @@
       "link": "https://trail-serre-chevalier.com/",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2026-07-23",
+      "name": "Kackar by UTMB -Run Like Her Training Camp 5K Run",
+      "location": "Rize",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/p/DZwejydDah4/?img_index=1",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Kayıt gerekmiyor. Ücretsiz topluluk koşusu etkinliğidir."
+    },
+    {
+      "date": "2026-07-23",
+      "name": "Speedgoat by UTMB Mountain Races",
+      "location": "ABD",
+      "distances": [
+        "10K",
+        "31K",
+        "50K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://speedgoat.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-07-23",
+      "name": "Grossglockner Ultra Trail",
+      "location": "Almanya",
+      "distances": [
+        "16K",
+        "37K",
+        "57K",
+        "84K",
+        "110K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.ultratrail.at/en",
+      "is_turkey": false,
+      "notes": "RR"
+    },
+    {
+      "date": "2026-07-24",
+      "name": "Fuji Mountain Race",
+      "location": "Japonya",
+      "distances": [
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://runjapan.jp/entry/runtes/smp/competitiondetail.do?raceId=E336848&div=1",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-07-24",
+      "name": "Bucovina Ultra Rocks by UTMB",
+      "location": "Romanya",
+      "distances": [
+        "5K",
+        "15K",
+        "20K",
+        "33K",
+        "48K",
+        "72K",
+        "114K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://bucovina.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-07-24",
+      "name": "Tatra Sky Marathon",
+      "location": "Polonya",
+      "distances": [
+        "10K",
+        "21K",
+        "40K",
+        "80K",
+        "120K",
+        "54K SKYLINE"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://tatraskymarathon.pl/en/home/",
+      "is_turkey": false,
+      "notes": "♥"
+    },
+    {
+      "date": "2026-07-25",
+      "name": "Bafra Kapıkaya Dağ Koşusu",
+      "location": "Samsun",
+      "distances": [
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.kapikayafest.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-07-26",
+      "name": "Evden bi Koşu İznik",
+      "location": "İznik",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://merbespor.com/event/evden-bi-kosu-iznik-2026/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     }
   ]
 }
