@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-29T09:31:43.934397",
+  "updated": "2026-08-01T08:58:18.325852",
   "count": 873,
   "races": [
     {
-      "date": "2026-07-31",
+      "date": "2027-07-31",
       "name": "Aladağlar Dağcılık ve Dağ Turizmi Festivali",
       "location": "Niğde, Aladağlar",
       "distances": [],
@@ -14,7 +14,7 @@
       "notes": "🇹🇷 √"
     },
     {
-      "date": "2026-07-31",
+      "date": "2027-07-31",
       "name": "Salomon Golden Trail Series – Pitz Alpine Glacier Trail",
       "location": "Avusturya, Tyrol",
       "distances": [
@@ -58,6 +58,21 @@
       "link": "https://hyrox.com/event/hyrox-istanbul/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-01",
+      "name": "Yalova Açık Su Yüzme Yarışması",
+      "location": "Yalova",
+      "distances": [
+        "1K",
+        "2K",
+        "3K"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://www.sporlayalova.com/etkinlikler/yuzme-yarisi-2026",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)YENİTARİH!"
     },
     {
       "date": "2026-08-01",
@@ -126,11 +141,11 @@
         "1000m",
         "4000m"
       ],
-      "status": "confirmed",
+      "status": "postponed",
       "type": "swimming",
       "link": "https://www.instagram.com/p/DaU70rzI9BK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
       "is_turkey": true,
-      "notes": "🇹🇷 √ ÜCRETSİZ ETKİNLİK"
+      "notes": "🇹🇷 √ ÜCRETSİZ ETKİNLİKHava muhalefeti sebebiyle ERTELENDİ!"
     },
     {
       "date": "2026-08-03",
@@ -12325,20 +12340,6 @@
       "link": "https://kosu.taf.org.tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈) Ücretsiz"
-    },
-    {
-      "date": "2026-07-15",
-      "name": "Yalova Açık Su Yüzme Yarışması",
-      "location": "Yalova",
-      "distances": [
-        "2K",
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://www.sporlayalova.com/etkinlikler",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2026-07-15",
