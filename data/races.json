@@ -1,53 +1,7 @@
 {
-  "updated": "2026-08-08T07:38:03.591429",
-  "count": 885,
+  "updated": "2026-08-12T08:08:07.738635",
+  "count": 887,
   "races": [
-    {
-      "date": "2026-08-06",
-      "name": "KAT 100 by UTMB",
-      "location": "Avusturya",
-      "distances": [
-        "8K",
-        "24K",
-        "51K",
-        "81K",
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://kat.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-08-07",
-      "name": "Swiss Alps 100",
-      "location": "İsviçre",
-      "distances": [
-        "VK",
-        "50K",
-        "100K",
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.swissalps100.com/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-08-08",
-      "name": "Salomon Golden Trail Series –Sierre – Zinal",
-      "location": "İsviçre",
-      "distances": [
-        "31K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://www.sierre-zinal.com/en/homepage.html",
-      "is_turkey": false,
-      "notes": "♥"
-    },
     {
       "date": "2026-08-14",
       "name": "Ultra Abant",
@@ -56,7 +10,8 @@
         "6K",
         "18K",
         "34K",
-        "60K"
+        "60K",
+        "Çocuk Koşusu"
       ],
       "status": "confirmed",
       "type": "trail",
@@ -620,7 +575,7 @@
     },
     {
       "date": "2026-09-06",
-      "name": "Swim Run Turkey",
+      "name": "Swim Run Türkiye",
       "location": "İzmir, Urla",
       "distances": [
         "1500m koşu + 500m yüzme",
@@ -632,7 +587,7 @@
       "type": "trail",
       "link": "https://www.finishers.com/en/event/swimrun-turkey",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷 (YENİ 🎈) Ücretsizdir"
     },
     {
       "date": "2026-09-10",
@@ -764,19 +719,6 @@
       "link": "https://www.ironman.com/races/im703-world-championship-2026",
       "is_turkey": false,
       "notes": ""
-    },
-    {
-      "date": "2026-09-13",
-      "name": "Aydos Kale Trail",
-      "location": "İstanbul, Sultanbeyli",
-      "distances": [
-        "15K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://ulakbel.sultanbeyli.bel.tr/WebBasvuru/aydoskaletrailsporcukayitformu#",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)YENİ TARİH!"
     },
     {
       "date": "2026-09-13",
@@ -1067,6 +1009,20 @@
     },
     {
       "date": "2026-09-26",
+      "name": "Merdiven Challenge",
+      "location": "Mersin, Silifke",
+      "distances": [
+        "452 basamak merdiven çıkışı",
+        "Ferdi ve Takım (Çiftler) Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=193",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-09-26",
       "name": "Spartathlon",
       "location": "Yunanistan",
       "distances": [
@@ -1290,6 +1246,19 @@
       "link": "https://bodrumyarimaratonu.com/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-04",
+      "name": "Aydos Kale Trail",
+      "location": "İstanbul, Sultanbeyli",
+      "distances": [
+        "15K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://aydoskaletrail.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)YENİ TARİH!Ücretsizdir."
     },
     {
       "date": "2026-10-04",
@@ -1627,7 +1596,7 @@
     {
       "date": "2026-10-17",
       "name": "Big Dog’s Satellite Championships: Team Turkey",
-      "location": "Nevşehir (TBC)",
+      "location": "Nevşehir, Mustafapaşa",
       "distances": [
         "6.706K X katları"
       ],
@@ -1635,7 +1604,7 @@
       "type": "trail",
       "link": "https://mcr-racesetter.com/yarislar/backyard-ultra/",
       "is_turkey": true,
-      "notes": "🇹🇷"
+      "notes": "🇹🇷 √"
     },
     {
       "date": "2026-10-17",
@@ -3153,6 +3122,19 @@
       "link": "https://www.adanabackyardultra.com/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-04-02",
+      "name": "Marathon des Sables",
+      "location": "Fas, Sahara Çölü",
+      "distances": [
+        "250K -6 gün etaplı"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://marathondessables.com/en/event/mds-legendary-2027",
+      "is_turkey": false,
+      "notes": ""
     },
     {
       "date": "2027-04-04",
@@ -12744,6 +12726,52 @@
       "link": "https://www.hermesentry.com/r/agr-dag-kosu-kamp/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-06",
+      "name": "KAT 100 by UTMB",
+      "location": "Avusturya",
+      "distances": [
+        "8K",
+        "24K",
+        "51K",
+        "81K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kat.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-08-07",
+      "name": "Swiss Alps 100",
+      "location": "İsviçre",
+      "distances": [
+        "VK",
+        "50K",
+        "100K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.swissalps100.com/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-08-08",
+      "name": "Salomon Golden Trail Series –Sierre – Zinal",
+      "location": "İsviçre",
+      "distances": [
+        "31K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://www.sierre-zinal.com/en/homepage.html",
+      "is_turkey": false,
+      "notes": "♥"
     }
   ]
 }
