@@ -1,50 +1,7 @@
 {
-  "updated": "2026-08-15T07:19:10.475987",
-  "count": 893,
+  "updated": "2026-08-19T07:29:00.241503",
+  "count": 895,
   "races": [
-    {
-      "date": "2026-08-14",
-      "name": "Ultra Abant",
-      "location": "Bolu, Abant",
-      "distances": [
-        "6K",
-        "18K",
-        "34K",
-        "60K",
-        "Çocuk Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.ultraabant.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 ITRA"
-    },
-    {
-      "date": "2026-08-15",
-      "name": "Uluslararası Boğaziçi Triatlonu",
-      "location": "İstanbul",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-08-16",
-      "name": "Eskişehir Yarı Maratonu",
-      "location": "Eskişehir",
-      "distances": [
-        "10K",
-        "21K",
-        "Çocuk Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.eskisehiryarimaratonu.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷YENİ TARİH!"
-    },
     {
       "date": "2026-08-19",
       "name": "Grand Raid Des Pyrenees",
@@ -297,6 +254,17 @@
       "link": "https://montblanc.utmb.world/races/etc",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2026-08-26",
+      "name": "High5 The Inside Run",
+      "location": "İstanbul, İstinye Park",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://luma.com/l7yiyyc7?fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAadhiteGIHaitGpKLvaU6w5G9Btaems9wfjZXuQl_RfzFuSwzqH3QWl4mguDeg_aem_H1VCnHJMCQa7kdjyuyybqA&utm_id=97760_v0_s00_e0_tv6_a1denni8y6gzaf",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2026-08-27",
@@ -585,7 +553,7 @@
       "type": "road",
       "link": "https://edirnemaratonu.org.tr/",
       "is_turkey": true,
-      "notes": "🇹🇷İPTAL!taf takvimindeki bilgiye göre güncellenmiştir."
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-09-06",
@@ -3474,6 +3442,22 @@
       "link": "https://www.gecemaratonu.com/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-07-15",
+      "name": "Monte Rosa Walserwaeg by UTMB",
+      "location": "İtalya",
+      "distances": [
+        "15K",
+        "43K",
+        "80K",
+        "120K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://mrww.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
     },
     {
       "date": "2027-07-16",
@@ -12866,6 +12850,49 @@
       "link": "https://www.sierre-zinal.com/en/homepage.html",
       "is_turkey": false,
       "notes": "♥"
+    },
+    {
+      "date": "2026-08-14",
+      "name": "Ultra Abant",
+      "location": "Bolu, Abant",
+      "distances": [
+        "6K",
+        "18K",
+        "34K",
+        "60K",
+        "Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.ultraabant.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA"
+    },
+    {
+      "date": "2026-08-15",
+      "name": "Uluslararası Boğaziçi Triatlonu",
+      "location": "İstanbul",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-16",
+      "name": "Eskişehir Yarı Maratonu",
+      "location": "Eskişehir",
+      "distances": [
+        "10K",
+        "21K",
+        "Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.eskisehiryarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷YENİ TARİH!"
     }
   ]
 }
