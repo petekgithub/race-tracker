@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T07:29:00.241503",
+  "updated": "2026-08-22T07:21:01.956723",
   "count": 895,
   "races": [
     {
@@ -991,16 +991,16 @@
     {
       "date": "2026-09-26",
       "name": "Ankara Botanik Backyard Ultra",
-      "location": "Ankara, Botanik Parkı",
+      "location": "Ankara, Üreğil Millet Bahçesi",
       "distances": [
         "6.706K X katları",
         "Takım"
       ],
       "status": "confirmed",
       "type": "trail",
-      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=129",
+      "link": "https://ankarabotanikbackyardultra.com/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷 (YENİ 🎈) Parkurun yeri değişti."
     },
     {
       "date": "2026-09-26",
