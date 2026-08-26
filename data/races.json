@@ -1,208 +1,7 @@
 {
-  "updated": "2026-08-22T07:21:01.956723",
+  "updated": "2026-08-26T07:36:38.112954",
   "count": 895,
   "races": [
-    {
-      "date": "2026-08-19",
-      "name": "Grand Raid Des Pyrenees",
-      "location": "Fransa",
-      "distances": [
-        "40K",
-        "40K",
-        "60K",
-        "80K",
-        "120K",
-        "160K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.grandraidpyrenees.com/en/",
-      "is_turkey": false,
-      "notes": "*WTM* ♥"
-    },
-    {
-      "date": "2026-08-21",
-      "name": "Trippy Trail",
-      "location": "İtalya",
-      "distances": [
-        "50K",
-        "100K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.orbit360.cc/trippy-trail",
-      "is_turkey": false,
-      "notes": "Desteksiz bir organizasyon, cut off süresi yok"
-    },
-    {
-      "date": "2026-08-21",
-      "name": "Runfire Salt Lake  Ultra Trail",
-      "location": "Aksaray, Eskil",
-      "distances": [
-        "10K",
-        "15K day/night",
-        "20K",
-        "40K",
-        "80K",
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.runfiresaltlake.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 ITRA UTMB INDEXRR2022RR2018"
-    },
-    {
-      "date": "2026-08-21",
-      "name": "Matterhorn Ultraks Extreme",
-      "location": "İsviçre",
-      "distances": [
-        "VK",
-        "19K",
-        "26K. 32K",
-        "49K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://www.matterhorn-ultraks.ch/en/races/extreme",
-      "is_turkey": false,
-      "notes": "SKYRACE WS ⚪"
-    },
-    {
-      "date": "2026-08-22",
-      "name": "Ege’nin İki Yakası Dostluk Koşusu – Gömeç Atatürk Yol Koşusu",
-      "location": "Balıkesir, Gömeç",
-      "distances": [
-        "3K",
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=179",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-08-22",
-      "name": "Davraz Sky Run",
-      "location": "Isparta, Sav",
-      "distances": [
-        "10K",
-        "25K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.ispartaatletizm.org/davraz-skyrun/",
-      "is_turkey": true,
-      "notes": "🇹🇷YENİ TARİH!"
-    },
-    {
-      "date": "2026-08-22",
-      "name": "Mavi Vatan Yüzme Yarışı",
-      "location": "Kocaeli, Gölcük",
-      "distances": [
-        "1500m"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://t3kys.com/tr/program/swimming/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) Ücretsizdir"
-    },
-    {
-      "date": "2026-08-22",
-      "name": "Trofeo Kima",
-      "location": "İtalya",
-      "distances": [
-        "52K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://www.trofeokima.org/?lang=en",
-      "is_turkey": false,
-      "notes": "SKYRACE WS ⚪"
-    },
-    {
-      "date": "2026-08-23",
-      "name": "Red Bull Uçuş Günü (Flugtag) Türkiye",
-      "location": "İstanbul, Caddebostan",
-      "distances": [],
-      "status": "confirmed",
-      "type": "other",
-      "link": "https://www.redbull.com/tr-tr/events/red-bull-ucus-gunu-turkiye",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-08-23",
-      "name": "Yeşilay Yarı Maratonu",
-      "location": "İstanbul, Sepetçiler Kasrı",
-      "distances": [
-        "10K. 21K",
-        "21K Paten"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.yesilaygeceyarimaratonu.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)YENİ TARİH!"
-    },
-    {
-      "date": "2026-08-23",
-      "name": "Menteşe Belediyesi Zafer Koşusu",
-      "location": "Muğla, Menteşe",
-      "distances": [
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://mentese.bel.tr/30-agustos-zafer-kosusu-etkinligi/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-08-23",
-      "name": "Boğaziçi Kıtalararası Yüzme Yarışı",
-      "location": "İstanbul, Kuruçeşme",
-      "distances": [
-        "6.5K"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://bogazici.olimpiyat.org.tr/tr",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-08-23",
-      "name": "Gran Fondo Başkent",
-      "location": "Ankara",
-      "distances": [
-        "56K",
-        "90K"
-      ],
-      "status": "confirmed",
-      "type": "cycling",
-      "link": "https://hadikaydol.com/event/granfondo-baskent-2026",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-08-23",
-      "name": "Chios Sakız Adası Yarı Maratonu",
-      "location": "Yunanistan, Sakız Adası",
-      "distances": [
-        "1.5K çocuk koşusu",
-        "5K",
-        "10.5K",
-        "21.1K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.chiosrunning.gr/imimarathonios-hiou/",
-      "is_turkey": false,
-      "notes": "RR2015♥√"
-    },
     {
       "date": "2026-08-24",
       "name": "UTMB PTL",
@@ -221,7 +20,7 @@
       "name": "UTMB TDS",
       "location": "Fransa",
       "distances": [
-        "153K"
+        "148K"
       ],
       "status": "confirmed",
       "type": "trail",
@@ -2493,11 +2292,12 @@
       "name": "Dragos 10K",
       "location": "İstanbul, Dragos",
       "distances": [
+        "5K",
         "10K"
       ],
       "status": "confirmed",
       "type": "road",
-      "link": "https://kosu.taf.org.tr/index.php",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=215",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -12893,6 +12693,207 @@
       "link": "https://www.eskisehiryarimaratonu.com/",
       "is_turkey": true,
       "notes": "🇹🇷YENİ TARİH!"
+    },
+    {
+      "date": "2026-08-19",
+      "name": "Grand Raid Des Pyrenees",
+      "location": "Fransa",
+      "distances": [
+        "40K",
+        "40K",
+        "60K",
+        "80K",
+        "120K",
+        "160K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.grandraidpyrenees.com/en/",
+      "is_turkey": false,
+      "notes": "*WTM* ♥"
+    },
+    {
+      "date": "2026-08-21",
+      "name": "Trippy Trail",
+      "location": "İtalya",
+      "distances": [
+        "50K",
+        "100K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.orbit360.cc/trippy-trail",
+      "is_turkey": false,
+      "notes": "Desteksiz bir organizasyon, cut off süresi yok"
+    },
+    {
+      "date": "2026-08-21",
+      "name": "Runfire Salt Lake  Ultra Trail",
+      "location": "Aksaray, Eskil",
+      "distances": [
+        "10K",
+        "15K day/night",
+        "20K",
+        "40K",
+        "80K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.runfiresaltlake.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA UTMB INDEXRR2022RR2018"
+    },
+    {
+      "date": "2026-08-21",
+      "name": "Matterhorn Ultraks Extreme",
+      "location": "İsviçre",
+      "distances": [
+        "VK",
+        "19K",
+        "26K. 32K",
+        "49K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://www.matterhorn-ultraks.ch/en/races/extreme",
+      "is_turkey": false,
+      "notes": "SKYRACE WS ⚪"
+    },
+    {
+      "date": "2026-08-22",
+      "name": "Ege’nin İki Yakası Dostluk Koşusu – Gömeç Atatürk Yol Koşusu",
+      "location": "Balıkesir, Gömeç",
+      "distances": [
+        "3K",
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=179",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-08-22",
+      "name": "Davraz Sky Run",
+      "location": "Isparta, Sav",
+      "distances": [
+        "10K",
+        "25K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.ispartaatletizm.org/davraz-skyrun/",
+      "is_turkey": true,
+      "notes": "🇹🇷YENİ TARİH!"
+    },
+    {
+      "date": "2026-08-22",
+      "name": "Mavi Vatan Yüzme Yarışı",
+      "location": "Kocaeli, Gölcük",
+      "distances": [
+        "1500m"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://t3kys.com/tr/program/swimming/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Ücretsizdir"
+    },
+    {
+      "date": "2026-08-22",
+      "name": "Trofeo Kima",
+      "location": "İtalya",
+      "distances": [
+        "52K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://www.trofeokima.org/?lang=en",
+      "is_turkey": false,
+      "notes": "SKYRACE WS ⚪"
+    },
+    {
+      "date": "2026-08-23",
+      "name": "Red Bull Uçuş Günü (Flugtag) Türkiye",
+      "location": "İstanbul, Caddebostan",
+      "distances": [],
+      "status": "confirmed",
+      "type": "other",
+      "link": "https://www.redbull.com/tr-tr/events/red-bull-ucus-gunu-turkiye",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-23",
+      "name": "Yeşilay Yarı Maratonu",
+      "location": "İstanbul, Sepetçiler Kasrı",
+      "distances": [
+        "10K. 21K",
+        "21K Paten"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.yesilaygeceyarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)YENİ TARİH!"
+    },
+    {
+      "date": "2026-08-23",
+      "name": "Menteşe Belediyesi Zafer Koşusu",
+      "location": "Muğla, Menteşe",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://mentese.bel.tr/30-agustos-zafer-kosusu-etkinligi/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-08-23",
+      "name": "Boğaziçi Kıtalararası Yüzme Yarışı",
+      "location": "İstanbul, Kuruçeşme",
+      "distances": [
+        "6.5K"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://bogazici.olimpiyat.org.tr/tr",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-23",
+      "name": "Gran Fondo Başkent",
+      "location": "Ankara",
+      "distances": [
+        "56K",
+        "90K"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://hadikaydol.com/event/granfondo-baskent-2026",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-23",
+      "name": "Chios Sakız Adası Yarı Maratonu",
+      "location": "Yunanistan, Sakız Adası",
+      "distances": [
+        "1.5K çocuk koşusu",
+        "5K",
+        "10.5K",
+        "21.1K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.chiosrunning.gr/imimarathonios-hiou/",
+      "is_turkey": false,
+      "notes": "♥RR2015"
     }
   ]
 }
