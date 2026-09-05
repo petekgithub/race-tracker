@@ -1,214 +1,7 @@
 {
-  "updated": "2026-09-02T11:50:11.730832",
-  "count": 895,
+  "updated": "2026-09-05T10:57:47.231356",
+  "count": 898,
   "races": [
-    {
-      "date": "2026-08-24",
-      "name": "UTMB PTL",
-      "location": "Fransa",
-      "distances": [
-        "300K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://montblanc.utmb.world/races/ptl",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-08-24",
-      "name": "UTMB TDS",
-      "location": "Fransa",
-      "distances": [
-        "148K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://montblanc.utmb.world/races/tds",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-08-24",
-      "name": "UTMB MCC",
-      "location": "Fransa",
-      "distances": [
-        "40K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://montblanc.utmb.world/races/mcc",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-08-25",
-      "name": "UTMB ETC",
-      "location": "İtalya",
-      "distances": [
-        "15K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://montblanc.utmb.world/races/etc",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-08-26",
-      "name": "High5 The Inside Run",
-      "location": "İstanbul, İstinye Park",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://luma.com/l7yiyyc7?fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAadhiteGIHaitGpKLvaU6w5G9Btaems9wfjZXuQl_RfzFuSwzqH3QWl4mguDeg_aem_H1VCnHJMCQa7kdjyuyybqA&utm_id=97760_v0_s00_e0_tv6_a1denni8y6gzaf",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-08-27",
-      "name": "UTMB OCC",
-      "location": "İsviçre",
-      "distances": [
-        "60K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://montblanc.utmb.world/races/occ",
-      "is_turkey": false,
-      "notes": "*UTMBWS FINALS* √RR2019"
-    },
-    {
-      "date": "2026-08-28",
-      "name": "UTMB CCC",
-      "location": "Fransa",
-      "distances": [
-        "101K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://montblanc.utmb.world/races/ccc",
-      "is_turkey": false,
-      "notes": "*UTMBWS FINALS*"
-    },
-    {
-      "date": "2026-08-28",
-      "name": "UTMB",
-      "location": "Fransa",
-      "distances": [
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://montblanc.utmb.world/races/utmb",
-      "is_turkey": false,
-      "notes": "*UTMBWS FINALS*RR2016"
-    },
-    {
-      "date": "2027-08-28",
-      "name": "Trans Alpine Run",
-      "location": "Almanya",
-      "distances": [
-        "243K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.transalpine-run.com/en/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-08-29",
-      "name": "Büyükşehir Kocaeli Ultra",
-      "location": "Kocaeli, Kartepe Kuzuyayla",
-      "distances": [
-        "15K",
-        "50K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=206",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2027-08-29",
-      "name": "Trans Anatolia",
-      "location": "İstanbul – Ankara",
-      "distances": [],
-      "status": "confirmed",
-      "type": "other",
-      "link": "https://transanatolia.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-08-30",
-      "name": "30 Ağustos Zafer Bayramı Koşusu",
-      "location": "Adana",
-      "distances": [
-        "8K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=197",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-08-30",
-      "name": "Muğla Zafer Koşusu",
-      "location": "Muğla",
-      "distances": [
-        "5K",
-        "10K",
-        "21K"
-      ],
-      "status": "postponed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)ERTELENDİ!"
-    },
-    {
-      "date": "2026-08-30",
-      "name": "ZAFERe Koşanlar",
-      "location": "81 ilde",
-      "distances": [
-        "30.08K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.instagram.com/zaferekosanlar30.08k/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-08-30",
-      "name": "Çanakkale Boğazı Yüzme Yarışması",
-      "location": "Çanakkale",
-      "distances": [
-        "6.5K"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://canakkaleyuzmeyarisi.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-08-30",
-      "name": "Sydney Marathon",
-      "location": "Avustralya, Sidney",
-      "distances": [
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.tcssydneymarathon.com/",
-      "is_turkey": false,
-      "notes": ""
-    },
     {
       "date": "2026-09-02",
       "name": "Ultra Tour Monte Rosa",
@@ -1454,6 +1247,19 @@
       "status": "confirmed",
       "type": "trail",
       "link": "https://gotix.com.tr/#/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-18",
+      "name": "Yalova Yürüyen Köşk Koşusu",
+      "location": "Yalova",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=220",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -2858,15 +2664,30 @@
       "notes": "*UTMBWS*"
     },
     {
+      "date": "2027-03-21",
+      "name": "NBL Tıp Koşusu",
+      "location": "İstanbul, Yenikapı",
+      "distances": [
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
       "date": "2027-03-26",
       "name": "Alanya Ultra Trail",
       "location": "Antalya, Alanya",
       "distances": [
         "5K",
-        "18K",
-        "27K",
-        "42K",
-        "69K"
+        "14K",
+        "32K",
+        "50K",
+        "70K",
+        "90K (YENİ)"
       ],
       "status": "confirmed",
       "type": "trail",
@@ -3293,6 +3114,21 @@
       "link": "https://www.oetztal-trailrunning.at/die-running-events/gletscher-trailrun/",
       "is_turkey": false,
       "notes": "♥"
+    },
+    {
+      "date": "2027-09-05",
+      "name": "Edirne Yarı Maratonu",
+      "location": "Edirne",
+      "distances": [
+        "5K",
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://edirnemaratonu.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": null,
@@ -12894,6 +12730,213 @@
       "link": "https://www.chiosrunning.gr/imimarathonios-hiou/",
       "is_turkey": false,
       "notes": "♥RR2015"
+    },
+    {
+      "date": "2026-08-24",
+      "name": "UTMB PTL",
+      "location": "Fransa",
+      "distances": [
+        "300K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://montblanc.utmb.world/races/ptl",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-08-24",
+      "name": "UTMB TDS",
+      "location": "Fransa",
+      "distances": [
+        "148K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://montblanc.utmb.world/races/tds",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-08-24",
+      "name": "UTMB MCC",
+      "location": "Fransa",
+      "distances": [
+        "40K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://montblanc.utmb.world/races/mcc",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-08-25",
+      "name": "UTMB ETC",
+      "location": "İtalya",
+      "distances": [
+        "15K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://montblanc.utmb.world/races/etc",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-08-26",
+      "name": "High5 The Inside Run",
+      "location": "İstanbul, İstinye Park",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://luma.com/l7yiyyc7?fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAadhiteGIHaitGpKLvaU6w5G9Btaems9wfjZXuQl_RfzFuSwzqH3QWl4mguDeg_aem_H1VCnHJMCQa7kdjyuyybqA&utm_id=97760_v0_s00_e0_tv6_a1denni8y6gzaf",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-08-27",
+      "name": "UTMB OCC",
+      "location": "İsviçre",
+      "distances": [
+        "60K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://montblanc.utmb.world/races/occ",
+      "is_turkey": false,
+      "notes": "*UTMBWS FINALS* √RR2019"
+    },
+    {
+      "date": "2026-08-28",
+      "name": "UTMB CCC",
+      "location": "Fransa",
+      "distances": [
+        "101K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://montblanc.utmb.world/races/ccc",
+      "is_turkey": false,
+      "notes": "*UTMBWS FINALS*"
+    },
+    {
+      "date": "2026-08-28",
+      "name": "UTMB",
+      "location": "Fransa",
+      "distances": [
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://montblanc.utmb.world/races/utmb",
+      "is_turkey": false,
+      "notes": "*UTMBWS FINALS*RR2016"
+    },
+    {
+      "date": "2027-08-28",
+      "name": "Trans Alpine Run",
+      "location": "Almanya",
+      "distances": [
+        "243K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.transalpine-run.com/en/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-08-29",
+      "name": "Büyükşehir Kocaeli Ultra",
+      "location": "Kocaeli, Kartepe Kuzuyayla",
+      "distances": [
+        "15K",
+        "50K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=206",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2027-08-29",
+      "name": "Trans Anatolia",
+      "location": "İstanbul – Ankara",
+      "distances": [],
+      "status": "confirmed",
+      "type": "other",
+      "link": "https://transanatolia.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-30",
+      "name": "30 Ağustos Zafer Bayramı Koşusu",
+      "location": "Adana",
+      "distances": [
+        "8K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=197",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-08-30",
+      "name": "Muğla Zafer Koşusu",
+      "location": "Muğla",
+      "distances": [
+        "5K",
+        "10K",
+        "21K"
+      ],
+      "status": "postponed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)ERTELENDİ!"
+    },
+    {
+      "date": "2026-08-30",
+      "name": "ZAFERe Koşanlar",
+      "location": "81 ilde",
+      "distances": [
+        "30.08K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/zaferekosanlar30.08k/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-30",
+      "name": "Çanakkale Boğazı Yüzme Yarışması",
+      "location": "Çanakkale",
+      "distances": [
+        "6.5K"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://canakkaleyuzmeyarisi.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-08-30",
+      "name": "Sydney Marathon",
+      "location": "Avustralya, Sidney",
+      "distances": [
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.tcssydneymarathon.com/",
+      "is_turkey": false,
+      "notes": ""
     }
   ]
 }
