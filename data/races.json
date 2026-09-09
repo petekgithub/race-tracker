@@ -1,181 +1,7 @@
 {
-  "updated": "2026-09-05T10:57:47.231356",
-  "count": 898,
+  "updated": "2026-09-09T12:01:57.857566",
+  "count": 903,
   "races": [
-    {
-      "date": "2026-09-02",
-      "name": "Ultra Tour Monte Rosa",
-      "location": "İsviçre",
-      "distances": [
-        "19K",
-        "60K",
-        "170K",
-        "4 STAGES 170K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.ultratourmonterosa.com/",
-      "is_turkey": false,
-      "notes": "RR2018♥√"
-    },
-    {
-      "date": "2026-09-03",
-      "name": "İzmir Kurtuluş Oryantiring Günleri",
-      "location": "İzmir",
-      "distances": [],
-      "status": "confirmed",
-      "type": "orienteering",
-      "link": "https://kurtulusgunleri.izmirosk.org.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-09-05",
-      "name": "İstanbul Ultra",
-      "location": "İstanbul, Kemerburgaz Kent Ormanı",
-      "distances": [
-        "5K",
-        "15K",
-        "30K",
-        "60K",
-        "Çocuk Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://istanbulultra.com.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷 ITRA UTMB INDEXYENİ TARİH! YARIŞIN ADI DEĞİŞTİ!"
-    },
-    {
-      "date": "2026-09-05",
-      "name": "Kızılcahamam Eğrekkaya Ultra Trail",
-      "location": "Ankara, Kızılcahamam",
-      "distances": [
-        "6K",
-        "11K",
-        "12K",
-        "18K",
-        "36K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://kosu.taf.org.tr/index.php#home",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-09-05",
-      "name": "Petra Desert Marathon",
-      "location": "Ürdün",
-      "distances": [
-        "25K",
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://petra-desert-marathon.com/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-09-05",
-      "name": "Maga SkyMarathon",
-      "location": "İtalya",
-      "distances": [
-        "24K",
-        "39K",
-        "50K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://www.magaskymarathon.it/",
-      "is_turkey": false,
-      "notes": "SKYRACE WS ⚪"
-    },
-    {
-      "date": "2026-09-05",
-      "name": "HYROX ATHENS",
-      "location": "Yunanistan, Atina",
-      "distances": [],
-      "status": "confirmed",
-      "type": "other",
-      "link": "https://hyrox.com/event/hyrox-athens/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-09-05",
-      "name": "Vertical & Trofeo Nasego",
-      "location": "İtalya",
-      "distances": [
-        "VK",
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.trofeonasegocorsainmontagna.com/en/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-09-06",
-      "name": "Summer Run Istanbul",
-      "location": "İstanbul, Caddebostan",
-      "distances": [
-        "5K",
-        "10K",
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://runawayzone.com/tr/etkinlik-detay/32-summer-run-Istanbul-2026",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-09-06",
-      "name": "Edirne Yarı Maratonu",
-      "location": "Edirne",
-      "distances": [
-        "5K",
-        "10K",
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://edirnemaratonu.org.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-09-06",
-      "name": "İsmail Akçay Koşusu",
-      "location": "Balıkesir",
-      "distances": [
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=211",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-09-06",
-      "name": "Swim Run Türkiye",
-      "location": "İzmir, Urla",
-      "distances": [
-        "1500m koşu + 500m yüzme",
-        "3000m koşu + 450m yüzme",
-        "2500m koşu +600m yüzme",
-        "3000m koşu + 450m yüzme = 10K koşu + 2K yüzme"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.finishers.com/en/event/swimrun-turkey",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) Ücretsizdir"
-    },
     {
       "date": "2026-09-10",
       "name": "Pirin Ultra",
@@ -665,6 +491,19 @@
     },
     {
       "date": "2026-09-27",
+      "name": "Germencik İncir Festivali Yol Bisikleti Yarışı",
+      "location": "Aydın, Germencik",
+      "distances": [
+        "35K"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://www.aydinbisikletiltemsilciligi.org.tr/germencik-incir-festivali-yol-bisikleti-yarisi/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-09-27",
       "name": "Eşitlik (Ekinoks) Koşusu",
       "location": "Antalya, Konyaaltı",
       "distances": [
@@ -769,6 +608,21 @@
       "status": "confirmed",
       "type": "road",
       "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=43",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-03",
+      "name": "Niğde Yarı Maratonu",
+      "location": "Niğde",
+      "distances": [
+        "5K",
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=232",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -1649,6 +1503,22 @@
     },
     {
       "date": "2026-10-31",
+      "name": "METU Run – Devrim’den Eymir’e",
+      "location": "Ankara",
+      "distances": [
+        "5K",
+        "15K",
+        "30K",
+        "70K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://meturun.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-31",
       "name": "Fethiye Ultra Zaman Sınırı Koşusu",
       "location": "Muğla, Fethiye, Şehit Fethi Bey Parkı",
       "distances": [
@@ -1958,7 +1828,8 @@
       "distances": [
         "7K",
         "13K",
-        "33K",
+        "22K",
+        "35K",
         "45K",
         "70K"
       ],
@@ -2676,6 +2547,21 @@
       "link": "https://kosu.taf.org.tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Trabzon Yarı Maratonu",
+      "location": "Trabzon",
+      "distances": [
+        "4K",
+        "10K",
+        "21K ve Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/index.php",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-03-26",
@@ -12937,6 +12823,194 @@
       "link": "https://www.tcssydneymarathon.com/",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2026-09-02",
+      "name": "Ultra Tour Monte Rosa",
+      "location": "İsviçre",
+      "distances": [
+        "19K",
+        "60K",
+        "170K",
+        "4 STAGES 170K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.ultratourmonterosa.com/",
+      "is_turkey": false,
+      "notes": "RR2018♥√"
+    },
+    {
+      "date": "2026-09-03",
+      "name": "Tour of İstanbul",
+      "location": "İstanbul",
+      "distances": [
+        "402",
+        "4K"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://tourofistanbul.com.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-09-03",
+      "name": "İzmir Kurtuluş Oryantiring Günleri",
+      "location": "İzmir",
+      "distances": [],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://kurtulusgunleri.izmirosk.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-09-05",
+      "name": "İstanbul Ultra",
+      "location": "İstanbul, Kemerburgaz Kent Ormanı",
+      "distances": [
+        "5K",
+        "15K",
+        "30K",
+        "60K",
+        "Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://istanbulultra.com.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 ITRA UTMB INDEXYENİ TARİH! YARIŞIN ADI DEĞİŞTİ!"
+    },
+    {
+      "date": "2026-09-05",
+      "name": "Kızılcahamam Eğrekkaya Ultra Trail",
+      "location": "Ankara, Kızılcahamam",
+      "distances": [
+        "6K",
+        "11K",
+        "12K",
+        "18K",
+        "36K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kosu.taf.org.tr/index.php#home",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-09-05",
+      "name": "Petra Desert Marathon",
+      "location": "Ürdün",
+      "distances": [
+        "25K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://petra-desert-marathon.com/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-09-05",
+      "name": "Maga SkyMarathon",
+      "location": "İtalya",
+      "distances": [
+        "24K",
+        "39K",
+        "50K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://www.magaskymarathon.it/",
+      "is_turkey": false,
+      "notes": "SKYRACE WS ⚪"
+    },
+    {
+      "date": "2026-09-05",
+      "name": "HYROX ATHENS",
+      "location": "Yunanistan, Atina",
+      "distances": [],
+      "status": "confirmed",
+      "type": "other",
+      "link": "https://hyrox.com/event/hyrox-athens/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-09-05",
+      "name": "Vertical & Trofeo Nasego",
+      "location": "İtalya",
+      "distances": [
+        "VK",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.trofeonasegocorsainmontagna.com/en/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-09-06",
+      "name": "Summer Run Istanbul",
+      "location": "İstanbul, Caddebostan",
+      "distances": [
+        "5K",
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://runawayzone.com/tr/etkinlik-detay/32-summer-run-Istanbul-2026",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-09-06",
+      "name": "Edirne Yarı Maratonu",
+      "location": "Edirne",
+      "distances": [
+        "5K",
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://edirnemaratonu.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-09-06",
+      "name": "İsmail Akçay Koşusu",
+      "location": "Balıkesir",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=211",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-09-06",
+      "name": "Swim Run Türkiye",
+      "location": "İzmir, Urla",
+      "distances": [
+        "1500m koşu + 500m yüzme",
+        "3000m koşu + 450m yüzme",
+        "2500m koşu +600m yüzme",
+        "3000m koşu + 450m yüzme = 10K koşu + 2K yüzme"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.finishers.com/en/event/swimrun-turkey",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Ücretsizdir"
     }
   ]
 }
