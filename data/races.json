@@ -1,24 +1,7 @@
 {
-  "updated": "2026-09-16T12:17:24.742604",
-  "count": 913,
+  "updated": "2026-09-19T11:39:19.768463",
+  "count": 914,
   "races": [
-    {
-      "date": "2026-09-11",
-      "name": "Tor des Geants",
-      "location": "İtalya",
-      "distances": [
-        "30K",
-        "100K",
-        "130K",
-        "330K",
-        "450K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://torxtrail.com/",
-      "is_turkey": false,
-      "notes": "√"
-    },
     {
       "date": "2026-09-17",
       "name": "Run & Recharge Camp",
@@ -111,12 +94,12 @@
     },
     {
       "date": "2026-09-19",
-      "name": "Dragon Festivali",
+      "name": "Dragon Festivali -Kurumlararası Festival",
       "location": "İstanbul, Maltepe",
       "distances": [],
       "status": "confirmed",
       "type": "other",
-      "link": "https://www.instagram.com/dragonfestivali/",
+      "link": "https://www.dragonfestivali.com/",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -2971,6 +2954,17 @@
       "status": "confirmed",
       "type": "cycling",
       "link": "https://boostcamplive.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-10-03",
+      "name": "F1 Turkish Grand Prix",
+      "location": "İstanbul, İstanbul Park",
+      "distances": [],
+      "status": "confirmed",
+      "type": "other",
+      "link": "https://turkishgp.tosfed.org.tr/",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -13031,6 +13025,23 @@
       "link": "https://kackar.utmb.world/",
       "is_turkey": true,
       "notes": "🇹🇷 UTMB INDEX  *UTMBWS* √"
+    },
+    {
+      "date": "2026-09-11",
+      "name": "Tor des Geants",
+      "location": "İtalya",
+      "distances": [
+        "30K",
+        "100K",
+        "130K",
+        "330K",
+        "450K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://torxtrail.com/",
+      "is_turkey": false,
+      "notes": "√"
     },
     {
       "date": "2026-09-12",
