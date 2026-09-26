@@ -1,19 +1,32 @@
 {
-  "updated": "2026-09-23T12:25:15.395926",
-  "count": 965,
+  "updated": "2026-09-26T11:52:58.814507",
+  "count": 970,
   "races": [
     {
       "date": "2026-09-26",
       "name": "İstanbul’un Adımları – 12 : Uçtan Uca Kuzey Ormanları",
       "location": "İstanbul, Atatürk Kent Ormanı",
       "distances": [
-        "62K"
+        "75K"
       ],
       "status": "confirmed",
       "type": "trail",
       "link": "https://www.instagram.com/istanbulunadimlari/",
       "is_turkey": true,
       "notes": "🇹🇷  İstanbul’u koşarak, tırmanarak ve biraz da ayarı kaçmış bir şekilde keşfeden bir ekibin uzun koşu rotaları serisi."
+    },
+    {
+      "date": "2026-09-26",
+      "name": "Iron Dog 2026",
+      "location": "İzmir, Urla",
+      "distances": [
+        "Köpekli koşu"
+      ],
+      "status": "confirmed",
+      "type": "other",
+      "link": "https://www.instagram.com/p/DdejdHTtRyR/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-09-26",
@@ -417,8 +430,8 @@
     },
     {
       "date": "2026-10-09",
-      "name": "Fast5 Belgrad Night Run",
-      "location": "İstanbul, Belgrad Ormanı Neşet",
+      "name": "The Run Night – Belgrad Forest Night Run",
+      "location": "İstanbul, Belgrad Ormanı Neşet Suyu",
       "distances": [
         "6K"
       ],
@@ -799,6 +812,20 @@
     },
     {
       "date": "2026-10-18",
+      "name": "Tarsus Yarı Maratonu",
+      "location": "Mersin",
+      "distances": [
+        "Halk Koşusu",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.mbbspor.org/tarsus-yari-maratonu",
+      "is_turkey": true,
+      "notes": "🇹🇷YENİ TARİH!"
+    },
+    {
+      "date": "2026-10-18",
       "name": "Ordu Yarı Maratonu",
       "location": "Ordu",
       "distances": [
@@ -982,20 +1009,6 @@
       "link": "https://www.izmirultra.com/tr/ankara/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Tarsus Yarı Maratonu",
-      "location": "Mersin",
-      "distances": [
-        "Halk Koşusu",
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.mbbspor.org/tarsus-yari-maratonu",
-      "is_turkey": true,
-      "notes": "🇹🇷"
     },
     {
       "date": "2026-10-25",
@@ -1219,11 +1232,11 @@
       "name": "Manavgat Backyard Ultra",
       "location": "Antalya, Manavgat, Titreyengöl",
       "distances": [],
-      "status": "confirmed",
+      "status": "postponed",
       "type": "trail",
       "link": "https://manavgatbackyardultra.com/",
       "is_turkey": true,
-      "notes": "🇹🇷"
+      "notes": "🇹🇷2027’e ERTELENDİ!"
     },
     {
       "date": "2026-11-01",
@@ -1529,6 +1542,17 @@
       "link": "https://www.antalyacanyontrail.com/tr/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)  ITRA UTMB INDEX"
+    },
+    {
+      "date": "2026-11-14",
+      "name": "Bölgesel Triatlon Lig Türkiye Finali",
+      "location": "Antalya, Kemer",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2026-11-15",
@@ -2949,6 +2973,17 @@
     },
     {
       "date": "2027-04-10",
+      "name": "Manavgat Backyard Ultra",
+      "location": "Antalya, Manavgat, Titreyengöl",
+      "distances": [],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://manavgatbackyardultra.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷YENİ TARİH!"
+    },
+    {
+      "date": "2027-04-10",
       "name": "Masterler Türkiye Oryantiring Şampiyonası",
       "location": "İstanbul",
       "distances": [
@@ -3092,6 +3127,19 @@
     },
     {
       "date": "2027-04-25",
+      "name": "Color Run Antalya",
+      "location": "Antalya",
+      "distances": [
+        "5K TBC"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/p/Dc11f4lAGD-/?utm_source=ig_web_copy_link&stkn=MzRlODBiNWFlZA==",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-04-25",
       "name": "Hamburg Marathon",
       "location": "Almanya",
       "distances": [
@@ -3203,6 +3251,22 @@
       "notes": "√"
     },
     {
+      "date": "2027-05-28",
+      "name": "Maxi Race",
+      "location": "Fransa, Annecy",
+      "distances": [
+        "18K",
+        "52K",
+        "100K",
+        "Relay"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.maxi-race.org/",
+      "is_turkey": false,
+      "notes": "♥RR2018-42RR2018-Ultra"
+    },
+    {
       "date": "2027-05-29",
       "name": "Gebze Ultra Trail",
       "location": "Kocaeli",
@@ -3219,20 +3283,15 @@
       "notes": "🇹🇷"
     },
     {
-      "date": "2027-05-28",
-      "name": "Maxi Race",
-      "location": "Fransa, Annecy",
-      "distances": [
-        "18K",
-        "52K",
-        "100K",
-        "Relay"
-      ],
+      "date": "2027-05-29",
+      "name": "Gelibolu Orta Mesafe Triatlonu ve Aquatlon Türkiye ve Balkan Şampiyonası",
+      "location": "Çanakkale",
+      "distances": [],
       "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.maxi-race.org/",
-      "is_turkey": false,
-      "notes": "♥RR2018-42RR2018-Ultra"
+      "type": "road",
+      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-06-04",
