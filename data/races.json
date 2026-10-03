@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T13:08:22.073515",
-  "count": 974,
+  "updated": "2026-10-03T12:06:39.543253",
+  "count": 975,
   "races": [
     {
       "date": "2026-10-02",
@@ -1956,6 +1956,19 @@
       "link": "https://www.s1trail.com/en/",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2027-01-16",
+      "name": "İstanbul’un Adımları – 13 : Devr-i Kapıdağ",
+      "location": "Balıkesir, Erdek",
+      "distances": [
+        "107K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/istanbulunadimlari/",
+      "is_turkey": true,
+      "notes": "🇹🇷  İstanbul’u koşarak, tırmanarak ve biraz da ayarı kaçmış bir şekilde keşfeden bir ekibin uzun koşu rotaları serisi."
     },
     {
       "date": "2027-01-16",
