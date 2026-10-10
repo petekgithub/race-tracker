@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T14:02:28.421315",
-  "count": 1042,
+  "updated": "2026-10-10T13:06:45.698776",
+  "count": 1045,
   "races": [
     {
       "date": "2026-10-08",
@@ -322,7 +322,7 @@
     },
     {
       "date": "2026-10-17",
-      "name": "Big Dog’s Satellite Championships: Team Turkey",
+      "name": "Big Backyard Ultra World Team Championship: Team Turkey",
       "location": "Manisa, Salihli",
       "distances": [
         "6.706K X katları"
@@ -331,7 +331,7 @@
       "type": "trail",
       "link": "https://mcr-racesetter.com/yarislar/backyard-ultra/",
       "is_turkey": true,
-      "notes": "🇹🇷 √ Parkurun yeri değişti."
+      "notes": "🇹🇷 √ Parkurun yeri değişti.RR2025RR2024RR2022RR2020"
     },
     {
       "date": "2026-10-17",
@@ -363,6 +363,23 @@
       "notes": ""
     },
     {
+      "date": "2026-10-17",
+      "name": "Gelibolu Maratonu",
+      "location": "Çanakkale, Kilitbahir",
+      "distances": [
+        "10K",
+        "21K",
+        "42K",
+        "1915 Saygı Koşusu",
+        "Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://tursetsports.com/races/gelibolu",
+      "is_turkey": true,
+      "notes": "🇹🇷RR2015"
+    },
+    {
       "date": "2026-10-18",
       "name": "Bosphorun Quarter Marathon – Bebek",
       "location": "İstanbul, Kuruçeşme",
@@ -390,22 +407,6 @@
     },
     {
       "date": "2026-10-18",
-      "name": "Gelibolu Maratonu",
-      "location": "Çanakkale, Kilitbahir",
-      "distances": [
-        "10K",
-        "21K",
-        "42K",
-        "1915 Saygı Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://tursetsports.com/races/gelibolu",
-      "is_turkey": true,
-      "notes": "🇹🇷RR2015"
-    },
-    {
-      "date": "2026-10-18",
       "name": "Çorlu Yarı Maratonu",
       "location": "Tekirdağ, Çorlu",
       "distances": [
@@ -418,20 +419,6 @@
       "link": "https://corluyarimaratonu.com/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-18",
-      "name": "Run Nysa",
-      "location": "Aydın, Sultanhisar",
-      "distances": [
-        "5K",
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://www.passtiming.org/etkinlikler",
-      "is_turkey": true,
-      "notes": "🇹🇷İPTAL!"
     },
     {
       "date": "2026-10-18",
@@ -458,7 +445,7 @@
       "type": "road",
       "link": "https://www.mbbspor.org/tarsus-yari-maratonu",
       "is_turkey": true,
-      "notes": "🇹🇷YENİ TARİH!"
+      "notes": "🇹🇷İPTAL!"
     },
     {
       "date": "2026-10-18",
@@ -962,6 +949,20 @@
       "link": "https://maraton.istanbul/",
       "is_turkey": true,
       "notes": "🇹🇷 √RR2015VLOG"
+    },
+    {
+      "date": "2026-11-01",
+      "name": "Nysa Trail Koşusu",
+      "location": "Aydın, Sultanhisar",
+      "distances": [
+        "5K",
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://gotix.com.tr/activities/52",
+      "is_turkey": true,
+      "notes": "🇹🇷YENİ TARİH!"
     },
     {
       "date": "2026-11-01",
@@ -1692,7 +1693,7 @@
       "type": "road",
       "link": "https://www.instagram.com/montaniarun/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
     },
     {
       "date": "2026-12-05",
@@ -1852,7 +1853,7 @@
       "type": "road",
       "link": "https://kosu.taf.org.tr/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
     },
     {
       "date": "2026-12-20",
@@ -2796,11 +2797,13 @@
       "name": "Silivri Ultra Trail",
       "location": "İstanbul, Silivri Danamandıra Tabiat Parkı",
       "distances": [
-        "TBC"
+        "8K",
+        "18K",
+        "38K"
       ],
       "status": "confirmed",
       "type": "trail",
-      "link": "https://www.instagram.com/silivriultratrail/",
+      "link": "https://www.silivriultratrail.com/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -3116,6 +3119,23 @@
       "link": "https://www.londonmarathonevents.co.uk/london-marathon",
       "is_turkey": false,
       "notes": "Abbott World Marathon Majors"
+    },
+    {
+      "date": "2027-04-24",
+      "name": "MIUT Madeira Island Ultra Trail",
+      "location": "Portekiz",
+      "distances": [
+        "17K",
+        "40K",
+        "56K",
+        "80K",
+        "110K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://www.miutmadeira.com/",
+      "is_turkey": false,
+      "notes": "*WTM* ♥"
     },
     {
       "date": "2027-04-25",
@@ -3462,6 +3482,24 @@
       "notes": "🇹🇷"
     },
     {
+      "date": "2027-06-04",
+      "name": "Swiss Canyon Trail",
+      "location": "İsviçre",
+      "distances": [
+        "16K",
+        "31K",
+        "51K",
+        "81K",
+        "111K",
+        "166K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://swisscanyontrail.com/en/",
+      "is_turkey": false,
+      "notes": "*WTM*"
+    },
+    {
       "date": "2027-06-05",
       "name": "Ultra Sümela",
       "location": "Trabzon, Maçka",
@@ -3495,22 +3533,18 @@
       "notes": "*UTMBWS*"
     },
     {
-      "date": "2027-06-04",
-      "name": "Swiss Canyon Trail",
-      "location": "İsviçre",
+      "date": "2027-06-05",
+      "name": "Salomon Golden Trail Series – Zegama Aizkorri",
+      "location": "İspanya",
       "distances": [
-        "16K",
-        "31K",
-        "51K",
-        "81K",
-        "111K",
-        "166K"
+        "VK",
+        "42K"
       ],
       "status": "confirmed",
-      "type": "trail",
-      "link": "https://swisscanyontrail.com/en/",
+      "type": "skyrace",
+      "link": "https://www.zegama-aizkorri.com/en/",
       "is_turkey": false,
-      "notes": "*WTM*"
+      "notes": "♥"
     },
     {
       "date": "2027-06-10",
@@ -4075,6 +4109,22 @@
       "link": "https://www.bmw-berlin-marathon.com/en/",
       "is_turkey": false,
       "notes": "Abbott World Marathon Majors"
+    },
+    {
+      "date": "2027-10-02",
+      "name": "Bodrum Yarı Maratonu",
+      "location": "Muğla, Bodrum",
+      "distances": [
+        "5K",
+        "10K",
+        "21K",
+        "Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://bodrumyarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-10-03",
