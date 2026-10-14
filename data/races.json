@@ -1,244 +1,7 @@
 {
-  "updated": "2026-10-10T13:06:45.698776",
-  "count": 1045,
+  "updated": "2026-10-14T12:32:30.373129",
+  "count": 1048,
   "races": [
-    {
-      "date": "2026-10-08",
-      "name": "Kodiak Ultra Marathons by UTMB",
-      "location": "ABD",
-      "distances": [
-        "10K",
-        "21K",
-        "50K",
-        "100K",
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://kodiak.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWSM*"
-    },
-    {
-      "date": "2026-10-09",
-      "name": "The Run Night – Belgrad Forest Night Run",
-      "location": "İstanbul, Belgrad Ormanı Neşet Suyu",
-      "distances": [
-        "6K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://runawayzone.com/tr/etkinlik-detay/85-fast5-belgrad-forest",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-10",
-      "name": "Adnan Menderes Amatör Bisiklet Yarışları",
-      "location": "Balıkesir",
-      "distances": [
-        "1",
-        "38K tur mesafesi"
-      ],
-      "status": "confirmed",
-      "type": "cycling",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLScn8MK9jCjM_DI5P7svjCDK1TchkSjaE1v6RDIuKZaIxoimBg/viewform",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-10",
-      "name": "Kyzikos Ultra",
-      "location": "Balıkesir, Erdek",
-      "distances": [
-        "5K",
-        "10K (YENİ)",
-        "20K",
-        "35K",
-        "65K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://kyzikosultra.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷RR2019VLOG2019"
-    },
-    {
-      "date": "2026-10-10",
-      "name": "Ölüdeniz Open Water",
-      "location": "Muğla",
-      "distances": [
-        "1K",
-        "2K",
-        "3K",
-        "6K",
-        "Dual",
-        "Combo",
-        "Triple"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://www.sporfest.com.tr/tum-yarislar/112",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-10",
-      "name": "Budapest Marathon",
-      "location": "Macaristan",
-      "distances": [
-        "10K",
-        "14K",
-        "21K",
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://marathon.runinbudapest.com/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-10",
-      "name": "IRONMAN World Championship – Kona",
-      "location": "ABD, HI, Kona",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.ironman.com/races/im-world-championship-kona",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Cumhurbaşkanlığı Koşusu",
-      "location": "Ankara",
-      "distances": [
-        "5K (Aile ve Halk Koşusu)",
-        "10K",
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://cumhurbaskanligikosusu.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 İsim değiştirdi."
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Tarihi Yarımada Bisiklet Turu",
-      "location": "İstanbul",
-      "distances": [
-        "19K"
-      ],
-      "status": "confirmed",
-      "type": "cycling",
-      "link": "https://spor.istanbul/tarihi-yarimada-bisiklet-turu/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Anadolu Yarı Maratonu",
-      "location": "İstanbul, Kadıköy – Kartal",
-      "distances": [
-        "10K",
-        "21K",
-        "Çocuk Koşusu",
-        "21K Paten"
-      ],
-      "status": "postponed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr//",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)2027’e ERTELENDİ!"
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Girne Yarı Maratonu",
-      "location": "KKTC, Girne",
-      "distances": [
-        "5K",
-        "10K",
-        "21K",
-        "Çocuk Koşusu",
-        "3K Halk Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://girnemaratonu.com/",
-      "is_turkey": false,
-      "notes": "Halk ve çocuk koşusu ücretsizdir."
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Adana Lezzet Koşusu",
-      "location": "Adana",
-      "distances": [
-        "11K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=249",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Chios Sakız Adası Port to Port Duathlon",
-      "location": "Yunanistan, Sakız Adası",
-      "distances": [
-        "5K",
-        "10K",
-        "Relay"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.chiosrunning.gr/port2port-chios-duathlon/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Chicago Marathon",
-      "location": "ABD",
-      "distances": [
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.chicagomarathon.com/",
-      "is_turkey": false,
-      "notes": "Abbott World Marathon Majors"
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Munich Marathon",
-      "location": "Almanya",
-      "distances": [
-        "10K",
-        "21K",
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://marathonmuenchen.org/en/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-11",
-      "name": "Tiramisu Run",
-      "location": "İtalya, Treviso",
-      "distances": [
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.endu.net/en/events/tiramisu-run/info",
-      "is_turkey": false,
-      "notes": ""
-    },
     {
       "date": "2026-10-14",
       "name": "Taurus Mountain Race",
@@ -1398,7 +1161,7 @@
       "type": "road",
       "link": "https://www.izmirultra.com/tr/antalya/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷 (YENİ 🎈)İPTAL!"
     },
     {
       "date": "2026-11-15",
@@ -3255,6 +3018,22 @@
     },
     {
       "date": "2027-05-08",
+      "name": "Nefes Ultra",
+      "location": "Bursa, Dağyenice",
+      "distances": [
+        "6K",
+        "15K",
+        "30K",
+        "50K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "http://www.nefesultra.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 Dağyenice geri dönüyor."
+    },
+    {
+      "date": "2027-05-08",
       "name": "Tahtalı Run to Sky",
       "location": "Antalya, Kemer",
       "distances": [
@@ -4018,6 +3797,23 @@
       "link": "https://www.ultratourmonterosa.com/",
       "is_turkey": false,
       "notes": "RR2018♥√"
+    },
+    {
+      "date": "2027-09-04",
+      "name": "Kyzikos Ultra",
+      "location": "Balıkesir, Erdek",
+      "distances": [
+        "5K",
+        "10K",
+        "22K",
+        "35K",
+        "65K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kyzikosultra.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷RR2019VLOG2019"
     },
     {
       "date": "2027-09-05",
@@ -15101,6 +14897,259 @@
       "status": "confirmed",
       "type": "road",
       "link": "http://skopskimaraton.com.mk/en/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-08",
+      "name": "Kodiak Ultra Marathons by UTMB",
+      "location": "ABD",
+      "distances": [
+        "10K",
+        "21K",
+        "50K",
+        "100K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kodiak.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWSM*"
+    },
+    {
+      "date": "2026-10-09",
+      "name": "The Run Night – Belgrad Forest Night Run",
+      "location": "İstanbul, Belgrad Ormanı Neşet Suyu",
+      "distances": [
+        "6K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://runawayzone.com/tr/etkinlik-detay/85-fast5-belgrad-forest",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-10",
+      "name": "Adnan Menderes Amatör Bisiklet Yarışları",
+      "location": "Balıkesir",
+      "distances": [
+        "1",
+        "38K tur mesafesi"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScn8MK9jCjM_DI5P7svjCDK1TchkSjaE1v6RDIuKZaIxoimBg/viewform",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-10",
+      "name": "Kyzikos Ultra",
+      "location": "Balıkesir, Erdek",
+      "distances": [
+        "5K",
+        "10K (YENİ)",
+        "20K",
+        "35K",
+        "65K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kyzikosultra.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷RR2019VLOG2019"
+    },
+    {
+      "date": "2026-10-10",
+      "name": "Ölüdeniz Open Water",
+      "location": "Muğla",
+      "distances": [
+        "1K",
+        "2K",
+        "3K",
+        "6K",
+        "Dual",
+        "Combo",
+        "Triple"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://www.sporfest.com.tr/tum-yarislar/112",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-10",
+      "name": "Budapest Marathon",
+      "location": "Macaristan",
+      "distances": [
+        "10K",
+        "14K",
+        "21K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://marathon.runinbudapest.com/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-10",
+      "name": "Melbourne Marathon Festival",
+      "location": "Avustralya",
+      "distances": [
+        "5K",
+        "10K",
+        "21K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://melbournemarathon.com.au/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-10",
+      "name": "IRONMAN World Championship – Kona",
+      "location": "ABD, HI, Kona",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.ironman.com/races/im-world-championship-kona",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Cumhurbaşkanlığı Koşusu",
+      "location": "Ankara",
+      "distances": [
+        "5K (Aile ve Halk Koşusu)",
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://cumhurbaskanligikosusu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 İsim değiştirdi."
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Tarihi Yarımada Bisiklet Turu",
+      "location": "İstanbul",
+      "distances": [
+        "19K"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://spor.istanbul/tarihi-yarimada-bisiklet-turu/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Anadolu Yarı Maratonu",
+      "location": "İstanbul, Kadıköy – Kartal",
+      "distances": [
+        "10K",
+        "21K",
+        "Çocuk Koşusu",
+        "21K Paten"
+      ],
+      "status": "postponed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr//",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)2027’e ERTELENDİ!"
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Girne Yarı Maratonu",
+      "location": "KKTC, Girne",
+      "distances": [
+        "5K",
+        "10K",
+        "21K",
+        "Çocuk Koşusu",
+        "3K Halk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://girnemaratonu.com/",
+      "is_turkey": false,
+      "notes": "Halk ve çocuk koşusu ücretsizdir."
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Adana Lezzet Koşusu",
+      "location": "Adana",
+      "distances": [
+        "11K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=249",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Chios Sakız Adası Port to Port Duathlon",
+      "location": "Yunanistan, Sakız Adası",
+      "distances": [
+        "5K",
+        "10K",
+        "Relay"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.chiosrunning.gr/port2port-chios-duathlon/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Chicago Marathon",
+      "location": "ABD",
+      "distances": [
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.chicagomarathon.com/",
+      "is_turkey": false,
+      "notes": "Abbott World Marathon Majors"
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Munich Marathon",
+      "location": "Almanya",
+      "distances": [
+        "10K",
+        "21K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://marathonmuenchen.org/en/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Tiramisu Run",
+      "location": "İtalya, Treviso",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.endu.net/en/events/tiramisu-run/info",
       "is_turkey": false,
       "notes": ""
     }
