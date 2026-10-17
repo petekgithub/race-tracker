@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T12:32:30.373129",
-  "count": 1048,
+  "updated": "2026-10-17T11:13:07.207240",
+  "count": 1050,
   "races": [
     {
       "date": "2026-10-14",
@@ -283,6 +283,20 @@
       "link": "https://puglia.utmb.world/",
       "is_turkey": false,
       "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Beykoz Run",
+      "location": "İstanbul, Beykoz Spor Ormanı",
+      "distances": [
+        "5",
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://spor.beykoz.bel.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
     },
     {
       "date": "2026-10-24",
@@ -3829,6 +3843,22 @@
       "link": "https://edirnemaratonu.org.tr/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-09-10",
+      "name": "Kaçkar by UTMB",
+      "location": "Rize",
+      "distances": [
+        "4K",
+        "20K",
+        "5OK",
+        "100K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kackar.utmb.world/",
+      "is_turkey": true,
+      "notes": "🇹🇷 UTMB INDEX  *UTMBWS* √"
     },
     {
       "date": "2027-09-19",
