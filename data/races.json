@@ -1,319 +1,7 @@
 {
-  "updated": "2026-10-24T11:40:46.586261",
-  "count": 1078,
+  "updated": "2026-10-28T13:39:12.672702",
+  "count": 1085,
   "races": [
-    {
-      "date": "2026-10-23",
-      "name": "Puglia by UTMB",
-      "location": "İtalya",
-      "distances": [
-        "10K",
-        "35K",
-        "50K",
-        "85K",
-        "141M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://puglia.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-10-24",
-      "name": "Beykoz Run",
-      "location": "İstanbul, Beykoz Spor Ormanı",
-      "distances": [
-        "5",
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://spor.beykoz.bel.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-24",
-      "name": "Heliz Kaş Yarı Maratonu",
-      "location": "Antalya, Kaş",
-      "distances": [
-        "5K",
-        "12K",
-        "21K",
-        "Çocuk Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://heliz.life/event/heliz-kas-yari-maratonu-2026",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-24",
-      "name": "Velotürk Çeşme Gran Fondo",
-      "location": "İzmir, Çeşme",
-      "distances": [
-        "41K",
-        "67K",
-        "91K"
-      ],
-      "status": "confirmed",
-      "type": "cycling",
-      "link": "https://granfondocesme.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-24",
-      "name": "Aquachallange Yüzme Şampiyonası",
-      "location": "Muğla, Marmaris",
-      "distances": [
-        "1K",
-        "2K",
-        "3K",
-        "5K",
-        "10K",
-        "Gece"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://www.aquachallenge.org/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-24",
-      "name": "Alanya Triatlonu Yaş Grupları Türkiye Finali – 2026 Europe Triathlon Cup&Para CupAlanya",
-      "location": "Antalya",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-24",
-      "name": "Sobrescobio Redes Trail",
-      "location": "İspanya",
-      "distances": [
-        "17.5K",
-        "32K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://www.redestrail.com/",
-      "is_turkey": false,
-      "notes": "SKYRACE WS ⚪"
-    },
-    {
-      "date": "2026-10-24",
-      "name": "Salomon Golden Trail Series GRAND FINALE – Muju Trail",
-      "location": "Güney Kore",
-      "distances": [
-        "26K"
-      ],
-      "status": "confirmed",
-      "type": "skyrace",
-      "link": "https://goldentrailseries.com/racews/muju-trail/2026-2/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Zeytinburnu Cumhuriyet Koşusu",
-      "location": "İstanbul, Zeytinburnu",
-      "distances": [
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=103",
-      "is_turkey": true,
-      "notes": "🇹🇷1 HAFTA ERKENE KAYDIRILDI!"
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Caddebostan Cumhuriyet Koşusu",
-      "location": "İstanbul, Caddebostan",
-      "distances": [
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=186",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Büyükşehir Cumhuriyet Halk Koşusu",
-      "location": "Bursa",
-      "distances": [
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://bursaatletizm.org.tr/?p=8270",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Lykos Yarı Maratonu ve Cumhuriyet Halk Koşusu",
-      "location": "Denizli, Pamukkale",
-      "distances": [
-        "5K",
-        "10K",
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://lykosyarimaratonu.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Ankara Zaman Koşusu",
-      "location": "Ankara, 30 Ağustos Zafer Parkı",
-      "distances": [
-        "1H",
-        "2H",
-        "4H",
-        "6H"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.izmirultra.com/tr/ankara/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Velo Türk Gran Fondo Çeşme",
-      "location": "İzmir",
-      "distances": [
-        "41K",
-        "67K",
-        "91K"
-      ],
-      "status": "confirmed",
-      "type": "cycling",
-      "link": "https://granfondocesme.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Valencia Half Marathon",
-      "location": "İspanya, Valensiya",
-      "distances": [
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.valenciaciudaddelrunning.com/en/half/half-marathon/",
-      "is_turkey": false,
-      "notes": "SuperHalfs"
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Frankfurt Marathon",
-      "location": "Almanya",
-      "distances": [
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.frankfurt-marathon.com/en/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Hamburg Half Marathon",
-      "location": "Almanya",
-      "distances": [
-        "21K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.hamburg-halbmarathon.com/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Dublin Marathon",
-      "location": "İrlanda",
-      "distances": [
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://irishlifedublinmarathon.ie/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Lisbon Marathon",
-      "location": "Portekiz, Lizbon",
-      "distances": [
-        "8K",
-        "21K",
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://running-portugal.com/lisbon/marathon/en/home.html",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Venice Marathon",
-      "location": "İtalya",
-      "distances": [
-        "10K",
-        "21K",
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.venicemarathon.it/en",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-25",
-      "name": "Shimada Oigawa Marathon",
-      "location": "Japonya",
-      "distances": [
-        "10K",
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.shimada-marathon.jp/",
-      "is_turkey": false,
-      "notes": ""
-    },
-    {
-      "date": "2026-10-26",
-      "name": "Aquachallange Yüzme Şampiyonası",
-      "location": "Muğla, Göcek",
-      "distances": [
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "swimming",
-      "link": "https://www.aquachallenge.org/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
     {
       "date": "2026-10-26",
       "name": "Antalya O-FEST",
@@ -377,12 +65,23 @@
       "name": "Osmangazi Cumhuriyet Koşusu",
       "location": "Kocaeli",
       "distances": [
-        "5K",
+        "Halk Koşusu 5K",
         "10K"
       ],
       "status": "confirmed",
       "type": "road",
       "link": "https://osmangazicumhuriyetkosusu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-29",
+      "name": "Balıkesir Cumhuriyet Halk Koşusu",
+      "location": "Balıkesir",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://basvur.balikesir.bel.tr/CumhuriyetKosu",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈)"
     },
@@ -399,6 +98,19 @@
       "link": "https://merbespor.com/event/mulkiye-cumhuriyet-kosusu-2026/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-29",
+      "name": "29 Ekim Cumhuriyet Bayramı Gece Koşusu",
+      "location": "Kocaeli, Kartepe",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/p/De9F_XUO7DK/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Kayıt gerekmemektedir."
     },
     {
       "date": "2026-10-30",
@@ -450,18 +162,17 @@
     },
     {
       "date": "2026-10-31",
-      "name": "Fethiye Ultra Zaman Sınırı Koşusu",
+      "name": "Fethiye Ultra – Zaman Sınırı Koşusu",
       "location": "Muğla, Fethiye, Şehit Fethi Bey Parkı",
       "distances": [
         "4H",
         "6H",
         "10K",
-        "25K",
-        "50K"
+        "25K"
       ],
       "status": "confirmed",
       "type": "road",
-      "link": null,
+      "link": "https://kosu.taf.org.tr/8-fethiye-ultra-10k",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -481,6 +192,7 @@
       "name": "İstanbul Maratonu",
       "location": "İstanbul",
       "distances": [
+        "Halk Koşusu",
         "15K",
         "42K"
       ],
@@ -488,7 +200,7 @@
       "type": "road",
       "link": "https://maraton.istanbul/",
       "is_turkey": true,
-      "notes": "🇹🇷 √RR2015VLOG"
+      "notes": "🇹🇷RR2015VLOG"
     },
     {
       "date": "2026-11-01",
@@ -853,7 +565,7 @@
       "type": "trail",
       "link": "https://www.antalyacanyontrail.com/tr/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)  ITRA UTMB INDEX"
+      "notes": "🇹🇷 (YENİ 🎈) ITRA UTMB INDEX"
     },
     {
       "date": "2026-11-14",
@@ -975,11 +687,11 @@
         "55K Kula; 7K",
         "18K Salihli"
       ],
-      "status": "confirmed",
+      "status": "postponed",
       "type": "trail",
       "link": "https://manisaultramaratonu.org/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) ITRA"
+      "notes": "🇹🇷 (YENİ 🎈) ITRAERTELENDİ!"
     },
     {
       "date": "2026-11-20",
@@ -1643,6 +1355,21 @@
     },
     {
       "date": "2027-01-22",
+      "name": "MEDITERRANEANCHAMPIONSHIPSIN ORIENTEERING",
+      "location": "Muğla, Dalyan, Akyaka",
+      "distances": [
+        "Middle",
+        "Sprint",
+        "Sprint Relay"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.mco2027.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-01-22",
       "name": "Arc Of Attrition by UTMB",
       "location": "İngiltere",
       "distances": [
@@ -1973,6 +1700,20 @@
       "link": "https://xtrail.utmb.world/",
       "is_turkey": false,
       "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2027-03-06",
+      "name": "ODTÜ Open",
+      "location": "Ankara",
+      "distances": [
+        "Middle",
+        "Sprint"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.odtuopen.org/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-03-07",
@@ -2316,6 +2057,20 @@
       "notes": ""
     },
     {
+      "date": null,
+      "name": "İTÜ O Days",
+      "location": "İstanbul",
+      "distances": [
+        "Sürat",
+        "Indoor O"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://ituodays.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 √"
+    },
+    {
       "date": "2027-04-01",
       "name": "Istria 100 by UTMB",
       "location": "Hırvatistan",
@@ -2592,6 +2347,22 @@
       "notes": ""
     },
     {
+      "date": "2027-04-17",
+      "name": "Plovdiv Run -Marathon Weekend",
+      "location": "Bulgaristan",
+      "distances": [
+        "5K",
+        "10K",
+        "21K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://plovdiv.run/en",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
       "date": "2027-04-18",
       "name": "Muğla Zaman Koşusu",
       "location": "Muğla",
@@ -2717,6 +2488,19 @@
       "link": null,
       "is_turkey": false,
       "notes": "♥"
+    },
+    {
+      "date": "2027-04-24",
+      "name": "Istanbul 5 days -Adalar",
+      "location": "İstanbul",
+      "distances": [
+        "Sprint"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.ist5days.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-04-24",
@@ -4057,6 +3841,22 @@
       "notes": "Abbott World Marathon Majors"
     },
     {
+      "date": "2027-10-01",
+      "name": "Ultra Pirineu",
+      "location": "İspanya, Bagà",
+      "distances": [
+        "VK",
+        "21K",
+        "42K",
+        "100K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://ultrapirineu.com/en/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
       "date": "2027-10-02",
       "name": "Beypazarı Ultra Trail",
       "location": "Ankara, Beypazarı",
@@ -4064,7 +3864,7 @@
         "8K",
         "19K",
         "39K",
-        "52K"
+        "52K (YENİ PARKUR)"
       ],
       "status": "confirmed",
       "type": "trail",
@@ -7636,7 +7436,7 @@
       "notes": ""
     },
     {
-      "date": "2026-10-26",
+      "date": "2027-10-26",
       "name": "Antalya O-FEST",
       "location": "Antalya",
       "distances": [
@@ -15610,6 +15410,305 @@
       "status": "confirmed",
       "type": "road",
       "link": "https://bursaatletizm.org.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-23",
+      "name": "Puglia by UTMB",
+      "location": "İtalya",
+      "distances": [
+        "10K",
+        "35K",
+        "50K",
+        "85K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://puglia.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Beykoz Run",
+      "location": "İstanbul, Beykoz Spor Ormanı",
+      "distances": [
+        "5",
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://spor.beykoz.bel.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Heliz Kaş Yarı Maratonu",
+      "location": "Antalya, Kaş",
+      "distances": [
+        "5K",
+        "12K",
+        "21K",
+        "Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://heliz.life/event/heliz-kas-yari-maratonu-2026",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Velotürk Çeşme Gran Fondo",
+      "location": "İzmir, Çeşme",
+      "distances": [
+        "41K",
+        "67K",
+        "91K"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://granfondocesme.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Aquachallange Yüzme Şampiyonası",
+      "location": "Muğla, Marmaris",
+      "distances": [
+        "1K",
+        "2K",
+        "3K",
+        "5K",
+        "10K",
+        "Gece"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://www.aquachallenge.org/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Alanya Triatlonu Yaş Grupları Türkiye Finali – 2026 Europe Triathlon Cup&Para CupAlanya",
+      "location": "Antalya",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://portal.triatlon.org.tr/tr/portal/list/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Sobrescobio Redes Trail",
+      "location": "İspanya",
+      "distances": [
+        "17.5K",
+        "32K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://www.redestrail.com/",
+      "is_turkey": false,
+      "notes": "SKYRACE WS ⚪"
+    },
+    {
+      "date": "2026-10-24",
+      "name": "Salomon Golden Trail Series GRAND FINALE – Muju Trail",
+      "location": "Güney Kore",
+      "distances": [
+        "26K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://goldentrailseries.com/racews/muju-trail/2026-2/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Caddebostan Cumhuriyet Koşusu",
+      "location": "İstanbul, Caddebostan",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/yarisma_detay.php?id=186",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Büyükşehir Cumhuriyet Halk Koşusu",
+      "location": "Bursa",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://bursaatletizm.org.tr/?p=8270",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Lykos Yarı Maratonu ve Cumhuriyet Halk Koşusu",
+      "location": "Denizli, Pamukkale",
+      "distances": [
+        "5K",
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://lykosyarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Ankara Zaman Koşusu",
+      "location": "Ankara, 30 Ağustos Zafer Parkı",
+      "distances": [
+        "1H",
+        "2H",
+        "4H",
+        "6H"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.izmirultra.com/tr/ankara/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Velo Türk Gran Fondo Çeşme",
+      "location": "İzmir",
+      "distances": [
+        "41K",
+        "67K",
+        "91K"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://granfondocesme.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Valencia Half Marathon",
+      "location": "İspanya, Valensiya",
+      "distances": [
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.valenciaciudaddelrunning.com/en/half/half-marathon/",
+      "is_turkey": false,
+      "notes": "SuperHalfs"
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Frankfurt Marathon",
+      "location": "Almanya",
+      "distances": [
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.frankfurt-marathon.com/en/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Hamburg Half Marathon",
+      "location": "Almanya",
+      "distances": [
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.hamburg-halbmarathon.com/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Dublin Marathon",
+      "location": "İrlanda",
+      "distances": [
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://irishlifedublinmarathon.ie/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Lisbon Marathon",
+      "location": "Portekiz, Lizbon",
+      "distances": [
+        "8K",
+        "21K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://running-portugal.com/lisbon/marathon/en/home.html",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Venice Marathon",
+      "location": "İtalya",
+      "distances": [
+        "10K",
+        "21K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.venicemarathon.it/en",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Shimada Oigawa Marathon",
+      "location": "Japonya",
+      "distances": [
+        "10K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.shimada-marathon.jp/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-26",
+      "name": "Aquachallenge Yüzme Şampiyonası",
+      "location": "Muğla, Göcek",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "swimming",
+      "link": "https://www.aquachallenge.org/",
       "is_turkey": true,
       "notes": "🇹🇷"
     }
