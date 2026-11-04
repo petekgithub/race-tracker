@@ -1,245 +1,7 @@
 {
-  "updated": "2026-10-31T13:08:33.516955",
-  "count": 1085,
+  "updated": "2026-11-04T14:56:13.255507",
+  "count": 1097,
   "races": [
-    {
-      "date": "2026-10-26",
-      "name": "Antalya O-FEST",
-      "location": "Antalya",
-      "distances": [
-        "Sprint",
-        "Classic",
-        "Middle"
-      ],
-      "status": "confirmed",
-      "type": "orienteering",
-      "link": "https://www.antalyaofest.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-27",
-      "name": "Söğüt Cumhuriyet Halk Koşusu",
-      "location": "Bilecik, Söğüt",
-      "distances": [
-        "1",
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.instagram.com/p/DejVvzRt2ZM/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2027-10-28",
-      "name": "AHULEX The Monument Race",
-      "location": "Muğla, Köyceğiz",
-      "distances": [
-        "250K",
-        "500K",
-        "1000K"
-      ],
-      "status": "confirmed",
-      "type": "cycling",
-      "link": "https://www.ahulex.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-29",
-      "name": "Cumhuriyet Koşusu",
-      "location": "İstanbul, Çekmeköy",
-      "distances": [
-        "8",
-        "8K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://cekmekoy.bel.tr/guncel/haber/spor/cekmekoy-de-cumhuriyet-icin-kosulacak",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-29",
-      "name": "Osmangazi Cumhuriyet Koşusu",
-      "location": "Kocaeli",
-      "distances": [
-        "Halk Koşusu 5K",
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://osmangazicumhuriyetkosusu.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-29",
-      "name": "Balıkesir Cumhuriyet Halk Koşusu",
-      "location": "Balıkesir",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://basvur.balikesir.bel.tr/CumhuriyetKosu",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-29",
-      "name": "Mülkiye Cumhuriyet Koşusu",
-      "location": "Ankara, Ata Çiftliği",
-      "distances": [
-        "5K",
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://merbespor.com/event/mulkiye-cumhuriyet-kosusu-2026/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-29",
-      "name": "29 Ekim Cumhuriyet Bayramı Gece Koşusu",
-      "location": "Kocaeli, Kartepe",
-      "distances": [
-        "5K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.instagram.com/p/De9F_XUO7DK/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈) Kayıt gerekmemektedir."
-    },
-    {
-      "date": "2026-10-30",
-      "name": "Kullamannen by UTMB",
-      "location": "İsveç",
-      "distances": [
-        "22K",
-        "53K",
-        "108K",
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://kullamannen.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS* ♥"
-    },
-    {
-      "date": "2027-10-30",
-      "name": "Mallorca by UTMB",
-      "location": "İspanya",
-      "distances": [
-        "20K",
-        "50K",
-        "66K",
-        "100M"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://mallorca.utmb.world/",
-      "is_turkey": false,
-      "notes": "*UTMBWS*"
-    },
-    {
-      "date": "2026-10-31",
-      "name": "METU Run – Devrim’den Eymir’e",
-      "location": "Ankara",
-      "distances": [
-        "5K",
-        "15K",
-        "30K",
-        "70K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://meturun.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
-    },
-    {
-      "date": "2026-10-31",
-      "name": "Fethiye Ultra – Zaman Sınırı Koşusu",
-      "location": "Muğla, Fethiye, Şehit Fethi Bey Parkı",
-      "distances": [
-        "4H",
-        "6H",
-        "10K",
-        "25K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://kosu.taf.org.tr/8-fethiye-ultra-10k",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-10-31",
-      "name": "Manavgat Backyard Ultra",
-      "location": "Antalya, Manavgat, Titreyengöl",
-      "distances": [],
-      "status": "postponed",
-      "type": "trail",
-      "link": "https://manavgatbackyardultra.com/",
-      "is_turkey": true,
-      "notes": "🇹🇷2027’e ERTELENDİ!"
-    },
-    {
-      "date": "2026-11-01",
-      "name": "İstanbul Maratonu",
-      "location": "İstanbul",
-      "distances": [
-        "Halk Koşusu",
-        "15K",
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://maraton.istanbul/",
-      "is_turkey": true,
-      "notes": "🇹🇷RR2015VLOG"
-    },
-    {
-      "date": "2026-11-01",
-      "name": "Nysa Trail Koşusu",
-      "location": "Aydın, Sultanhisar",
-      "distances": [
-        "5K",
-        "10K"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://gotix.com.tr/activities/52",
-      "is_turkey": true,
-      "notes": "🇹🇷YENİ TARİH!"
-    },
-    {
-      "date": "2026-11-01",
-      "name": "IRONMAN 70.3",
-      "location": "Antalya",
-      "distances": [],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.ironman.com/races/im703-turkey?_ga=2.15858997.2037555896.1604044370-696768385.1604044370",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-11-01",
-      "name": "New York Marathon",
-      "location": "ABD",
-      "distances": [
-        "42K"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://www.nyrr.org/tcsnycmarathon",
-      "is_turkey": false,
-      "notes": "Abbott World Marathon Majors"
-    },
     {
       "date": "2026-11-05",
       "name": "Grampians Peak Trail – GPT100",
@@ -299,7 +61,7 @@
       "type": "trail",
       "link": "https://www.vardaultratrail.com/",
       "is_turkey": true,
-      "notes": "🇹🇷"
+      "notes": "🇹🇷 ITRA"
     },
     {
       "date": "2026-11-07",
@@ -366,7 +128,7 @@
       "type": "trail",
       "link": "https://wildmarathon.com/cappadocia-marathon/",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷 (YENİ 🎈) ITRA"
     },
     {
       "date": "2026-11-08",
@@ -389,17 +151,20 @@
     },
     {
       "date": "2026-11-08",
-      "name": "Fethiye Likya’rı Maratonu",
+      "name": "Fethiye Likya’rı Maratonu ve Atatürk Koşusu",
       "location": "Muğla, Fethiye",
       "distances": [
         "10K",
-        "21K"
+        "21K",
+        "Gençler",
+        "Yıldızlar",
+        "Minikler"
       ],
       "status": "confirmed",
       "type": "road",
       "link": "https://sporfest.com.tr/yarislar/likyari-maratonu-2026",
       "is_turkey": true,
-      "notes": "🇹🇷 Ücretsizdir"
+      "notes": "🇹🇷 Ücretsiz"
     },
     {
       "date": "2026-11-08",
@@ -452,22 +217,6 @@
       "status": "confirmed",
       "type": "road",
       "link": "https://www.taf.org.tr/",
-      "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2026-11-13",
-      "name": "Kaş Aquathlon",
-      "location": "Antalya, Kaş",
-      "distances": [
-        "1000m yüzme + 5K koşu",
-        "2500m yüzme + 3.5K koşu",
-        "500m yüzme + 9K koşu",
-        "team"
-      ],
-      "status": "confirmed",
-      "type": "road",
-      "link": "https://heliz.life/event/heliz-kas-aquathlon-2026",
       "is_turkey": true,
       "notes": "🇹🇷"
     },
@@ -744,6 +493,22 @@
       "link": "https://catalkayaultra.com/",
       "is_turkey": true,
       "notes": "🇹🇷 (YENİ 🎈) ITRA UTMB INDEX"
+    },
+    {
+      "date": "2026-11-21",
+      "name": "Kaş Aquathlon",
+      "location": "Antalya, Kaş",
+      "distances": [
+        "1000m yüzme + 5K koşu",
+        "2500m yüzme + 3.5K koşu",
+        "500m yüzme + 9K koşu",
+        "team"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://heliz.life/event/heliz-kas-aquathlon-2026",
+      "is_turkey": true,
+      "notes": "🇹🇷YENİ TARİH!"
     },
     {
       "date": "2026-11-21",
@@ -1121,6 +886,20 @@
     },
     {
       "date": "2026-12-19",
+      "name": "Night Run – Aydos",
+      "location": "İstanbul",
+      "distances": [
+        "4K",
+        "8K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://runnight.org/aydos",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-12-19",
       "name": "Dark Run İstanbul",
       "location": "İstanbul, Ataköy Atletizm Pisti",
       "distances": [
@@ -1234,7 +1013,7 @@
       "notes": ""
     },
     {
-      "date": "2027-01-08",
+      "date": "2027-01-09",
       "name": "Sandras Adventure Race",
       "location": "Muğla, Köyceğiz",
       "distances": [
@@ -1244,7 +1023,7 @@
       "type": "trail",
       "link": "https://www.maceraekibi.com/etkinlikler",
       "is_turkey": true,
-      "notes": "🇹🇷 (YENİ 🎈)"
+      "notes": "🇹🇷 (YENİ 🎈) ITRA"
     },
     {
       "date": "2027-01-08",
@@ -1413,6 +1192,23 @@
       "notes": "🇹🇷 WRE (World Ranking Event)"
     },
     {
+      "date": "2027-01-30",
+      "name": "Heliz Kaş Ultra Trail",
+      "location": "Antalya, Kaş",
+      "distances": [
+        "5K",
+        "15K",
+        "30K",
+        "45K",
+        "Çocuk Koşusu"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://heliz.life/#event",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
       "date": "2027-01-31",
       "name": "Hermos Canyon Run",
       "location": "Manisa, Salihli",
@@ -1452,7 +1248,7 @@
       "type": "trail",
       "link": "https://www.instagram.com/stpaultrailrun/",
       "is_turkey": true,
-      "notes": "🇹🇷 √"
+      "notes": "🇹🇷 ITRA √"
     },
     {
       "date": "2027-02-07",
@@ -1567,6 +1363,21 @@
       "notes": ""
     },
     {
+      "date": "2027-02-20",
+      "name": "Sparta City Ultra",
+      "location": "Yunanistan",
+      "distances": [
+        "6H",
+        "12H",
+        "24H"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://spartanrunners.gr/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
       "date": "2027-02-21",
       "name": "Seville Marathon",
       "location": "İspanya, Sevilla",
@@ -1626,24 +1437,7 @@
       "type": "trail",
       "link": "https://nifultra.com/",
       "is_turkey": true,
-      "notes": "🇹🇷"
-    },
-    {
-      "date": "2027-02-27",
-      "name": "Heliz Kaş Ultra Trail",
-      "location": "Antalya, Kaş",
-      "distances": [
-        "5K",
-        "15K",
-        "30K",
-        "45K",
-        "Çocuk Koşusu"
-      ],
-      "status": "confirmed",
-      "type": "trail",
-      "link": "https://heliz.life/#event",
-      "is_turkey": true,
-      "notes": "🇹🇷 Organizasyon tarihi konfirme değildir."
+      "notes": "🇹🇷 UTMB INDEX"
     },
     {
       "date": "2027-02-28",
@@ -2316,6 +2110,22 @@
       "notes": "🇹🇷 ♥ √RR2026RR2023RURR2021RR2019RR2018RR2017vlog2019"
     },
     {
+      "date": "2027-04-16",
+      "name": "Tuscany Crossing",
+      "location": "İtalya",
+      "distances": [
+        "15K",
+        "53K",
+        "103K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://en.tuscanycrossing.com/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
       "date": "2027-04-17",
       "name": "Intersport Mezopotamya Trail Run",
       "location": "Mardin",
@@ -2361,6 +2171,20 @@
       "link": "https://plovdiv.run/en",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2027-04-18",
+      "name": "İstanbul Yarı Maratonu",
+      "location": "İstanbul",
+      "distances": [
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://istanbulyarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-04-18",
@@ -2424,7 +2248,7 @@
       "type": "trail",
       "link": "https://babadagultra.com/",
       "is_turkey": true,
-      "notes": "🇹🇷 √"
+      "notes": "🇹🇷 ITRA √"
     },
     {
       "date": "2027-04-23",
@@ -2442,7 +2266,7 @@
       "type": "trail",
       "link": "https://marmarisultra.com/",
       "is_turkey": true,
-      "notes": "🇹🇷"
+      "notes": "🇹🇷 ITRA UTMB INDEX"
     },
     {
       "date": "2027-04-23",
@@ -2621,6 +2445,22 @@
       "notes": "*UTMBWS*"
     },
     {
+      "date": "2027-05-01",
+      "name": "SkyRace des Matheysins",
+      "location": "Fransa",
+      "distances": [
+        "10K",
+        "18K",
+        "25K",
+        "43K"
+      ],
+      "status": "confirmed",
+      "type": "skyrace",
+      "link": "https://www.skyrace-des-matheysins.com/en",
+      "is_turkey": false,
+      "notes": "♥ SKYRACE WS 🔴"
+    },
+    {
       "date": "2027-05-02",
       "name": "Troya Maratonu",
       "location": "Çanakkale",
@@ -2716,7 +2556,7 @@
       "type": "trail",
       "link": "http://www.nefesultra.com/",
       "is_turkey": true,
-      "notes": "🇹🇷 Dağyenice geri dönüyor."
+      "notes": "🇹🇷 ITRA UTMB INDEX Dağyenice geri dönüyor."
     },
     {
       "date": "2027-05-08",
@@ -2776,6 +2616,21 @@
       "link": "https://www.wingsforlifeworldrun.com/en/",
       "is_turkey": false,
       "notes": ""
+    },
+    {
+      "date": "2027-05-09",
+      "name": "Runkara Yarı Maratonu",
+      "location": "Ankara",
+      "distances": [
+        "5K",
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://hadikaydol.com/event/uluslararasi-runkara-yari-maratonu-2027",
+      "is_turkey": true,
+      "notes": "🇹🇷"
     },
     {
       "date": "2027-05-09",
@@ -3735,6 +3590,19 @@
       "notes": "🇹🇷"
     },
     {
+      "date": "2027-09-04",
+      "name": "Alps Divide bikepacking Ultra",
+      "location": "Fransa – İtalya – İsviçre",
+      "distances": [
+        "1050K"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://alpsdivide.com/ultra/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
       "date": "2027-09-10",
       "name": "Kaçkar by UTMB",
       "location": "Rize",
@@ -3748,7 +3616,7 @@
       "type": "trail",
       "link": "https://kackar.utmb.world/",
       "is_turkey": true,
-      "notes": "🇹🇷 UTMB INDEX  *UTMBWS* √"
+      "notes": "🇹🇷 ITRA UTMB INDEX  *UTMBWS* √"
     },
     {
       "date": "2027-09-19",
@@ -3974,6 +3842,34 @@
     },
     {
       "date": "2027-10-24",
+      "name": "Caddebostan Cumhuriyet Koşusu",
+      "location": "İstanbul, Caddebostan",
+      "distances": [
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/caddebostan-cumhuriyet-kosusu-2",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-10-24",
+      "name": "Lykos Yarı Maratonu ve Cumhuriyet Halk Koşusu",
+      "location": "Denizli, Pamukkale",
+      "distances": [
+        "5K",
+        "10K",
+        "21K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://lykosyarimaratonu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2027-10-24",
       "name": "Valencia Half Marathon",
       "location": "İspanya, Valensiya",
       "distances": [
@@ -3984,6 +3880,21 @@
       "link": "https://www.valenciaciudaddelrunning.com/en/half/half-marathon/",
       "is_turkey": false,
       "notes": "SuperHalfs"
+    },
+    {
+      "date": "2027-10-24",
+      "name": "Venice Marathon",
+      "location": "İtalya",
+      "distances": [
+        "10K",
+        "21K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.venicemarathon.it/en",
+      "is_turkey": false,
+      "notes": ""
     },
     {
       "date": "2027-11-07",
@@ -7500,7 +7411,7 @@
       "notes": "🇹🇷 (YENİ🎈)TBC"
     },
     {
-      "date": "2026-10-31",
+      "date": "2027-10-31",
       "name": "Kullamannen by UTMB",
       "location": "İsveç",
       "distances": [
@@ -7516,7 +7427,7 @@
       "notes": "*UTMBWS* ♥"
     },
     {
-      "date": "2026-10-31",
+      "date": "2027-10-31",
       "name": "Mallorca by UTMB",
       "location": "İspanya",
       "distances": [
@@ -7532,7 +7443,7 @@
       "notes": "*UTMBWS*"
     },
     {
-      "date": "2026-10-31",
+      "date": "2027-10-31",
       "name": "Aqua Challenge Yüzme Şampiyonası",
       "location": "Muğla, Bodrum",
       "distances": [],
@@ -14081,7 +13992,7 @@
       "type": "trail",
       "link": "https://kackar.utmb.world/",
       "is_turkey": true,
-      "notes": "🇹🇷 UTMB INDEX  *UTMBWS* √"
+      "notes": "🇹🇷 ITRA UTMB INDEX  *UTMBWS* √"
     },
     {
       "date": "2026-09-11",
@@ -14980,6 +14891,21 @@
     },
     {
       "date": "2026-10-10",
+      "name": "Sofia  Marathon",
+      "location": "Bulgaristan",
+      "distances": [
+        "10K",
+        "21K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://sofiamarathon.bg/en/",
+      "is_turkey": false,
+      "notes": ""
+    },
+    {
+      "date": "2026-10-10",
       "name": "Melbourne Marathon Festival",
       "location": "Avustralya",
       "distances": [
@@ -15711,6 +15637,258 @@
       "link": "https://www.aquachallenge.org/",
       "is_turkey": true,
       "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-26",
+      "name": "Antalya O-FEST",
+      "location": "Antalya",
+      "distances": [
+        "Sprint",
+        "Classic",
+        "Middle"
+      ],
+      "status": "confirmed",
+      "type": "orienteering",
+      "link": "https://www.antalyaofest.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-27",
+      "name": "Söğüt Cumhuriyet Halk Koşusu",
+      "location": "Bilecik, Söğüt",
+      "distances": [
+        "1",
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/p/DejVvzRt2ZM/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2027-10-28",
+      "name": "AHULEX The Monument Race",
+      "location": "Muğla, Köyceğiz",
+      "distances": [
+        "250K",
+        "500K",
+        "1000K"
+      ],
+      "status": "confirmed",
+      "type": "cycling",
+      "link": "https://www.ahulex.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-29",
+      "name": "Cumhuriyet Koşusu",
+      "location": "İstanbul, Çekmeköy",
+      "distances": [
+        "8",
+        "8K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://cekmekoy.bel.tr/guncel/haber/spor/cekmekoy-de-cumhuriyet-icin-kosulacak",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-29",
+      "name": "Osmangazi Cumhuriyet Koşusu",
+      "location": "Kocaeli",
+      "distances": [
+        "Halk Koşusu 5K",
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://osmangazicumhuriyetkosusu.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-29",
+      "name": "Balıkesir Cumhuriyet Halk Koşusu",
+      "location": "Balıkesir",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://basvur.balikesir.bel.tr/CumhuriyetKosu",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-29",
+      "name": "Mülkiye Cumhuriyet Koşusu",
+      "location": "Ankara, Ata Çiftliği",
+      "distances": [
+        "5K",
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://merbespor.com/event/mulkiye-cumhuriyet-kosusu-2026/",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-29",
+      "name": "29 Ekim Cumhuriyet Bayramı Gece Koşusu",
+      "location": "Kocaeli, Kartepe",
+      "distances": [
+        "5K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/p/De9F_XUO7DK/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈) Kayıt gerekmemektedir."
+    },
+    {
+      "date": "2026-10-30",
+      "name": "Kullamannen by UTMB",
+      "location": "İsveç",
+      "distances": [
+        "22K",
+        "53K",
+        "108K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://kullamannen.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS* ♥"
+    },
+    {
+      "date": "2027-10-30",
+      "name": "Mallorca by UTMB",
+      "location": "İspanya",
+      "distances": [
+        "20K",
+        "50K",
+        "66K",
+        "100M"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://mallorca.utmb.world/",
+      "is_turkey": false,
+      "notes": "*UTMBWS*"
+    },
+    {
+      "date": "2026-10-31",
+      "name": "METU Run – Devrim’den Eymir’e",
+      "location": "Ankara",
+      "distances": [
+        "5K",
+        "15K",
+        "30K",
+        "70K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://meturun.tr/",
+      "is_turkey": true,
+      "notes": "🇹🇷 (YENİ 🎈)"
+    },
+    {
+      "date": "2026-10-31",
+      "name": "Fethiye Ultra – Zaman Sınırı Koşusu",
+      "location": "Muğla, Fethiye, Şehit Fethi Bey Parkı",
+      "distances": [
+        "4H",
+        "6H",
+        "10K",
+        "25K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://kosu.taf.org.tr/8-fethiye-ultra-10k",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-10-31",
+      "name": "Manavgat Backyard Ultra",
+      "location": "Antalya, Manavgat, Titreyengöl",
+      "distances": [],
+      "status": "postponed",
+      "type": "trail",
+      "link": "https://manavgatbackyardultra.com/",
+      "is_turkey": true,
+      "notes": "🇹🇷2027’e ERTELENDİ!"
+    },
+    {
+      "date": "2026-10-31",
+      "name": "AQUATLON 1923",
+      "location": "İzmir, Urla",
+      "distances": [
+        "223m yüzme",
+        "1700m koşu"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.instagram.com/p/DfCKyaJIkPB/?utm_source=ig_web_copy_link&cplk=MWQ1ZGUxMzBkMA==&srtk=MWQ1ZGUxMzBkMA==",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-11-01",
+      "name": "İstanbul Maratonu",
+      "location": "İstanbul",
+      "distances": [
+        "Halk Koşusu",
+        "15K",
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://maraton.istanbul/",
+      "is_turkey": true,
+      "notes": "🇹🇷RR2015VLOG"
+    },
+    {
+      "date": "2026-11-01",
+      "name": "Nysa Trail Koşusu",
+      "location": "Aydın, Sultanhisar",
+      "distances": [
+        "5K",
+        "10K"
+      ],
+      "status": "confirmed",
+      "type": "trail",
+      "link": "https://gotix.com.tr/activities/52",
+      "is_turkey": true,
+      "notes": "🇹🇷YENİ TARİH!"
+    },
+    {
+      "date": "2026-11-01",
+      "name": "IRONMAN 70.3",
+      "location": "Antalya",
+      "distances": [],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.ironman.com/races/im703-turkey?_ga=2.15858997.2037555896.1604044370-696768385.1604044370",
+      "is_turkey": true,
+      "notes": "🇹🇷"
+    },
+    {
+      "date": "2026-11-01",
+      "name": "New York Marathon",
+      "location": "ABD",
+      "distances": [
+        "42K"
+      ],
+      "status": "confirmed",
+      "type": "road",
+      "link": "https://www.nyrr.org/tcsnycmarathon",
+      "is_turkey": false,
+      "notes": "Abbott World Marathon Majors"
     }
   ]
 }
